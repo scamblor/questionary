@@ -19,12 +19,12 @@
     - Light Bulb
     - Electric Motor
 
-- Title: Identify the Button n.o.
+- Title: Identify the Pushbutton n.o.
   Question: What is the component of the image?
   Image: images/electric-simbolo-pulsador-na.png
   Image_width: 180
   Choices:
-    - Button n.o.
+    - Pushbutton n.o.
     - Switch n.o.
     - Two way Switch n.o.
     - Battery
@@ -36,7 +36,7 @@
   Choices:
     - Switch
     - Two way Switch
-    - Button
+    - Pushbutton
     - Botón
 
 - Title: Identify the Two way Switch
@@ -46,7 +46,7 @@
   Choices:
     - Two way Switch
     - Switch
-    - Button
+    - Pushbutton
     - Fuse
 
 - Title: Identify the Resistor 1
@@ -149,12 +149,12 @@
     - Generator
     - Relay
 
-- Title: Identify the Button n.c.
+- Title: Identify the Pushbutton n.c.
   Question: What is the component of the image?
   Image: images/electric-simbolo-pulsador-nc.png
   Image_width: 180
   Choices:
-    - Button n.c.
+    - Pushbutton n.c.
     - Switch n.c.
     - Distributor
     - Battery
@@ -227,7 +227,7 @@
     - Relay
     - Coil
     - Double Switch
-    - Double Button
+    - Double Pushbutton
 
 - Title: Identify the Coil
   Question: What is the component of the image?
@@ -236,7 +236,7 @@
   Choices:
     - Coil
     - Cable
-    - Round Button
+    - Round Pushbutton
     - Fingers
 
 - Title: Identify the Capacitor
@@ -286,8 +286,8 @@
   Choices:
     - Limit Switch
     - Switch
-    - Button
-    - Button n.o.
+    - Pushbutton
+    - Pushbutton n.o.
 
 - Title: Identify the Crossover cable not connected
   Question: What is the component of the image?

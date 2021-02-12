@@ -20,11 +20,11 @@
     "choice4": "Electric Motor"
   },
   {
-    "title": "Identify the Button n.o.",
+    "title": "Identify the Pushbutton n.o.",
     "question": "What is the component of the image?",
     "image": "images/1df5486692ac4cdfa480.png",
     "image_width": "180",
-    "choice1": "Button n.o.",
+    "choice1": "Pushbutton n.o.",
     "choice2": "Switch n.o.",
     "choice3": "Two way Switch n.o.",
     "choice4": "Battery"
@@ -36,7 +36,7 @@
     "image_width": "180",
     "choice1": "Switch",
     "choice2": "Two way Switch",
-    "choice3": "Button",
+    "choice3": "Pushbutton",
     "choice4": "Botón"
   },
   {
@@ -46,7 +46,7 @@
     "image_width": "180",
     "choice1": "Two way Switch",
     "choice2": "Switch",
-    "choice3": "Button",
+    "choice3": "Pushbutton",
     "choice4": "Fuse"
   },
   {
@@ -150,11 +150,11 @@
     "choice4": "Relay"
   },
   {
-    "title": "Identify the Button n.c.",
+    "title": "Identify the Pushbutton n.c.",
     "question": "What is the component of the image?",
     "image": "images/3c07dd82070680ac94ec.png",
     "image_width": "180",
-    "choice1": "Button n.c.",
+    "choice1": "Pushbutton n.c.",
     "choice2": "Switch n.c.",
     "choice3": "Distributor",
     "choice4": "Battery"
@@ -227,7 +227,7 @@
     "choice1": "Relay",
     "choice2": "Coil",
     "choice3": "Double Switch",
-    "choice4": "Double Button"
+    "choice4": "Double Pushbutton"
   },
   {
     "title": "Identify the Coil",
@@ -236,7 +236,7 @@
     "image_width": "180",
     "choice1": "Coil",
     "choice2": "Cable",
-    "choice3": "Round Button",
+    "choice3": "Round Pushbutton",
     "choice4": "Fingers"
   },
   {
@@ -286,8 +286,8 @@
     "image_width": "180",
     "choice1": "Limit Switch",
     "choice2": "Switch",
-    "choice3": "Button",
-    "choice4": "Button n.o."
+    "choice3": "Pushbutton",
+    "choice4": "Pushbutton n.o."
   },
   {
     "title": "Identify the Crossover cable not connected",
