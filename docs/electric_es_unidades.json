@@ -1,0 +1,101 @@
+﻿[
+  {
+    "title": "¿Cuántos ohmios son 13 KΩ?",
+    "question": "¿Cuántos ohmios son 13 KΩ?",
+    "image": "",
+    "choice1": "13000 Ω",
+    "choice2": "1300 Ω",
+    "choice3": "130 Ω",
+    "choice4": "13 Ω"
+  },
+  {
+    "title": "¿Cuántos ohmios son 2,2 KΩ?",
+    "question": "¿Cuántos ohmios son 2,2 KΩ?",
+    "image": "",
+    "choice1": "2200 Ω",
+    "choice2": "22000 Ω",
+    "choice3": "220000 Ω",
+    "choice4": "220 Ω"
+  },
+  {
+    "title": "¿Cuántos ohmios son 47 KΩ?",
+    "question": "¿Cuántos ohmios son 47 KΩ?",
+    "image": "",
+    "choice1": "47000 Ω",
+    "choice2": "4700 Ω",
+    "choice3": "470 Ω",
+    "choice4": "4,7 Ω"
+  },
+  {
+    "title": "¿Cuántos ohmios son 0,33 KΩ?",
+    "question": "¿Cuántos ohmios son 0,33 KΩ?",
+    "image": "",
+    "choice1": "330 Ω",
+    "choice2": "3300 Ω",
+    "choice3": "33000 Ω",
+    "choice4": "33 Ω"
+  },
+  {
+    "title": "¿Cuántos KΩ son 4700 Ω?",
+    "question": "¿Cuántos KΩ son 4700 Ω?",
+    "image": "",
+    "choice1": "4,7 KΩ",
+    "choice2": "47 KΩ",
+    "choice3": "470 KΩ",
+    "choice4": "0,47 KΩ"
+  },
+  {
+    "title": "¿Cuántos KΩ son 100.000 Ω?",
+    "question": "¿Cuántos KΩ son 100.000 Ω?",
+    "image": "",
+    "choice1": "100 KΩ",
+    "choice2": "10 KΩ",
+    "choice3": "1000 KΩ",
+    "choice4": "1 KΩ"
+  },
+  {
+    "title": "¿Cuántos KΩ son 680 Ω?",
+    "question": "¿Cuántos KΩ son 680 Ω?",
+    "image": "",
+    "choice1": "0,68 KΩ",
+    "choice2": "6,8 KΩ",
+    "choice3": "0,068 KΩ",
+    "choice4": "0,0068 KΩ"
+  },
+  {
+    "title": "¿Cuántos microfaradios tendrá un faradio?",
+    "question": "¿Cuántos microfaradios tendrá un faradio?",
+    "image": "",
+    "choice1": "1.000.000 uF",
+    "choice2": "10.000.000 uF",
+    "choice3": "1000 uF",
+    "choice4": "1E-06 uF"
+  },
+  {
+    "title": "¿Cuántos faradios es un microfaradio?",
+    "question": "¿Cuántos faradios es un microfaradio?",
+    "image": "",
+    "choice1": "1E-06 F",
+    "choice2": "1E-07 F",
+    "choice3": "1.000.000 F",
+    "choice4": "0,1 F"
+  },
+  {
+    "title": "¿Cuántos microfaradios son 0,01 F?",
+    "question": "¿Cuántos microfaradios son 0,01 F?",
+    "image": "",
+    "choice1": "10.000 uF",
+    "choice2": "1.000 uF",
+    "choice3": "100.000 uF",
+    "choice4": "1.000.000 uF"
+  },
+  {
+    "title": "¿Cuántos faradios son 220 µF?",
+    "question": "¿Cuántos faradios son 220 µF?",
+    "image": "",
+    "choice1": "0,00022 F",
+    "choice2": "0,0022 F",
+    "choice3": "0,022 F",
+    "choice4": "0,22 F"
+  }
+]

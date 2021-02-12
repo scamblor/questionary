@@ -1,0 +1,8 @@
+Question;Image;Choice_1;Choice_2;Choice_3;Choice_4;Block
+"Cal será a voltaxe no punto -a-?";"images/voltEnA644.png";"3V";"6V";"4V";"Non se pode saber sen o dato da intensidade";"electric_gal_lei_ohm"
+"Cal será a voltaxe no punto -a-?";"images/voltEnA60044.png";"300V";"3V";"400V";"150V";"electric_gal_lei_ohm"
+"Cal será a voltaxe no punto -a-?";"images/voltEnA622.png";"3V";"6V";"2V";"4V";"electric_gal_lei_ohm"
+"Cal será a voltaxe no punto -a-?";"images/voltEnA62K2K.png";"3V";"3KV";"0,003V";"0,00003V";"electric_gal_lei_ohm"
+"Cal será a voltaxe no punto -a-?";"images/voltEnA61K1.png";"Case cero voltios";"Case 6V";"Sobre 3V";"máis de 6V";"electric_gal_lei_ohm"
+"Cal será a voltaxe no punto -a-?";"images/voltEnA611K.png";"Case 6V";"Case 0V";"Sobre 3V";"máis de 6V";"electric_gal_lei_ohm"
+"Cal será a voltaxe no punto -a-?";"images/voltEnA642.png";"2V";"4V";"3V";"6V";"electric_gal_lei_ohm"

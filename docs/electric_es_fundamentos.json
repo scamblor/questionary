@@ -1,0 +1,461 @@
+﻿[
+  {
+    "title": "¿Qué quiere decir que la electricidad es un fenómeno natural?",
+    "question": "¿Qué quiere decir que la electricidad es un fenómeno natural?",
+    "image": "",
+    "choice1": "Que no ha sido inventada",
+    "choice2": "Que se inventó hace muchísimo tiempo",
+    "choice3": "Que no se puede generar artificialmente",
+    "choice4": "Que es ecológica"
+  },
+  {
+    "title": "La electricidad y el magnetismo son dos _______ del mismo fenómeno, el electromagnetismo",
+    "question": "La electricidad y el magnetismo son dos _______ del mismo fenómeno, el electromagnetismo",
+    "image": "",
+    "choice1": "Manifestaciones",
+    "choice2": "Efectos",
+    "choice3": "Fuerzas",
+    "choice4": "Magnitudes"
+  },
+  {
+    "title": "La palabra electricidad viene del griego elektron, qué significa...",
+    "question": "La palabra electricidad viene del griego elektron, qué significa...",
+    "image": "",
+    "choice1": "Ámbar",
+    "choice2": "electricidad",
+    "choice3": "Imán",
+    "choice4": "Relámpago"
+  },
+  {
+    "title": "¿Cómo se llamaba el griego que le dio nombre a la electricidad?",
+    "question": "¿Cómo se llamaba el griego que le dio nombre a la electricidad?",
+    "image": "",
+    "choice1": "Tales",
+    "choice2": "Pitágoras",
+    "choice3": "Theodorakis",
+    "choice4": "Aristóteles"
+  },
+  {
+    "title": "¿Cuándo se le puso nombre a la electricidad y comenzaron a estudiarse sus efectos?",
+    "question": "¿Cuándo se le puso nombre a la electricidad y comenzaron a estudiarse sus efectos?",
+    "image": "",
+    "choice1": "Alrededor del año 600 AC, con la civilización griega",
+    "choice2": "A finales del XVIII, con la revolución científica",
+    "choice3": "A finales del siglo XIX, con la lámpara eléctrica",
+    "choice4": "En el siglo XV, con la pila de Volta"
+  },
+  {
+    "title": "¿Cuándo decimos que comienza el uso comercial de la electricidad?",
+    "question": "¿Cuándo decimos que comienza el uso comercial de la electricidad?",
+    "image": "",
+    "choice1": "A finales del siglo XIX, con la lámpara eléctrica",
+    "choice2": "En la antigua Grecia",
+    "choice3": "Con la Revolución Científica, a finales del siglo XVIII",
+    "choice4": "A mediados del siglo XX, con la invención del transistor"
+  },
+  {
+    "title": "La experimentación científica con la electricidad comenzó, aproximadamente...",
+    "question": "La experimentación científica con la electricidad comenzó, aproximadamente...",
+    "image": "",
+    "choice1": "A finales del siglo XVIII",
+    "choice2": "A finales del siglo XIX",
+    "choice3": "A principios del siglo XX",
+    "choice4": "A finales del siglo XVII"
+  },
+  {
+    "title": "¿Qué hecho histórico coincidió en el tiempo, aproximadamente, con el comienzo de la experimentación científica con la electricidad?",
+    "question": "¿Qué hecho histórico coincidió en el tiempo, aproximadamente, con el comienzo de la experimentación científica con la electricidad?",
+    "image": "",
+    "choice1": "La Revolución Francesa",
+    "choice2": "El Descubrimiento de América",
+    "choice3": "La llegada del hombre a la Luna",
+    "choice4": "La fundación del Imperio Romano"
+  },
+  {
+    "title": "¿Cuál no pertenece a la época de la revolución científica?",
+    "question": "¿Cuál no pertenece a la época de la revolución científica?",
+    "image": "",
+    "choice1": "Edison",
+    "choice2": "Galvani",
+    "choice3": "Volta",
+    "choice4": "Faraday"
+  },
+  {
+    "title": "¿Con qué descubrimiento decimos que comenzó el uso de la electricidad de manera comercial?",
+    "question": "¿Con qué descubrimiento decimos que comenzó el uso de la electricidad de manera comercial?",
+    "image": "",
+    "choice1": "La lámpara eléctrica",
+    "choice2": "La pila de Volta",
+    "choice3": "El ámbar frotado contra algún tejido",
+    "choice4": "El transistor"
+  },
+  {
+    "title": "La implantación y desarrollo comercial de la electricidad comenzaron con la lámpara eléctrica...",
+    "question": "La implantación y desarrollo comercial de la electricidad comenzaron con la lámpara eléctrica...",
+    "image": "",
+    "choice1": "A finales del siglo XIX",
+    "choice2": "A comienzos del siglo XX",
+    "choice3": "A mediados del siglo XX",
+    "choice4": "A comienzos del siglo XIX"
+  },
+  {
+    "title": "La era de la información y la comunicación también se desarrolla sobre la electricidad y el componente fundamental sobre el que se asienta es...",
+    "question": "La era de la información y la comunicación también se desarrolla sobre la electricidad y el componente fundamental sobre el que se asienta es...",
+    "image": "",
+    "choice1": "El transistor",
+    "choice2": "La lámpara eléctrica",
+    "choice3": "El electroimán",
+    "choice4": "El relé"
+  },
+  {
+    "title": "¿Cuándo está cargado un cuerpo?",
+    "question": "¿Cuándo está cargado un cuerpo?",
+    "image": "",
+    "choice1": "Cuando tiene más cargas de un signo que de otro signo",
+    "choice2": "Cuando tiene igual número de cargas positivas y negativas",
+    "choice3": "Cuando tiene más cargas positivas que negativas",
+    "choice4": "Cuando tiene más cargas negativas que positivas"
+  },
+  {
+    "title": "¿Cuándo decimos que un cuerpo está cargado?",
+    "question": "¿Cuándo decimos que un cuerpo está cargado?",
+    "image": "",
+    "choice1": "Cuando tiene más electrones que protones, o al revés",
+    "choice2": "Cuando tiene todas las cargas",
+    "choice3": "Cuando tiene más cargas de signo positivo que de signo negativo",
+    "choice4": "Cuando tiene más cargas de signo negativo que de signo positivo"
+  },
+  {
+    "title": "¿Cuál es la unidad de carga eléctrica?",
+    "question": "¿Cuál es la unidad de carga eléctrica?",
+    "image": "",
+    "choice1": "El Coulomb",
+    "choice2": "El Vatio",
+    "choice3": "El Joule",
+    "choice4": "El Amperio"
+  },
+  {
+    "title": "¿A cuánto equivale un Coulomb?",
+    "question": "¿A cuánto equivale un Coulomb?",
+    "image": "",
+    "choice1": "6,2 x 10^18 electrones",
+    "choice2": "6,2 x 10^12 electrones",
+    "choice3": "6,2 x 10^6 electrones",
+    "choice4": "6,2 x 10^3 electrones"
+  },
+  {
+    "title": "¿Qué partículas del átomo están cargadas?",
+    "question": "¿Qué partículas del átomo están cargadas?",
+    "image": "",
+    "choice1": "Los electrones, negativamente, y los protones, positivamente",
+    "choice2": "Los electrones, negativamente, y los neutrones, positivamente",
+    "choice3": "Los protones, positivamente, y los neutrones, negativamente",
+    "choice4": "Los electrones, positivamente, y los protones, negativamente"
+  },
+  {
+    "title": "¿Qué es una corriente eléctrica?",
+    "question": "¿Qué es una corriente eléctrica?",
+    "image": "",
+    "choice1": "Un flujo de electrones a través de un medio",
+    "choice2": "Un flujo de protones a través de un medio",
+    "choice3": "Un conjunto de electrones en movimiento",
+    "choice4": "Un desplazamiento de cualquier tipo de partículas eléctricas"
+  },
+  {
+    "title": "¿Qué NO es una corriente eléctrica?",
+    "question": "¿Qué NO es una corriente eléctrica?",
+    "image": "",
+    "choice1": "Un conjunto de electrones almacenados en un punto determinado",
+    "choice2": "Electrones moviéndose a través de un conductor",
+    "choice3": "Electrones que van de un polo a otro de un circuito",
+    "choice4": "Un flujo eléctrico a través de un medio"
+  },
+  {
+    "title": "¿Cuál es un material conductor?",
+    "question": "¿Cuál es un material conductor?",
+    "image": "",
+    "choice1": "El aluminio",
+    "choice2": "El agua destilada",
+    "choice3": "El aire",
+    "choice4": "El plástico"
+  },
+  {
+    "title": "¿Cuál es un material aislante?",
+    "question": "¿Cuál es un material aislante?",
+    "image": "",
+    "choice1": "El agua destilada",
+    "choice2": "El cobre",
+    "choice3": "El grafito",
+    "choice4": "El agua salada"
+  },
+  {
+    "title": "¿Cuál de estos es un material aislante?",
+    "question": "¿Cuál de estos es un material aislante?",
+    "image": "",
+    "choice1": "El vidrio",
+    "choice2": "El agua con sal",
+    "choice3": "El aluminio",
+    "choice4": "El grafito"
+  },
+  {
+    "title": "¿Cuál de estos es un material aislante?",
+    "question": "¿Cuál de estos es un material aislante?",
+    "image": "",
+    "choice1": "El plástico",
+    "choice2": "El agua con sal",
+    "choice3": "El aluminio",
+    "choice4": "El grafito"
+  },
+  {
+    "title": "Un material aislante presentará...",
+    "question": "Un material aislante presentará...",
+    "image": "",
+    "choice1": "Una resistencia muy alta",
+    "choice2": "Una resistencia muy baja",
+    "choice3": "Una conductividad muy baja",
+    "choice4": "Una corriente muy baja"
+  },
+  {
+    "title": "Un material conductor presentará...",
+    "question": "Un material conductor presentará...",
+    "image": "",
+    "choice1": "Una resistencia muy baja",
+    "choice2": "Una resistencia muy alta",
+    "choice3": "Una conductividad muy baja",
+    "choice4": "Una corriente muy alta"
+  },
+  {
+    "title": "Un material conductor presentará...",
+    "question": "Un material conductor presentará...",
+    "image": "",
+    "choice1": "Una resistencia muy baja",
+    "choice2": "Una resistencia muy alta",
+    "choice3": "Una oposición alta al paso de la corriente",
+    "choice4": "Una mala conductividad"
+  },
+  {
+    "title": "¿Qué fenómeno decimos que es otra expresión de la electricidad?",
+    "question": "¿Qué fenómeno decimos que es otra expresión de la electricidad?",
+    "image": "",
+    "choice1": "El magnetismo",
+    "choice2": "El calor",
+    "choice3": "La luz",
+    "choice4": "El movimiento"
+  },
+  {
+    "title": "¿Cuál de los siguientes dispositivos eléctricos NO produce ningún movimiento?",
+    "question": "¿Cuál de los siguientes dispositivos eléctricos NO produce ningún movimiento?",
+    "image": "",
+    "choice1": "Un LED",
+    "choice2": "Un motor",
+    "choice3": "Un altavoz",
+    "choice4": "Un actuador lineal"
+  },
+  {
+    "title": "Un motor eléctrico por el que pasa una corriente produce...",
+    "question": "Un motor eléctrico por el que pasa una corriente produce...",
+    "image": "",
+    "choice1": "Movimiento y calor",
+    "choice2": "Movimiento",
+    "choice3": "Calor",
+    "choice4": "Electromagnetismo"
+  },
+  {
+    "title": "Los efectos de la corriente eléctrica que nombramos son:",
+    "question": "Los efectos de la corriente eléctrica que nombramos son:",
+    "image": "",
+    "choice1": "Luz, calor, movimiento y sonido",
+    "choice2": "Electromagnetismo, luz, calor y movimiento",
+    "choice3": "Electroluminiscencia, calor, movimiento y sonido",
+    "choice4": "Energía, movimiento, calor y sonido"
+  },
+  {
+    "title": "Siempre que hay una corriente eléctrica, se produce...",
+    "question": "Siempre que hay una corriente eléctrica, se produce...",
+    "image": "",
+    "choice1": "Calor",
+    "choice2": "Resistencia eléctrica",
+    "choice3": "Voltaje",
+    "choice4": "Carga eléctrica"
+  },
+  {
+    "title": "¿Cuál no se corresponde con la corriente continua?",
+    "question": "¿Cuál no se corresponde con la corriente continua?",
+    "image": "",
+    "choice1": "Solemos manejar grandes voltajes con ella",
+    "choice2": "Siempre tiene el mismo sentido",
+    "choice3": "Es la que proporcionan las baterías y pilas",
+    "choice4": "Podemos obtenerla de adaptadores de red"
+  },
+  {
+    "title": "¿Cuál NO se corresponde con la corriente alterna?",
+    "question": "¿Cuál NO se corresponde con la corriente alterna?",
+    "image": "",
+    "choice1": "Es la que nos dan las pilas y baterías",
+    "choice2": "Cambia continuamente de sentido",
+    "choice3": "Es la que viene de la red, es decir, de los enchufes",
+    "choice4": "Solemos manejar voltajes mayores que con la corriente continua"
+  },
+  {
+    "title": "¿Qué aparato funciona con Corriente Alterna?",
+    "question": "¿Qué aparato funciona con Corriente Alterna?",
+    "image": "",
+    "choice1": "Lavadora",
+    "choice2": "Ordenador",
+    "choice3": "Reloj digital",
+    "choice4": "Teléfono móvil"
+  },
+  {
+    "title": "¿Cuál de estos aparatos funciona con corriente continua?",
+    "question": "¿Cuál de estos aparatos funciona con corriente continua?",
+    "image": "",
+    "choice1": "Un teléfono móvil",
+    "choice2": "Un secador del pelo",
+    "choice3": "Una impresora",
+    "choice4": "Una lavadora"
+  },
+  {
+    "title": "¿Cuál NO se corresponde con la corriente alterna?",
+    "question": "¿Cuál NO se corresponde con la corriente alterna?",
+    "image": "",
+    "choice1": "Solemos manejar voltajes menores que con la corriente continua",
+    "choice2": "Cambia continuamente de sentido",
+    "choice3": "La podemos obtener de la red, es decir, en los enchufes",
+    "choice4": "Podemos obtenerla a partir de corriente continua gracias a un adaptador"
+  },
+  {
+    "title": "¿Cuál NO se corresponde con la corriente continua?",
+    "question": "¿Cuál NO se corresponde con la corriente continua?",
+    "image": "",
+    "choice1": "Solemos manejar grandes voltajes con ella",
+    "choice2": "Siempre tiene el mismo sentido",
+    "choice3": "Es la que nos dan las pilas y baterías",
+    "choice4": "La podemos obtener de la red gracias a los adaptadores de corriente"
+  },
+  {
+    "title": "¿Qué nos indica el Voltaje de un generador?",
+    "question": "¿Qué nos indica el Voltaje de un generador?",
+    "image": "",
+    "choice1": "La energía que nos puede proporcionar cada unidad de carga",
+    "choice2": "La oposición que este ejercerá frente al corriente que lo atraviesa",
+    "choice3": "Que cantidad de electrones nos dará en una unidad de tiempo",
+    "choice4": "La energía que nos proporcionará ese generador por unidad de tiempo"
+  },
+  {
+    "title": "¿Qué nos indica el voltaje de una pila?",
+    "question": "¿Qué nos indica el voltaje de una pila?",
+    "image": "",
+    "choice1": "La energía que nos podrá proporcionar cada unidad de carga de esa pila",
+    "choice2": "La cantidad de electrones por segundo que podrán salir de esa pila",
+    "choice3": "La potencia eléctrica que desarrollará esa pila en un circuito eléctrico",
+    "choice4": "La cantidad de electrones que hay almacenados en esa pila, es decir, su carga."
+  },
+  {
+    "title": "¿Qué frase estaría bien expresada?",
+    "question": "¿Qué frase estaría bien expresada?",
+    "image": "",
+    "choice1": "Por favor, mide la intensidad que pasa por ese cable",
+    "choice2": "Por favor, mide el voltaje que pasa por ese cable",
+    "choice3": "Por favor, mide la resistencia que pasa por ese cable",
+    "choice4": "Por favor, mide la potencia que pasa por ese cable"
+  },
+  {
+    "title": "¿Qué es la Intensidad de una corriente?",
+    "question": "¿Qué es la Intensidad de una corriente?",
+    "image": "",
+    "choice1": "La cantidad de electrones que pasan por un punto en un tiempo determinado",
+    "choice2": "La energía de esa corriente",
+    "choice3": "La oposición que presenta un material a ser atravesado por los electrones",
+    "choice4": "La energía producida por los electrones al atravesar un componente determinado"
+  },
+  {
+    "title": "Sí por un circuito pasan 5.000.000 electrones en 1 segundo, ¿qué intensidad estará pasando?",
+    "question": "Sí por un circuito pasan 5.000.000 electrones en 1 segundo, ¿qué intensidad estará pasando?",
+    "image": "",
+    "choice1": "Mucho menos de un amperio",
+    "choice2": "Muchísimos amperios",
+    "choice3": "Pocos amperios",
+    "choice4": "Un amperio"
+  },
+  {
+    "title": "Si por un circuito pasa un amperio ¿Cuántos electrones estarán circulando por él?",
+    "question": "Si por un circuito pasa un amperio ¿Cuántos electrones estarán circulando por él?",
+    "image": "",
+    "choice1": "Trillones cada segundo",
+    "choice2": "Miles",
+    "choice3": "Millones",
+    "choice4": "Trillones"
+  },
+  {
+    "title": "¿Qué es la Resistencia de un elemento?",
+    "question": "¿Qué es la Resistencia de un elemento?",
+    "image": "",
+    "choice1": "La oposición que presenta un cuerpo a ser atravesado por los electrones",
+    "choice2": "Un indicador de la facilidad con la que la corriente atraviesa un cuerpo",
+    "choice3": "La cantidad de calor que genera un componente al ser atravesado por la corriente eléctrica",
+    "choice4": "La energía eléctrica que pierde un componente en un circuito al ser atravesado por una corriente"
+  },
+  {
+    "title": "¿Qué potencia eléctrica generará un componente que funcione a 3V y 2A?",
+    "question": "¿Qué potencia eléctrica generará un componente que funcione a 3V y 2A?",
+    "image": "",
+    "choice1": "6W",
+    "choice2": "5W",
+    "choice3": "1,5W",
+    "choice4": "0,67W"
+  },
+  {
+    "title": "¿Qué calor nos dará un circuito durante 10 segundos, si el voltaje es de 9 V y la intensidad de 2A?",
+    "question": "¿Qué calor nos dará un circuito durante 10 segundos, si el voltaje es de 9 V y la intensidad de 2A?",
+    "image": "",
+    "choice1": "180J",
+    "choice2": "1,8J",
+    "choice3": "45J",
+    "choice4": "4,5J"
+  },
+  {
+    "title": "Un circuito que consume una potencia de 10 W funciona durante 5 segundos. ¿Qué energía consumió en ese tiempo?",
+    "question": "Un circuito que consume una potencia de 10 W funciona durante 5 segundos. ¿Qué energía consumió en ese tiempo?",
+    "image": "",
+    "choice1": "50J",
+    "choice2": "2J",
+    "choice3": "10J",
+    "choice4": "0,5J"
+  },
+  {
+    "title": "¿Cuál es la carga de un átomo en su estado natural?",
+    "question": "¿Cuál es la carga de un átomo en su estado natural?",
+    "image": "",
+    "choice1": "Neutra",
+    "choice2": "Positiva",
+    "choice3": "Negativa",
+    "choice4": "Depende del átomo"
+  },
+  {
+    "title": "¿Cuál es la unidad elemental de Voltaje?",
+    "question": "¿Cuál es la unidad elemental de Voltaje?",
+    "image": "",
+    "choice1": "El Voltio (V)",
+    "choice2": "El Ohmio (Ω)",
+    "choice3": "El Amperio (A)",
+    "choice4": "El Vatio (W)"
+  },
+  {
+    "title": "¿Cuál es la unidad elemental de Intensidad?",
+    "question": "¿Cuál es la unidad elemental de Intensidad?",
+    "image": "",
+    "choice1": "El Amperio (A)",
+    "choice2": "El Ohmio (Ω)",
+    "choice3": "El Voltio (V)",
+    "choice4": "El Vatio (W)"
+  },
+  {
+    "title": "¿Cuál es la unidad elemental de Resistencia?",
+    "question": "¿Cuál es la unidad elemental de Resistencia?",
+    "image": "",
+    "choice1": "El Ohmio (Ω)",
+    "choice2": "El Voltio (V)",
+    "choice3": "El Amperio (A)",
+    "choice4": "El Vatio (W)"
+  }
+]

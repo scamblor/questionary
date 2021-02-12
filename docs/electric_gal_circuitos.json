@@ -1,0 +1,782 @@
+﻿[
+  {
+    "title": "Cal delas NON corresponde a un circuíto eléctrico?",
+    "question": "Cal delas NON corresponde a un circuíto eléctrico?",
+    "image": "",
+    "choice1": "Se produce sempre que hai unha corrente eléctrica.",
+    "choice2": "Sempre ten que haber un elemento que forneza enerxía eléctrica.",
+    "choice3": "Sempre produce calor.",
+    "choice4": "Sempre haberá algunha transformación de enerxía."
+  },
+  {
+    "title": "Cales son os tipos de elementos que podo atopar nun circuíto eléctrico?",
+    "question": "Cales son os tipos de elementos que podo atopar nun circuíto eléctrico?",
+    "image": "",
+    "choice1": "Xeradores, condutores, receptores e elementos de control",
+    "choice2": "Xeradores, condutores, aparatos eléctricos e elementos de control",
+    "choice3": "Xeradores, cables, interruptores e conmutadores",
+    "choice4": "Pilas, cables, resistencias e interruptores"
+  },
+  {
+    "title": "Se xuntamos dúas pilas de 1,5V deste xeito... cal será a voltaxe total?",
+    "question": "Se xuntamos dúas pilas de 1,5V deste xeito... cal será a voltaxe total?",
+    "image": "images/5acbccce6cd709f8b2cc.png",
+    "image_width": "194",
+    "choice1": "3V",
+    "choice2": "1,5V",
+    "choice3": "0,75V",
+    "choice4": "1,33V"
+  },
+  {
+    "title": "Se xuntamos dúas resistencias de 4Ω deste xeito... cal será a súa resistencia equivalente?",
+    "question": "Se xuntamos dúas resistencias de 4Ω deste xeito... cal será a súa resistencia equivalente?",
+    "image": "images/8d6eef62becd43fb698d.png",
+    "image_width": "470",
+    "choice1": "2Ω",
+    "choice2": "4Ω",
+    "choice3": "8Ω",
+    "choice4": "3Ω"
+  },
+  {
+    "title": "Como se chaman os elementos dun circuíto que fornecen os electróns?",
+    "question": "Como se chaman os elementos dun circuíto que fornecen os electróns?",
+    "image": "",
+    "choice1": "Xeradores",
+    "choice2": "Receptores",
+    "choice3": "Condutores",
+    "choice4": "Elementos de control"
+  },
+  {
+    "title": "Como se chaman os elementos dun circuíto que transforman a electricidade noutro tipo de enerxía?",
+    "question": "Como se chaman os elementos dun circuíto que transforman a electricidade noutro tipo de enerxía?",
+    "image": "",
+    "choice1": "Receptores",
+    "choice2": "Xeradores",
+    "choice3": "Transformadores",
+    "choice4": "Elementos de control"
+  },
+  {
+    "title": "Como se chaman os elementos dun circuíto que permiten o paso da corrente entre un compoñente e outro?",
+    "question": "Como se chaman os elementos dun circuíto que permiten o paso da corrente entre un compoñente e outro?",
+    "image": "",
+    "choice1": "Condutores",
+    "choice2": "Xeradores",
+    "choice3": "Elementos de control",
+    "choice4": "Receptores"
+  },
+  {
+    "title": "Como se chaman os elementos dun circuíto que nos permiten facer que a corrente circule por onde nós queremos?",
+    "question": "Como se chaman os elementos dun circuíto que nos permiten facer que a corrente circule por onde nós queremos?",
+    "image": "",
+    "choice1": "Elementos de control",
+    "choice2": "Xeradores",
+    "choice3": "Condutores",
+    "choice4": "Receptores"
+  },
+  {
+    "title": "Cal non é un xerador?",
+    "question": "Cal non é un xerador?",
+    "image": "",
+    "choice1": "Motor",
+    "choice2": "Pila",
+    "choice3": "Batería",
+    "choice4": "Toma de rede"
+  },
+  {
+    "title": "Cal consideramos un condutor?",
+    "question": "Cal consideramos un condutor?",
+    "image": "",
+    "choice1": "Cable",
+    "choice2": "Interruptor",
+    "choice3": "Pulsador",
+    "choice4": "Aluminio"
+  },
+  {
+    "title": "Cal non sería un receptor?",
+    "question": "Cal non sería un receptor?",
+    "image": "",
+    "choice1": "Pila",
+    "choice2": "Motor",
+    "choice3": "Lámpada",
+    "choice4": "Resistencia"
+  },
+  {
+    "title": "Cal non é un elemento de control?",
+    "question": "Cal non é un elemento de control?",
+    "image": "",
+    "choice1": "Cable",
+    "choice2": "Interruptor",
+    "choice3": "Pulsador",
+    "choice4": "Conmutador"
+  },
+  {
+    "title": "A que compoñente se corresponde o símbolo da figura?",
+    "question": "A que compoñente se corresponde o símbolo da figura?",
+    "image": "images/d0aa77fe944f9d4f5e0a.png",
+    "image_width": "351",
+    "choice1": "Batería ou pila",
+    "choice2": "Xerador de corrente alterna",
+    "choice3": "Motor",
+    "choice4": "Toma de terra"
+  },
+  {
+    "title": "A que compoñente se corresponde o símbolo da figura?",
+    "question": "A que compoñente se corresponde o símbolo da figura?",
+    "image": "images/08c83042bf8b6f7859e2.png",
+    "image_width": "429",
+    "choice1": "Xerador de corrente alterna",
+    "choice2": "Batería ou pila",
+    "choice3": "Lámpada",
+    "choice4": "Motor eléctrico"
+  },
+  {
+    "title": "A que compoñente se corresponde o símbolo da figura?",
+    "question": "A que compoñente se corresponde o símbolo da figura?",
+    "image": "images/63296eb50771de21cbd4.png",
+    "image_width": "498",
+    "choice1": "pulsador",
+    "choice2": "interruptor",
+    "choice3": "conmutador",
+    "choice4": "pila"
+  },
+  {
+    "title": "A que compoñente se corresponde o símbolo da figura?",
+    "question": "A que compoñente se corresponde o símbolo da figura?",
+    "image": "images/cbd7e509a2e68df22f76.png",
+    "image_width": "498",
+    "choice1": "interruptor",
+    "choice2": "conmutador",
+    "choice3": "pulsador",
+    "choice4": "botón"
+  },
+  {
+    "title": "A que compoñente se corresponde o símbolo da figura?",
+    "question": "A que compoñente se corresponde o símbolo da figura?",
+    "image": "images/4a565e40584fd7ca803d.png",
+    "image_width": "498",
+    "choice1": "conmutador",
+    "choice2": "interruptor",
+    "choice3": "pulsador",
+    "choice4": "fusible"
+  },
+  {
+    "title": "A que compoñente se corresponde o símbolo da figura?",
+    "question": "A que compoñente se corresponde o símbolo da figura?",
+    "image": "images/a253472013b001d135ae.png",
+    "image_width": "498",
+    "choice1": "resistencia",
+    "choice2": "pila",
+    "choice3": "lámpada",
+    "choice4": "interruptor"
+  },
+  {
+    "title": "A que compoñente se corresponde o símbolo da figura?",
+    "question": "A que compoñente se corresponde o símbolo da figura?",
+    "image": "images/d1873c59208036e26f60.png",
+    "image_width": "498",
+    "choice1": "resistencia",
+    "choice2": "lámpada",
+    "choice3": "pila",
+    "choice4": "interruptor"
+  },
+  {
+    "title": "A que compoñente se corresponde o símbolo da figura?",
+    "question": "A que compoñente se corresponde o símbolo da figura?",
+    "image": "images/243e6fc85d950981618f.png",
+    "image_width": "498",
+    "choice1": "LED",
+    "choice2": "lámpada",
+    "choice3": "Altofalante",
+    "choice4": "Motor"
+  },
+  {
+    "title": "A que compoñente se corresponde o símbolo da figura?",
+    "question": "A que compoñente se corresponde o símbolo da figura?",
+    "image": "images/46336d1f3275e9873c2c.png",
+    "image_width": "498",
+    "choice1": "Lámpada",
+    "choice2": "LED",
+    "choice3": "Motor",
+    "choice4": "Patrulla X"
+  },
+  {
+    "title": "A que compoñente se corresponde o símbolo da figura?",
+    "question": "A que compoñente se corresponde o símbolo da figura?",
+    "image": "images/ac893b9d912f2953ae5f.png",
+    "image_width": "498",
+    "choice1": "zoador",
+    "choice2": "altofalante",
+    "choice3": "motor",
+    "choice4": "Xerador Alterna"
+  },
+  {
+    "title": "A que compoñente se corresponde o símbolo da figura?",
+    "question": "A que compoñente se corresponde o símbolo da figura?",
+    "image": "images/0e3623631aff3c029202.png",
+    "image_width": "498",
+    "choice1": "altofalante",
+    "choice2": "zoador",
+    "choice3": "xerador alterna",
+    "choice4": "Xerador de continua"
+  },
+  {
+    "title": "A que compoñente se corresponde o símbolo da figura?",
+    "question": "A que compoñente se corresponde o símbolo da figura?",
+    "image": "images/5b66e2d7fd01209155d6.png",
+    "image_width": "498",
+    "choice1": "motor",
+    "choice2": "zoador",
+    "choice3": "watiímetro",
+    "choice4": "lámpada"
+  },
+  {
+    "title": "A que compoñente se corresponde o símbolo da figura?",
+    "question": "A que compoñente se corresponde o símbolo da figura?",
+    "image": "images/af6aa071c5324b8cea70.png",
+    "image_width": "526",
+    "choice1": "terra",
+    "choice2": "pila",
+    "choice3": "antena",
+    "choice4": "receptor"
+  },
+  {
+    "title": "Como están conectadas as resistencias da figura?",
+    "question": "Como están conectadas as resistencias da figura?",
+    "image": "images/7781fc268d85499f45be.png",
+    "image_width": "400",
+    "choice1": "Serie",
+    "choice2": "Liña",
+    "choice3": "Paralelo",
+    "choice4": "Mixto"
+  },
+  {
+    "title": "Como están conectadas as resistencias da figura?",
+    "question": "Como están conectadas as resistencias da figura?",
+    "image": "images/ab02bf0c066cd742ef58.png",
+    "image_width": "498",
+    "choice1": "Paralelo",
+    "choice2": "lateral",
+    "choice3": "Serie",
+    "choice4": "mixto"
+  },
+  {
+    "title": "Como están conectadas as resistencias da figura?",
+    "question": "Como están conectadas as resistencias da figura?",
+    "image": "images/7ab0951e2dc37ddfa183.png",
+    "image_width": "498",
+    "choice1": "Mixto",
+    "choice2": "Paralelo",
+    "choice3": "Serie",
+    "choice4": "composto"
+  },
+  {
+    "title": "Cal será a voltaxe total das tres pilas?",
+    "question": "Cal será a voltaxe total das tres pilas?",
+    "image": "images/82cbc29dee0a9fc7723f.png",
+    "image_width": "498",
+    "choice1": "6V",
+    "choice2": "2V",
+    "choice3": "2/3V",
+    "choice4": "8V"
+  },
+  {
+    "title": "Cal será a voltaxe total das tres pilas?",
+    "question": "Cal será a voltaxe total das tres pilas?",
+    "image": "images/35119b1a46da67166551.png",
+    "image_width": "498",
+    "choice1": "2V",
+    "choice2": "6V",
+    "choice3": "2/3V",
+    "choice4": "8V"
+  },
+  {
+    "title": "Cal será o valor da resistencia equivalente?",
+    "question": "Cal será o valor da resistencia equivalente?",
+    "image": "images/1e857257a66fbca41290.png",
+    "image_width": "500",
+    "choice1": "7Ω",
+    "choice2": "12Ω",
+    "choice3": "6/8Ω",
+    "choice4": "8/6Ω"
+  },
+  {
+    "title": "Cal será o valor da resistencia equivalente?",
+    "question": "Cal será o valor da resistencia equivalente?",
+    "image": "images/ea3f8a8b0483159cc93d.png",
+    "image_width": "500",
+    "choice1": "2Ω",
+    "choice2": "18Ω",
+    "choice3": "0,5Ω",
+    "choice4": "3/6Ω"
+  },
+  {
+    "title": "Cal será o valor da resistencia equivalente?",
+    "question": "Cal será o valor da resistencia equivalente?",
+    "image": "images/b91ccc5fe2294c0b78ae.png",
+    "image_width": "500",
+    "choice1": "4/5Ω",
+    "choice2": "5/4Ω",
+    "choice3": "3/8Ω",
+    "choice4": "8/3Ω"
+  },
+  {
+    "title": "Cal será o valor da resistencia equivalente?",
+    "question": "Cal será o valor da resistencia equivalente?",
+    "image": "images/e0dfaae83f568719c735.png",
+    "image_width": "500",
+    "choice1": "2Ω",
+    "choice2": "0,5Ω",
+    "choice3": "9Ω",
+    "choice4": "3Ω"
+  },
+  {
+    "title": "Cal será o valor da resistencia equivalente?",
+    "question": "Cal será o valor da resistencia equivalente?",
+    "image": "images/c073d3f67dc681529ca3.png",
+    "image_width": "500",
+    "choice1": "5Ω",
+    "choice2": "8Ω",
+    "choice3": "4Ω",
+    "choice4": "6Ω"
+  },
+  {
+    "title": "Cal será o valor da resistencia equivalente?",
+    "question": "Cal será o valor da resistencia equivalente?",
+    "image": "images/e4dc9fb0ac4293a863f3.png",
+    "image_width": "500",
+    "choice1": "6Ω",
+    "choice2": "13Ω",
+    "choice3": "4,5Ω",
+    "choice4": "3Ω"
+  },
+  {
+    "title": "Cal será o valor da resistencia equivalente?",
+    "question": "Cal será o valor da resistencia equivalente?",
+    "image": "images/6c72e9832e287e5c591d.png",
+    "image_width": "500",
+    "choice1": "5Ω",
+    "choice2": "20Ω",
+    "choice3": "1,2Ω",
+    "choice4": "10Ω"
+  },
+  {
+    "title": "Que diferencias de funcionamento haberá entre o circuíto 1 e 2?",
+    "question": "Que diferencias de funcionamento haberá entre o circuíto 1 e 2?",
+    "image": "images/2c8a871f50d9f274a863.png",
+    "image_width": "500",
+    "choice1": "Ningunha",
+    "choice2": "No circuíto 2, o led acende aínda que non cerremos o interruptor",
+    "choice3": "Os dous leds acenden ao premer o interruptor, pero o 2 un chisco antes",
+    "choice4": "Os dous leds acenden ao premer o interruptor, pero o 1 un chisco antes"
+  },
+  {
+    "title": "Cal é falsa, para o circuíto da figura?",
+    "question": "Cal é falsa, para o circuíto da figura?",
+    "image": "images/7be7031192dac7d484fa.png",
+    "image_width": "500",
+    "choice1": "O led -a- acenderá un chisco antes que o -b-",
+    "choice2": "A intensidade que circula polos dous leds é a mesma",
+    "choice3": "Os dous leds acenderán ao premer o interruptor",
+    "choice4": "Se o led -b- se queima, o -a- deixará de funcionar"
+  },
+  {
+    "title": "Cal é falsa, para o circuíto da figura?",
+    "question": "Cal é falsa, para o circuíto da figura?",
+    "image": "images/5e88f8ce559c712ec39c.png",
+    "image_width": "500",
+    "choice1": "As dúas resistencias están sometidas á mesma voltaxe",
+    "choice2": "Se o interruptor pecha, pasará intensidade polas dúas resistencias",
+    "choice3": "Polas dúas resistencias pasará sempre a mesma intensidade",
+    "choice4": "Se desconecto a resistencia -b- non pasará corrente polo circuíto"
+  },
+  {
+    "title": "Cal é falsa, para o circuíto da figura?",
+    "question": "Cal é falsa, para o circuíto da figura?",
+    "image": "images/8d6eef62becd43fb698d.png",
+    "image_width": "470",
+    "choice1": "A intensidade que pasa polas dúas resistencias é a mesma",
+    "choice2": "As dúas resistencias están sometidas á mesma voltaxe",
+    "choice3": "Se desconecto a resistencia -a-, seguirá a pasar corrente pola -b-",
+    "choice4": "A intensidade total do circuíto será a suma da intensidade por -a- e a intensidade por -b-"
+  },
+  {
+    "title": "Que será certo para a intensidade que pasa pola resistencia -a-?",
+    "question": "Que será certo para a intensidade que pasa pola resistencia -a-?",
+    "image": "images/8d6eef62becd43fb698d.png",
+    "image_width": "470",
+    "choice1": "Pasará o doble de intensidade que pola resistencia -b-",
+    "choice2": "Pasará a mesma intensidade que pola resitencia -b-",
+    "choice3": "Pasará a metade de intensidade que pola resistencia -b-",
+    "choice4": "Por ela pasará a metade da intensidade total do circuíto"
+  },
+  {
+    "title": "Por cal resistencia pasará máis intensidade?",
+    "question": "Por cal resistencia pasará máis intensidade?",
+    "image": "images/ab02bf0c066cd742ef58.png",
+    "image_width": "498",
+    "choice1": "Pola -a-",
+    "choice2": "Pola -b-",
+    "choice3": "Pola -c-",
+    "choice4": "Por todas pasará a mesma"
+  },
+  {
+    "title": "Que pasará neste circuíto se conecto a resistencia -c- ?",
+    "question": "Que pasará neste circuíto se conecto a resistencia -c- ?",
+    "image": "images/63892625cbe1de0c02e0.png",
+    "image_width": "500",
+    "choice1": "A intensidade total aumentará respecto a cando había dúas",
+    "choice2": "A voltaxe á que están sometidas ás resistencias disminuirá respecto a cando había dúas",
+    "choice3": "A voltaxe á que están sometidas ás resistencias aumentará respecto a cando había dúas",
+    "choice4": "A intensidade total disminuirá respecto a cando había dúas"
+  },
+  {
+    "title": "Cal é falsa, para o circuíto da figura?",
+    "question": "Cal é falsa, para o circuíto da figura?",
+    "image": "images/6f7c2d61bd465f0305b2.png",
+    "image_width": "500",
+    "choice1": "Se cerramos un ou outro interruptor, pasará corrente pola resistencia",
+    "choice2": "Se cerramos un e outro interruptor, pasará corrente pola resistencia",
+    "choice3": "Se cerramos os dous interruptores, pasará corrente pola resistencia",
+    "choice4": "Só pasará corrente pola resistencia se cerramos todos os interruptores"
+  },
+  {
+    "title": "Para que poderías empregar o circuíto da figura?",
+    "question": "Para que poderías empregar o circuíto da figura?",
+    "image": "images/597e8043f0dbbbea59da.png",
+    "image_width": "500",
+    "choice1": "Unha motoserra que actúa só cando premo dous interruptores",
+    "choice2": "Un ventilador que se acende desde dous puntos distintos",
+    "choice3": "Unha alarma que se acende desde calquera dos dous interruptores",
+    "choice4": "Un taladro que pode ser accionado cun interruptor ou con outro"
+  },
+  {
+    "title": "Cal é falsa, para o circuíto da figura?",
+    "question": "Cal é falsa, para o circuíto da figura?",
+    "image": "images/643425214347b84d1b76.png",
+    "image_width": "500",
+    "choice1": "A corrente pasará cando cerremos os dous interruptores",
+    "choice2": "Se cerramos un ou outro interruptor, pasará corrente pola resistencia",
+    "choice3": "Para que pase a corrente, podemos cerrar calquera dos dous interruptores",
+    "choice4": "A corrente pasa sempre que haxa polo menos un interruptor cerrado"
+  },
+  {
+    "title": "Cal é falsa, para o circuíto da figura?",
+    "question": "Cal é falsa, para o circuíto da figura?",
+    "image": "images/97a1b887d88899fe4e9f.png",
+    "image_width": "500",
+    "choice1": "O led -a- acenderá",
+    "choice2": "O led -a- está curtocircuitado",
+    "choice3": "A intensidade non pasará polo led -a- porque ten un camiño alternativo sen resistencia",
+    "choice4": "O led -b- acenderá"
+  },
+  {
+    "title": "Cal é certa para o circuíto da figura?",
+    "question": "Cal é certa para o circuíto da figura?",
+    "image": "images/25ea92c6ecf07f2da36c.png",
+    "image_width": "500",
+    "choice1": "Só pasará corrente pola resistencia con 1 e 2 cerrados",
+    "choice2": "Se cerro o interruptor 1 pasará corrente pola resistencia",
+    "choice3": "Se cerro o interruptor 2 pasará corrente pola resistencia",
+    "choice4": "Se cerro calquera dos dous interruptores, pasará corrente"
+  },
+  {
+    "title": "Cando pasará corrente pola resistencia?",
+    "question": "Cando pasará corrente pola resistencia?",
+    "image": "images/103fc0bfe63de9326a84.png",
+    "image_width": "500",
+    "choice1": "Só se 2 está cerrado e 1 abert",
+    "choice2": "Se cerramos 1 e 2",
+    "choice3": "Cerrando o 2, independentemente de como estea 1",
+    "choice4": "Cerrando o 2 ou o 1"
+  },
+  {
+    "title": "Como están conectadas as resistencias na breadboard?",
+    "question": "Como están conectadas as resistencias na breadboard?",
+    "image": "images/5c1122a3a7147446f96e.png",
+    "image_width": "479",
+    "choice1": "1 en paralelo, 2 en serie",
+    "choice2": "As dúas en serie",
+    "choice3": "As dúas en paralelo",
+    "choice4": "1 en serie, 2 en paralelo"
+  },
+  {
+    "title": "Como están conectadas as resistencias na breadboard?",
+    "question": "Como están conectadas as resistencias na breadboard?",
+    "image": "images/f0928c151450100d0cbc.png",
+    "image_width": "168",
+    "choice1": "As dúas en serie",
+    "choice2": "1 en serie, 2 en paralelo",
+    "choice3": "1 en paralelo, 2 en serie",
+    "choice4": "As dúas en paralelo"
+  },
+  {
+    "title": "Por que resistencias pasará corrente?",
+    "question": "Por que resistencias pasará corrente?",
+    "image": "images/052c65bfe4aaed6fac64.png",
+    "image_width": "271",
+    "choice1": "Por 1 e 2",
+    "choice2": "Por todas",
+    "choice3": "Por 2 e 3",
+    "choice4": "Por ningunha"
+  },
+  {
+    "title": "Que montaxes se corresponden co esquema?",
+    "question": "Que montaxes se corresponden co esquema?",
+    "image": "images/7ee1ae375699a7936ce1.png",
+    "image_width": "686",
+    "choice1": "1",
+    "choice2": "2",
+    "choice3": "3",
+    "choice4": "ningún"
+  },
+  {
+    "title": "Cal é falsa para o circuíto da figura?",
+    "question": "Cal é falsa para o circuíto da figura?",
+    "image": "images/fa74abea7a93af902cae.png",
+    "image_width": "500",
+    "choice1": "Podo acender -c- sen acender -a- e -b-",
+    "choice2": "Co interruptor 1 aberto, non acenderá nada",
+    "choice3": "O interruptor 1 acende -a- e -b-",
+    "choice4": "Cos dous interruptores premidos, acenden todos os leds"
+  },
+  {
+    "title": "Cando acenderá o led verde?",
+    "question": "Cando acenderá o led verde?",
+    "image": "images/3543db91223b2e7024e7.png",
+    "image_width": "452",
+    "choice1": "Se teño premidos os dous pulsadores",
+    "choice2": "Se premo o pulsador da dereita",
+    "choice3": "Se premo o pulsador da esquerda",
+    "choice4": "En ningún caso"
+  },
+  {
+    "title": "Cal é falsa para o circuíto da figura?",
+    "question": "Cal é falsa para o circuíto da figura?",
+    "image": "images/3543db91223b2e7024e7.png",
+    "image_width": "452",
+    "choice1": "Podo acender o led verde sen que acenda o led vermello",
+    "choice2": "Para acender o led verde teño que ter premido o pulsador da esquerda",
+    "choice3": "Para acender o led verde teño que ter premido o pulsador da dereita",
+    "choice4": "O led vermello acende cando premo o pulsador da dereita"
+  },
+  {
+    "title": "A que esquema se corresponde o circuíto da breadboard?",
+    "question": "A que esquema se corresponde o circuíto da breadboard?",
+    "image": "images/a208f6e67e60758d73e1.png",
+    "image_width": "457",
+    "choice1": "Ao rosa",
+    "choice2": "Ao azul",
+    "choice3": "Ao verde",
+    "choice4": "Ao laranxa"
+  },
+  {
+    "title": "Cal será certa, para o circuíto da figura?",
+    "question": "Cal será certa, para o circuíto da figura?",
+    "image": "images/ab06c8f3d830ac4684cd.png",
+    "image_width": "500",
+    "choice1": "O led acenderá se unicamente está pechado  -a-",
+    "choice2": "O led non acenderá cando  -b- estea aberto",
+    "choice3": "O led acenderá cando prema os dous interruptores",
+    "choice4": "O led acenderá ao premer -a-, estea como estea -b-"
+  },
+  {
+    "title": "Que leds acenderán?",
+    "question": "Que leds acenderán?",
+    "image": "images/f17842bdb43505310137.png",
+    "image_width": "500",
+    "choice1": "O 2,3,4 e 6",
+    "choice2": "O 1 e o 5",
+    "choice3": "Ningún",
+    "choice4": "O 3 e o 4"
+  },
+  {
+    "title": "Que leds acenderán?",
+    "question": "Que leds acenderán?",
+    "image": "images/514fe27d04e9fa116408.png",
+    "image_width": "500",
+    "choice1": "O 1 e o 3",
+    "choice2": "O 1, 3, 4 e 6",
+    "choice3": "Ningún",
+    "choice4": "Todos"
+  },
+  {
+    "title": "Que leds acenderán?",
+    "question": "Que leds acenderán?",
+    "image": "images/54a8e4aa202136337689.png",
+    "image_width": "500",
+    "choice1": "Ningún",
+    "choice2": "O 3",
+    "choice3": "O 2 e o 3",
+    "choice4": "Todos"
+  },
+  {
+    "title": "Que leds acenderán?",
+    "question": "Que leds acenderán?",
+    "image": "images/afd4b96ed3ea0da5a53d.png",
+    "image_width": "500",
+    "choice1": "O 4",
+    "choice2": "Todos",
+    "choice3": "O 1, 3 e 4",
+    "choice4": "Ningún"
+  },
+  {
+    "title": "Quero que o led acenda cando premo o pulsador. Hai algún fallo?",
+    "question": "Quero que o led acenda cando premo o pulsador. Hai algún fallo?",
+    "image": "images/98de1685e48f059c354f.png",
+    "image_width": "191",
+    "choice1": "Os cables non están nos terminais correctos do pulsador",
+    "choice2": "O led está posto do revés",
+    "choice3": "A resistencia non está conectada ao led",
+    "choice4": "Non hai fallos, vai acender"
+  },
+  {
+    "title": "Quero que o led acenda só cando premo os dous pulsadores. Hai algún fallo?",
+    "question": "Quero que o led acenda só cando premo os dous pulsadores. Hai algún fallo?",
+    "image": "images/b4676d75bb0160cb826e.png",
+    "image_width": "249",
+    "choice1": "Ningún",
+    "choice2": "O led acenderá cando prema calquera dos interruptores",
+    "choice3": "O cable verde non conecta os terminais correctos dos interruptores",
+    "choice4": "A resistencia non está conectada no terminal correcto do pulsador"
+  },
+  {
+    "title": "Que cable teño que quitar para que o led acenda desde calquera dos dous pulsadores?",
+    "question": "Que cable teño que quitar para que o led acenda desde calquera dos dous pulsadores?",
+    "image": "images/45f459b4c376963882c2.png",
+    "image_width": "242",
+    "choice1": "O laranxa",
+    "choice2": "O verde",
+    "choice3": "O azul",
+    "choice4": "O amarelo"
+  },
+  {
+    "title": "Por que circuíto circulará máis corrente?",
+    "question": "Por que circuíto circulará máis corrente?",
+    "image": "images/7b6933b4465cc6df0a23.png",
+    "image_width": "500",
+    "choice1": "Polo 1",
+    "choice2": "Polo 2",
+    "choice3": "Polo 3",
+    "choice4": "Polo 4"
+  },
+  {
+    "title": "Por que circuíto circulará máis corrente?",
+    "question": "Por que circuíto circulará máis corrente?",
+    "image": "images/564bc755b642d9514ed0.png",
+    "image_width": "500",
+    "choice1": "Polo 2",
+    "choice2": "Polo 1",
+    "choice3": "Polo 3",
+    "choice4": "Polo 4"
+  },
+  {
+    "title": "Por que circuíto circulará máis corrente?",
+    "question": "Por que circuíto circulará máis corrente?",
+    "image": "images/0b99ee59d0dd254861e3.png",
+    "image_width": "500",
+    "choice1": "Polo 3",
+    "choice2": "Polo 2",
+    "choice3": "Polo 1",
+    "choice4": "Polo 4"
+  },
+  {
+    "title": "Por que circuíto circulará máis corrente?",
+    "question": "Por que circuíto circulará máis corrente?",
+    "image": "images/16f3d51a8e0a95a0a0dd.png",
+    "image_width": "500",
+    "choice1": "Polo 2",
+    "choice2": "Polo 1",
+    "choice3": "Polo 3",
+    "choice4": "Polo 4"
+  },
+  {
+    "title": "Por que circuíto circulará máis corrente?",
+    "question": "Por que circuíto circulará máis corrente?",
+    "image": "images/ee5569e53a9acc6a3242.png",
+    "image_width": "500",
+    "choice1": "Polo 4",
+    "choice2": "Polo 1",
+    "choice3": "Polo 2",
+    "choice4": "Polo 3"
+  },
+  {
+    "title": "Partimos do circuíto negro. Que pasará cando conectemos a resistencia en verde?",
+    "question": "Partimos do circuíto negro. Que pasará cando conectemos a resistencia en verde?",
+    "image": "images/fa5548aa7146e80b978e.png",
+    "image_width": "500",
+    "choice1": "A intensidade total do circuíto aumentará",
+    "choice2": "A voltaxe á que está sometida -a- disminuirá",
+    "choice3": "A intensidade total do circuíto disminuirá",
+    "choice4": "A intensidade total do circuíto non variará"
+  },
+  {
+    "title": "Partimos do circuíto negro. Que pasará cando conectemos a resistencia en verde?",
+    "question": "Partimos do circuíto negro. Que pasará cando conectemos a resistencia en verde?",
+    "image": "images/fa5548aa7146e80b978e.png",
+    "image_width": "500",
+    "choice1": "Por -b- pasará a mesma intensidade que por -a-",
+    "choice2": "A voltaxe de -a- será a metade que antes",
+    "choice3": "A resistencia equivalente no circuíto será de 4Ω",
+    "choice4": "A intensidade total do circuíto non variará"
+  },
+  {
+    "title": "Partimos do circuíto negro. Se conectamos a parte en verde, cal será falsa?",
+    "question": "Partimos do circuíto negro. Se conectamos a parte en verde, cal será falsa?",
+    "image": "images/fa5548aa7146e80b978e.png",
+    "image_width": "500",
+    "choice1": "A intensidade total disminuirá",
+    "choice2": "Por -b- pasará unha itensidade igual á que pasa por -a-",
+    "choice3": "A voltaxe de -b- será a mesma que a de -a-",
+    "choice4": "A intensidade que pasa por -a- non variará"
+  },
+  {
+    "title": "Cal é falsa para o circuíto da figura?",
+    "question": "Cal é falsa para o circuíto da figura?",
+    "image": "images/eda25c4df5cc3a03d2f0.png",
+    "image_width": "357",
+    "choice1": "O led non acenderá nunca",
+    "choice2": "O led acenderá cando prema o interruptor esquerdo",
+    "choice3": "O led acenderá se premo o pulsador dereito",
+    "choice4": "Se teño premidos os dous interruptores, o led acenderá"
+  },
+  {
+    "title": "Cales leds acenderán cando prema o pulsador?",
+    "question": "Cales leds acenderán cando prema o pulsador?",
+    "image": "images/23355b8df7240822220c.png",
+    "image_width": "458",
+    "choice1": "O verde e o vermello",
+    "choice2": "O azul e o vermello",
+    "choice3": "O vermello",
+    "choice4": "O azul e o verde"
+  },
+  {
+    "title": "Cal é certa para o circuíto da figura?",
+    "question": "Cal é certa para o circuíto da figura?",
+    "image": "images/e69e73d8ad47372d0dad.png",
+    "image_width": "240",
+    "choice1": "Cada o interruptor acende un led",
+    "choice2": "Non poderei acender o led verde se non premo o interruptor da dereita",
+    "choice3": "Se premo o pulsador da dereita, acenden os dous leds",
+    "choice4": "O verde está sempre aceso, aínda que non prema ningún pulsador"
+  },
+  {
+    "title": "Cando acenderá o led -b-?",
+    "question": "Cando acenderá o led -b-?",
+    "image": "images/98b1441c0f63c984cb3e.png",
+    "image_width": "500",
+    "choice1": "Sempre que estea pechado o interruptor 1",
+    "choice2": "Con 1 pechado, 2 aberto e 3 aberto",
+    "choice3": "Con 1 pechado, 2 aberto e 3 pechado",
+    "choice4": "Con 1 pechado, 2 pechado e 3 aberto"
+  },
+  {
+    "title": "Podo acender só o led -a-?",
+    "question": "Podo acender só o led -a-?",
+    "image": "images/f3f7709d3767cb61973e.png",
+    "image_width": "500",
+    "choice1": "Non",
+    "choice2": "Si,premendo 1 e 2",
+    "choice3": "Si, premendo 1, 2 e 3",
+    "choice4": "Si, premendo 1 e 3"
+  }
+]

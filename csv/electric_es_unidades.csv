@@ -1,0 +1,12 @@
+Question;Image;Choice_1;Choice_2;Choice_3;Choice_4;Block
+"¿Cuántos ohmios son 13 KΩ?";"";"13000 Ω";"1300 Ω";"130 Ω";"13 Ω";"electric_es_unidades"
+"¿Cuántos ohmios son 2,2 KΩ?";"";"2200 Ω";"22000 Ω";"220000 Ω";"220 Ω";"electric_es_unidades"
+"¿Cuántos ohmios son 47 KΩ?";"";"47000 Ω";"4700 Ω";"470 Ω";"4,7 Ω";"electric_es_unidades"
+"¿Cuántos ohmios son 0,33 KΩ?";"";"330 Ω";"3300 Ω";"33000 Ω";"33 Ω";"electric_es_unidades"
+"¿Cuántos KΩ son 4700 Ω?";"";"4,7 KΩ";"47 KΩ";"470 KΩ";"0,47 KΩ";"electric_es_unidades"
+"¿Cuántos KΩ son 100.000 Ω?";"";"100 KΩ";"10 KΩ";"1000 KΩ";"1 KΩ";"electric_es_unidades"
+"¿Cuántos KΩ son 680 Ω?";"";"0,68 KΩ";"6,8 KΩ";"0,068 KΩ";"0,0068 KΩ";"electric_es_unidades"
+"¿Cuántos microfaradios tendrá un faradio?";"";"1.000.000 uF";"10.000.000 uF";"1000 uF";"1E-06 uF";"electric_es_unidades"
+"¿Cuántos faradios es un microfaradio?";"";"1E-06 F";"1E-07 F";"1.000.000 F";"0,1 F";"electric_es_unidades"
+"¿Cuántos microfaradios son 0,01 F?";"";"10.000 uF";"1.000 uF";"100.000 uF";"1.000.000 uF";"electric_es_unidades"
+"¿Cuántos faradios son 220 µF?";"";"0,00022 F";"0,0022 F";"0,022 F";"0,22 F";"electric_es_unidades"

@@ -1,0 +1,101 @@
+﻿[
+  {
+    "title": "Cantos ohmnios son 13 KΩ?",
+    "question": "Cantos ohmnios son 13 KΩ?",
+    "image": "",
+    "choice1": "13000Ω",
+    "choice2": "1300Ω",
+    "choice3": "130Ω",
+    "choice4": "13Ω"
+  },
+  {
+    "title": "Cantos ohmnios son 2,2 KΩ?",
+    "question": "Cantos ohmnios son 2,2 KΩ?",
+    "image": "",
+    "choice1": "2200Ω",
+    "choice2": "22000Ω",
+    "choice3": "22,0000Ω",
+    "choice4": "220Ω"
+  },
+  {
+    "title": "Cantos ohmnios son 47 KΩ?",
+    "question": "Cantos ohmnios son 47 KΩ?",
+    "image": "",
+    "choice1": "47000Ω",
+    "choice2": "4700Ω",
+    "choice3": "470Ω",
+    "choice4": "4,7Ω"
+  },
+  {
+    "title": "Cantos ohmnios son 0,33KΩ?",
+    "question": "Cantos ohmnios son 0,33KΩ?",
+    "image": "",
+    "choice1": "330Ω",
+    "choice2": "3300Ω",
+    "choice3": "33000Ω",
+    "choice4": "33Ω"
+  },
+  {
+    "title": "Cantos KΩ son 4700Ω?",
+    "question": "Cantos KΩ son 4700Ω?",
+    "image": "",
+    "choice1": "4,7KΩ",
+    "choice2": "47KΩ",
+    "choice3": "470KΩ",
+    "choice4": "0,47KΩ"
+  },
+  {
+    "title": "Cantos KΩ son 100000Ω?",
+    "question": "Cantos KΩ son 100000Ω?",
+    "image": "",
+    "choice1": "100KΩ",
+    "choice2": "10KΩ",
+    "choice3": "1000KΩ",
+    "choice4": "1KΩ"
+  },
+  {
+    "title": "Cantos KΩ son 680Ω?",
+    "question": "Cantos KΩ son 680Ω?",
+    "image": "",
+    "choice1": "0,68KΩ",
+    "choice2": "6,8KΩ",
+    "choice3": "0,068KΩ",
+    "choice4": "0,0068KΩ"
+  },
+  {
+    "title": "Cantos microfaradios terá un Faradio?",
+    "question": "Cantos microfaradios terá un Faradio?",
+    "image": "",
+    "choice1": "1000000",
+    "choice2": "10000000",
+    "choice3": "1000",
+    "choice4": "0,000001"
+  },
+  {
+    "title": "Cantos faradios é un microfaradio?",
+    "question": "Cantos faradios é un microfaradio?",
+    "image": "",
+    "choice1": "0,000001",
+    "choice2": "0,0000001",
+    "choice3": "1000000",
+    "choice4": "0,001"
+  },
+  {
+    "title": "Cantos  µF son 0,01 F?",
+    "question": "Cantos  µF son 0,01 F?",
+    "image": "",
+    "choice1": "10000",
+    "choice2": "1000",
+    "choice3": "100000",
+    "choice4": "1000000"
+  },
+  {
+    "title": "Cantos F son 220 µF?",
+    "question": "Cantos F son 220 µF?",
+    "image": "",
+    "choice1": "0,00022",
+    "choice2": "0,0022",
+    "choice3": "0,022",
+    "choice4": "0,22"
+  }
+]

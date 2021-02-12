@@ -1,0 +1,72 @@
+﻿[
+  {
+    "title": "Cal será a voltaxe no punto -a-?",
+    "question": "Cal será a voltaxe no punto -a-?",
+    "image": "images/f60328d4d61d8e3007bc.png",
+    "image_width": "500",
+    "choice1": "3V",
+    "choice2": "6V",
+    "choice3": "4V",
+    "choice4": "Non se pode saber sen o dato da intensidade"
+  },
+  {
+    "title": "Cal será a voltaxe no punto -a-?",
+    "question": "Cal será a voltaxe no punto -a-?",
+    "image": "images/d4232a547754485a3136.png",
+    "image_width": "500",
+    "choice1": "300V",
+    "choice2": "3V",
+    "choice3": "400V",
+    "choice4": "150V"
+  },
+  {
+    "title": "Cal será a voltaxe no punto -a-?",
+    "question": "Cal será a voltaxe no punto -a-?",
+    "image": "images/104adfdac57225f9f8f8.png",
+    "image_width": "500",
+    "choice1": "3V",
+    "choice2": "6V",
+    "choice3": "2V",
+    "choice4": "4V"
+  },
+  {
+    "title": "Cal será a voltaxe no punto -a-?",
+    "question": "Cal será a voltaxe no punto -a-?",
+    "image": "images/bf4eeff6e498539db500.png",
+    "image_width": "500",
+    "choice1": "3V",
+    "choice2": "3KV",
+    "choice3": "0,003V",
+    "choice4": "0,00003V"
+  },
+  {
+    "title": "Cal será a voltaxe no punto -a-?",
+    "question": "Cal será a voltaxe no punto -a-?",
+    "image": "images/a2fe674d7b417e49b0f2.png",
+    "image_width": "500",
+    "choice1": "Case cero voltios",
+    "choice2": "Case 6V",
+    "choice3": "Sobre 3V",
+    "choice4": "máis de 6V"
+  },
+  {
+    "title": "Cal será a voltaxe no punto -a-?",
+    "question": "Cal será a voltaxe no punto -a-?",
+    "image": "images/5141ff5d6689ba4aa0fe.png",
+    "image_width": "500",
+    "choice1": "Case 6V",
+    "choice2": "Case 0V",
+    "choice3": "Sobre 3V",
+    "choice4": "máis de 6V"
+  },
+  {
+    "title": "Cal será a voltaxe no punto -a-?",
+    "question": "Cal será a voltaxe no punto -a-?",
+    "image": "images/ecf1d7f5563edfdde23b.png",
+    "image_width": "500",
+    "choice1": "2V",
+    "choice2": "4V",
+    "choice3": "3V",
+    "choice4": "6V"
+  }
+]

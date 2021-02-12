@@ -1,0 +1,869 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+  <question type="category">
+    <category> <text>$course$/top/electric_es_componentes</text> </category>
+    <info format="html"> <text></text> </info>
+    <idnumber></idnumber>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Pila</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/59cbf40bc06826749038.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="59cbf40bc06826749038.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAg4AAAFaBAMAAACEYsh2AAAABGdBTUEAALGPC/xhBQAAAAd0SU1FB+QJGhc1IYSEQaMAAAAnUExURf///wAAABERESIiIjMzM0RERGZmZnd3d4iIiJmZmaqqqszMzO7u7iLC/yUAAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAAAi9JREFUeNrt3aFuFFEYhuFDlqZ0WcG3S0PAraICwSpaB0kFsrW9gBpMAYsgLbKipDewCDwK3WDoZWFpspPsJDuEmfM8l/Bmzskv/pMpBQAAAAAAAAAAAAAAAAAAAAAAAABg4yZf3t6oUMqH5LkKZTJPpj6Isp0kZzqMkuSlDveS5JEOOuhQW4fbw0sdStmeZ3qmQ/mV5IUO5X2SJzqURZKZDiVJooMOOuiggw466KCDDjrooIMOOuiwcZOPWeXVTWUdzrPaXmUdFg0dZnV1GKfJsqoOW40djnSosINz4Z6847qhw0Ftc9TFygz7tc1R5moddNBBBx100EEHHXTQQQcddNDh33mT5LEO5WuSpzqU0Tov8SroMD7O7lKHUh6e/ig6rEcHHXTQQQcddNBBBx100EEHHdbVsGq+EU376v+j83Rorz8dFl12mPUmwzidWvalw1a3HY506FcH58I9ecd1lx0OejRHXXSXYb9HcxQAAAAAAAAAAFCN36326GafBprhwbzdRtj08zA7jNquxg30L87f2nZ4NswOx2077Oow5A7OhXvybzst1/BnVwMdIG7bzVGXpSbeseqggw466KCDDjrooIMOOuiggw466KCDDjrooIMOOuiggw466KCDDjrooIMOOuiggw466KCDDjrooIMOOuiggw466KCDDptyP0le67CTJFc6lEWvfg3Wne/JiQqllJ/vNAAAAAAAAAAAAAAAAAAAAAAAAAAANu8PXinG02N4dtsAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDktMjZUMjE6Mjg6MjMrMDI6MDD79TN6AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTA5LTI2VDIxOjUzOjMzKzAyOjAwl9llLAAAAABJRU5ErkJggg==</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Pila</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Generador de corriente alterna</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Motor</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Toma de tierra</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Generador de corriente alterna</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/d3bbec428b9056a12a6b.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="d3bbec428b9056a12a6b.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Generador de corriente alterna</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Batería o pila</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Lámpara</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Motor eléctrico</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Pulsador n.a.</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/1df5486692ac4cdfa480.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="1df5486692ac4cdfa480.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAg4AAAFaBAMAAACEYsh2AAAABGdBTUEAALGPC/xhBQAAAAd0SU1FB+QJGhc1IYSEQaMAAAAwUExURf///wAAABERESIiIjMzM0RERFVVVWZmZnd3d4iIiJmZmaqqqru7u8zMzN3d3e7u7j2dGw0AAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAAAztJREFUeNrt3T9PE2EcwHEUMfzHtiASNZHFxGhUAgM6aXgDMLirizOLg5OEFwDoC5DEwckEfAFGfQEGVyfjqgNxwknlKNg2JeW49rmn5fOZ2qT5cXzTu97RJ1xXFwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEKWdqUIKpZUOzdA3WUiluNqZHboLKd3uzA6baTtc7MwOC2k7jOnQyR3sF46Tlfqn0mUorXfoCcTvdOdRr07G2WXyyx769OTQQQcddNBBBx100EEHHXTQQQcddNBBBx100EEHHXTQQQcddNBBBx100EEHHXTQQQcddNBBBx100EEHHXTQ4cR3GFkutMzsdvt0eFFooWvt02GqlR1KbZNhoNBSG+3Soae1HeZ1aK8O9gvHySqvW9nhbhudR71sXYY7bXQeBQAAAACQr6E3c9Mzz7YiGxXcz71vMUqfoxoV3M7+f3EvrkQ0KrjB+wffOIx+iGZUeEsVX71ciGZUcGervoN6GMmo8BarNn48klHB9dZ8Kfk8ilHhfanZ+MtRjAqvfIQvTpc/8UajGJXXbjG71TW0nPHd3MRR4XVXfMYtZbt1QRNHhfcpeSdvJI8HkvfzjQhGhbdQeRePzUy3NmniqOCGq/bjvT38W+6jWqLxSvLS9v5Lk4vFY14YDNYZFdMq9MYrycerTwiPeZTvrTMqplXojVdIXjp47ccM1wVn64yKaHXlEVbMnjt48andp/eO94PO1BkV0WrbnjQdTmftcCVNh3kdwndIv1/MZwge735xhOPk/5uhbWY9TtaMimkVeuOV5OcPXvto9+n68X5Of51RMa1Cb7ySvLh/2jc8mfU8qmZU26xCH5ms3BOSt3ZxO/dReV1nTZSfrGW/zmrOqPC+J+/R1eRxX/L4ZgSj8vo7zNjWv4dDC834O0xTRoXXX76f6ts/X8s3YV2PYFQOFg+9+MxzVHi/ajb+VhSjwhto3snuQK7nzVmtVW37RCSjwuur2vjVSEbl4F3Ftl+PZlSuHxnjEY3K4VA5V972mY2IRuVg6HGy7Ve3ohqVhx9PHzx5H90oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE6gv/FOSwgMJetkAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTA5LTI2VDIxOjI4OjIzKzAyOjAw+/UzegAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wOS0yNlQyMTo1MzozMyswMjowMJfZZSwAAAAASUVORK5CYII=</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Pulsador n.a.</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Interruptor n.a.</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Conmutador n.a.</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Pila</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Interruptor</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/640f8718abc0e0465f73.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="640f8718abc0e0465f73.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAg4AAAFaBAMAAACEYsh2AAAABGdBTUEAALGPC/xhBQAAAAd0SU1FB+QJGhc1IYSEQaMAAAAwUExURf///wAAABERESIiIjMzM0RERFVVVWZmZnd3d4iIiJmZmaqqqru7u8zMzN3d3e7u7j2dGw0AAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAABCVJREFUeNrt3btvW2UYB2BzK7nUDcdJU6oihBdULuKidihQIVAHliKlAyOIsLABWRhYaKnESlv+ASgDE1ILO+I2owywMAFSWWCoGIAN8HfOSezE2CSfdS76nmdqJOvt6S8+r4/PL3E7HQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGCqg+8+d1MKnUPrWXZaDJ2r2b9+TD6GG4MYsg9Sj2GhH3J4I/XlcC7EkK0lnsOVPIbUz4vvixhW045hvl/k8HTSMXSfLWI4nPbL5jtFDL20t8N3RQzZS0nHMFcuhwfTfndVLodVy8Fy6HxTLofXko7hzzKGp9JeDo+XyyHpOzBLG0UMy9eSfjp8XZ4Vr1sOlsNiuRyOWA5hOXyR9NPhs/KseDvpGP4oYzhtOVgOg9ImWEl7OVwt312dTzqGX8rlcDbpGBbKWy/Hk46hLG2ylU3LwXK4US6H55OOYau0eSDpGLrlcjic9nIoG93epaRjUNoESpt8OWh0A6VNoLSxHLZpdAOlTU5pEyht8uWg0bUctiltRpeD0kZp01la1+haDluUNoHSJtDo5pQ2gdLGchhaDhrdQGkTlL+Gl72YdAwa3UBpk1PaBBrdQGkTKG0shyEa3UBpky8Hpc2A0ian0U19OXQ/PnPi5Fv5PYbI0mZ4VNv8lv/Tl7/tRP8a3vCotvmrvITuvRdb2oyMausl9ODefNyv4Y2MalsOF7Jtq3HLYXjU3S2L4UA2xv6+m6OjXm5XDhtjYthnaTM66ki77jOMezqcncmo823K4acxMRyfzah725RDseF7J/rby2FzNqNW2ndanNrsdC9GNrq7R7XoxLht6DXuQlyju3vUY+3J4avwDMjfXy/2o9b87lEPtyeHUOQeK774MLQ2Mxl1PWpU5Q6NnMd3ZhGfvTw6ai5r2sc4L13Mplgur6GXwlX1Pt8YHBwzapJTFd/zuzLtgIY2wkbElp8bM2qiitvjqd+Y7J6tx34Z8b7gwJhRk5+GlcawOPV4sru2HnzL4Mtn9vcX3T5m1GSV3gW+Yy853Bqbw317yWFNDtXnsPfzYi0i8OaeF/9jTx7beuz12D25Y1SD9mTno6kHtP1p7OsRn1G/MGbURE9WfB31/rQD6pWXfYf6sddRO0ZN8kSTutOl/vCZEJ7avZu1j6rrfdbR4ovL8e+zZjOqej+H52j+47Lz4c+PNGBUXfdhVgd34rrrcTdPZjiqegvFj4p+8vcP5yL/S5MZjqrB+n++iNY5qnq/7zj4RxsxqnqLs7vYXaz1ujnW5ZFjP9qQUdWbHzn4Sw0ZVYNPh479ocaMqvUlY7VBo2pYlWeKYz95rUGjatB9JRz7/ZuNGlWHX9984dXPGzcKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAT9A7C0PqbeOqyLAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTA5LTI2VDIxOjI4OjIzKzAyOjAw+/UzegAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wOS0yNlQyMTo1MzozMyswMjowMJfZZSwAAAAASUVORK5CYII=</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Interruptor</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Conmutador</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Pulsador</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Botón</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Conmutador</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/7456ddb383bfe6840479.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="7456ddb383bfe6840479.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Conmutador</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Interruptor</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Pulsador</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Fusible</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Resistencia rectangular</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/6929188df15a16fa0eb8.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="6929188df15a16fa0eb8.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAg4AAAFaBAMAAACEYsh2AAAABGdBTUEAALGPC/xhBQAAAAd0SU1FB+QJGhc1IYSEQaMAAAAhUExURf///wAAABERESIiIkRERHd3d4iIiJmZmaqqqt3d3e7u7mdTBS0AAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAAAUtJREFUeNrt3CFuAkEUgOEVLWlw0w31NQjcClrbI9DgUC04LBfgEvUE0XMiVlWse828Id93gBF/spuX3czrOgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8vkZSph+12yGx9cS6HnTaodrCbVqtcNnbIdFqx2G2A59qx1KMB100EGHu+yQ7igddNBBBx100EEHHXTQQQcddNBBBx100OG+Osy3//xxdfL49SVTh32p1aEsM3UY6nXI9NfzqdTrUM55OjzU7PChQ7YOngvvyT9O9Tq8p5qjDrU6vKWao8zVOuiggw466KCDDjrooIMOOuiggw466KBDwg7uJemggw46THLPffQd2+Gl1Q72YIxmsXtRvlrt0P1G7sk5dgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAApHMD+Fix6Y+jS+QAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDktMjZUMjE6Mjg6MjMrMDI6MDD79TN6AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTA5LTI2VDIxOjUzOjMzKzAyOjAwl9llLAAAAABJRU5ErkJggg==</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Resistencia</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Pila</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Lámpara</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Interruptor</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Resistencia zigzag</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/ab3398accd830fee5294.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="ab3398accd830fee5294.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAfIAAAEsCAYAAAA4pTGPAAAMK3pUWHRSYXcgcHJvZmlsZSB0eXBlIGV4aWYAAHja7Zlblhy5DUT/uQovgSRAglwOn+d4B7N8X2SVukdSe2zN2H9TdboyK5XJBxCICJTC+e2fN/yDl2hqQYu12muNvLRrz4OTFl+v1zFFfT6f183vs/T99ZDX+9RvEI7y+od6Xsc0uF4+HzB9X5/fXw+2Xie5vQd6/8O3AcVnzpy872vvgSS/rqf399Dfzw393Xbef7rjfT/0vH76bgRjF8aTHPKRJJHP5jeI/yUZz9E/e35d9XP/zGJfxy58nP4QvD7eK/whdnG875DvQxFifd9Qf4jR+3oqX8fuidDvV5TiR9a++weVb+H9OXb37nbvee1uaCVSNbw3Fd9DPGfcOJ+h/LHK2/grnNvz7rwbW1xkbDPd5L1C6ikT7Zs07TTSTec5rrRYouaTjWPOixz4tSaWe14EPon6O91s0mUHaWRikTXhcv5YS3rm7c98KzVm3ok7c2KwxBM/vcNXF//M+2Ogez22KXkw+yvFrCs79FiGZ84/uYuEpPuOaXni+7zDR1o/X55YIYPlCXNjgyPO1xCzpE9syZNn4b4SNcRXaSTb7wEIEXMXFpOEDMSapKSaouVsKRHHRn4GK8+ieZKBVEreKVxyI1JJTss+N89Yeu7NJb8uQy0kokgVIzVdBslSLeDHtIGhUaRoKKXUYqWVXkaVqrXUWq06Rw0TUytWzaxZt9GkaSutNmut9TZ67gKFlV67hd5672Mw6WDowdODO8aYecrUWWadNtvscyzgs3SVVZettvoaO2/ZlP+u28Juu+9x0gFKR0859dhpp59xwdqVq7fceu222+/4yNo7q99nLf2QuT/OWnpnzTOmz332mTUum30bIjmdFM8ZGcuayLh5BgB09pzFllSzZ85zFnumKEoma6l4cnbyjJFBPSmXmz5y95m5P8xbKPpLecv/LnPBU/e/yFzw1L0z93PevsjaHo+iyJMgr0KPaZQLsXHDaSO34Zr0p4/hrw7w90C/MtAsY+mFPKudnkxGO4cLlkDNQQoMdzDalT6bPOBBc7TGBgohu64xddGSQhlms67NCGUJiOtmknUhG3vKGiD9yjyXervo4I4n9oUkcovldNqj5pRg+FibA7R0R2qOO5exN4+cSHHMmdy/rDX0xNyXK91oUcB7Hmtn03ViQEArJL367B27ceDieEdK7ci+DHTHfvxLKXOXvE6eces5eY99Ts/n7J2mxB1Wxi30Kuxi4iOorV4g70LND6bG6e2irzX3sw4TnHxzaqP2hBcqnWKeOWuwuUa2m6RuAnli1ePWqCQjQoSLA/5qz7EnFUvBGnSzWts287HRF4W3+tFwiyxffGLxfZZ26lybFUZCoVuIKqtixlhgCJ9ol0Q972WQl3MnJOQLDr+OGPBiMyoh68iY9LbL0BJgLY0DUlPcQoN+IS2FERTamAc60a2+w2JsFmCUtbfevK5wN9Fa47DWdgMUZyAKetkJ6iRJAOxMmLy8v9ex2H6yO2rZSwyarluhdOFLHGMtMhKD9p6QFwxUq/nOdVhKvunxrwmyZbEN1OTSursMDxyL0nEVwJKAOuB81CW05HAvHkpHe15aDwxZnac9oEcfP1nk7Kx3xtOvbE77rJiwDcEmp10JefR05wb/BT/QGb23WkAsRGtWxrCoeZvLEX6tRFGqTdGXlREXsEL74bgPh708tn9fKojMp+kDCvMBeBGijedIVC4xQhDbugVUt9Ms1avIzrrWdg3TkKwl0HtJUzOLacMW+VkoBUDRMcglpT/uooqNGYmnUiwHt4lWlXsWWQ0z71nBaUIBiO9kIhCPwWeCc2fDwDKm8eCam/4pn02dNLeeq7DoPDlgewL+SVIxrYnkqLnLQp28nQAgLYN6bXO0Nu3SgkwAFykahu8577u6qic8pzCrlzhmcPospeKZKuRWiNRg4LoWIWRmY8YjNfXmFoIYxwLwJOW9KP4eA1FTmrNRU90UteiktvFqs4JeiweawSQPAJkbgw3cMyaCDUpfPgCZE9q2SvXPuWb26sRVzAmSlsdEMeHavbDG6cUmboLeiPqhTyIKhwOkBmTBcuoqIR4CxkKx8KCUes8CiKttzESp8ADzL9xBo8eCRa4zCGhD/WFYwk5stS6Z4fA0eS0buyGn4i/23bRzjShi/T3CdtagYqbbIcHr5H2ME+8O4IO6uqxiwUZEA9jtHl7KSoB8QeViRGB9S52mBMKwBH+DLRqPVRlJ6oBqSYtgZ0bH1QIuYs/QywsNetdJC4nYAGv2d3BLZYHvanSSLL+6MsC/vcIgo2C4dpsiQUdb+KnYCVWsJaIVuLmGUx/anAOn74d5rHUvT26jzqDsQ7KEjOZZdSzSv2Ir0ryCN0hR3BWe3vcYsbqjUVdkB06DhW49kB1C+jQncaar3KKXEhyhEzUE0VPdy7E9L5wMqEsa0qhNaryPUgkoS48rUwIoF5FUWGrditCdMs8Kc1SibXcjUDDaLHeoDntWiXYDndKJTs3J+0hg3U3l0dFCQ3IqKjeQhhzio3tWkc7RJUIeuvLgdYEsDH4nZJxh9V0dJYtV34obRQ+Jzhy3k0rv1+A1wo6cuVIh7YCabg3rWhWviTih67iIjPO8BWzbrs93UlEN8j70UeQaFWG1QHREiC+CZ9w6waaCC25bkZZ9APOA6AR/IrutSUwqJAKTQr6kHCa5A+2PxcYjW8/EXx0RB1K6p960LlRHJ43gQ2/oBjrnv1T08BAQ5LVhdYguX3tsDeq6FOxSvQA/rzqviwlwwpCM9EzjNfuSTZgouBF5TcD9lcyl2Z2o4VDYnDoH3yiR0z4eXqcTxFmZvEMaBYYx5+6cw6Ig2kHmHu9xKrTpwzRUGGIx7zYy4tLVDY+Q8TrqnArAM48ye8LGkHl6EbRZZoIXGAVXh5fH0mDurvmiWdlEDDUTp44rid5TKLwO8LyHoW4i+ZXAVYBK/dYqKA29UENIb4VAN63LhsJo4rud7Tg2RoNToUjGg6mbt2CQHjHiW2f9aY/RN0Db63hPA/YwUQvJ3Ug0q6c63NIZi/dmxE1hNraEN8C1VeRosVSw1Q7OCbeCM6w4TXgIT+Lz1X0bOoy0e/dFHBFekvDqNXFUlk+jbwpNy/Fi8BrM8B8KQAO5/Kc0SU5+wJ39IsRCzTYkHGNF7cJ+J7odWUTlSiP90H5qS/jDleJbcJBk3e0kKgdZHW72aoXRblHBDEwKqOEyG5wXXZZhd4o25459ZP0kQVgVmxfo3cqBX5E5bCf4gUxgGnegSkxxKcd9PdSYpLvkBLq/7LhnB0J+qQKonI7V9bhhzryNhAmzg58/CEd5GGuEWtLKIqEQN5IcsJUIsZvsmAycbFpc+ByjTnlG1s6WR8aaixtu+mn/pWRgmmVSEokQruhtZegAdz2CBbYfJeUq1VTQOlxQa7g4evCdkPXiUfL+dsIfNLYLXh9sx8MZFslrqaAZViMsuVhnPck9t5Js1tePwb20vIUGmWQRKsOVsSA2v7B6Xos9ECjChyEFz4b5o/DTYA3YXIMRFg7xUjqgfrCodADOvRNRi+wfiX26GyAfLnlHOKkqjPvN+2VA0DYKzprbR8ykb58mBxVg3uRJRDho1W92EWoT1IQxUvNuzTbeIw65vs6D1UXwYkbDsQkXgbloFywPqBMX9ZF+rFYanbrlTqo/0b3TOuAeMIgFRUEnLkLmfRo1N6f/OopTie6/EIYI5SHwg5Pm0OefR+44NmCGgSCYuAy9+MSC7p4qbm6TX2TMBUapbgoY3vNfmpEKYN8jTH5Yz95hACt7mpgLitwpRvUflLGbWGHiROXlh/Xwu+3wJAJynK4EwHkTSlXW2gLEq8V/pWckEgz4yGmj4cTDgCjfMXDquOHtDpGAPOl9nufj4xh+vPDlEYs1qexS/UfRRKPQJpglPCwY+4drOQFZUNmQ1ue6CPDze6uHP0OGxRqNZXMfT/PdH/Vz+qYf/1St8MiW12f2yqKRa4CZfkIdIry8PT7yGMqjV5QmWqhN4u1td220p4LadlTEf3fmvks94QEA59YnCv4fA+VbANUXiiuAgOFdogi/r/aIBWiEC4M31XwDQK8Ieo2Yu2dafrp39SYpFvCy3z+wfzv6Aspn2MN/CPN/ffx7oP/3QOnSJdBh/wsJ2ZtVfSEFHQAAAAZiS0dEAAAAAAAA+UO7fwAAAAlwSFlzAAAemgAAHpoB/G8o+AAAAAd0SU1FB+UCCRMAHfDzTYsAACAASURBVHja7d3dcxzXnd7x53T3vAID8M0kJRKkTJEcrmlRoiRa4ptkb6ytJHbVJptk7Wx5k2xucp3/JDepypV3tyrZstZeZzdeV1K2XLZEE/SaFiWRsgxQpMxXkZT4isEM5qW7f7mYoQRRGorAnMFgwO/nQhcEOACPpvvpc/qZ087MBAAAhlPAEAAAQJADAACCHAAAEOQAABDkAACAIAcAAAQ5AAAgyAEAIMgBAABBDgAACHIAAAhyAABAkAMAAIIcAAAQ5AAAEOQAAIAgBwAABDkAACDIAQAgyAEAAEEOAAAIcgAACHIAAECQAwAAghwAABDkAAAQ5AAAgCAHAAAEOQAAIMgBACDIAQAAQQ4AAAhyAAAIcgAAQJADAACCHAAAEOQAABDkAACAIAcAAAQ5AAAEOQAAIMgBAABBDgAACHIAAAhyAABAkAMAAIIcAAAQ5AAAEOQAAIAgBwAABDkAAAQ5AAAgyAEAAEEOAAAIcgAACHIAAECQAwAAghwAABDkAAAQ5AAAgCAHAAAEOQAABDkAACDIAQAAQQ4AAAhyAAAIcgAAQJADAACCHAAAEOQAABDkAACAIAcAAAQ5AAAEOQAAIMgBAABBDgAACHIAAAhyAABAkAMAAIIcAACCHAAAEOQAAIAgBwAABDkAAAQ5AAAgyAEAAEEOAAAIcgAACHIAAECQAwAAghwAAIIcAAAQ5AAAgCAHAAAEOQAABDkAACDIAQAAQQ4AAAhyAAAIcgAAQJADAACCHAAAghwAABDkAACAIAcAAAQ5AAAEOQAAIMgBAIAnEUOAlW5j3n3zdqIXzLTWScmC/rK1/5sP9cbtpv2PlTpGa3Pu39ZTfSkxbV7M309NzUi6OJrqv39gNrsSx2hD0f3r2Zb2JalWSYrkFvQ+cpJqUaj3VmX19qVZ+xlHJghy4AFsGnVfv5PoYDPWn5u0cbGvk5j+cX3R3fqgZi+vtDHaOuYOVWN9tZnqJZN2LvJl4kR6q5DVWUk/WInvpZmGvlJP9R8krV/kubMam968I6WSCHJ4w9I6VrTZpsqtRIdNKvXyOolpx0xTBx8fcftW2hhVE62LUz1r0mO9TApM2lhPtXdzwf2zFbhi8act064eQlySColpTyvVrvKYW8fRCYIc+BzlotvUSFVOpT+QlO/ltUyaiFPtvRNrYiWN0UTBvVit68lU2iwp2+MYjTcSHZg17VhJY7RjlXu8Guv51FRWb6uYgaRSkqp8paZ/xREKghz4HB/EeilJVTbTGklhjy9XTExfnEv1B1uL7tBKGaNKonJsOihpzMPLFVPpyXqi8kp6H92ua3ds2qfeViw+kpi2100HJwruRY5SEORAF1vH3KFaqhcSeQ2VUiPRoTvxygmqpmlnYnrapKKP84mZxpNE5dVZ9x9XwvhsKbjDs4meSE0TJhV8vKZJE4lpbzXVoxypIMiBbjPNhiaSVE+Y6RGPL1tMTU/W2/dKh954zv37VqJdJi8rFh+dUxJTeS7Vwa1j7uAKWLF4PE60X06rfZ53zbSxFmvvplH3RxytIMiBe2wadV+fS7Untd7v+94jMumRxLRrfdF9a9hXLOZiHUzbLXXn87VN2tJK9fRsw+tF1EDUTeXEtNfMy4rF/DEajU0HZpor6zYECHLAC19N9W7SVDtnGsPdYK829IXUtC81be3Dy0dmw99gX5tzfxq3Vyx6aap3U0hMexqJyjTYQZAD8+xY5R5vJH6a6l2D3LQ5Nj1d6U8I9t1EyX21Gvtpqt9nxjneTHRwNhnOBvuOVe7xSqznOh2Lfuy3EUgqpanK1+o02EGQAx+5XtMLsXlrqndTTE1frLb0pS0l98KwjVGloZ2x6YCsPysWd8coMT1ZT4azT3C7rt1pqmetzxdrqdOOWqIDNNhBkAP6qKl+ONUS3Hd0KjVNB2fiRe+ENjCem+pdzy0mjSWm8uqs+0/DND7bSu6FeqI9qbRV/R0jmWkiMT1Ngx0EOaC+NdW7nYALSao9zXi4Zpxrcu7P+tBU73p+SaXyXKIDw9Rgv9XQtnqi/ZLXpnr3C552n+DpTXka7CDI8RDbNOq+XpeeTKx/933vEZlpYytR+QtF9+2hWbFIdDAx/031blLTRMuGq8HeMO1KTHv7vGLx8UWhNNqMtX+mRYMdBDkeYrNNlZstHZL6et/3UxJp552GDgxDg72aaF2c6BnTkpb0oo9mnKPu68t9jNYX3beS9orFF7R0D5UqJNKelrSrXHSbOJpBkOOhsxRN9a6zKdNEOgQN9kcK7sVqU0/1s6l+nxnneCPRgZmmti/399FMQ8+12isWS/lkyPYe7KbytVj/kiMaBDkeOtdqeiFx2tXnpnrX2dQwNNiricqtWAfMz57qC1VMTU+2lnmD/XZduztPgRvIRVli2l5LdGCi5L7KUQ2CHA+NrWPuUCPV4SQdYHt8CBrssWlnKj2tJbrve+95Zrk32Oc11bcMaIw+esJedW74d8QDQQ48sKVsqnc9AS/zBvsSN9W7nmuWc4N9iZvq9zsfb6wZDXYQ5HhIbBx1X6+nS9pU7yYy08bEtGu5NdgH0VTvZjk32OeWuKl+n1n5aJzSYAdBjodEtalyM9FhLXFTvZtWoh2V5vLag31ATfX7XvDUYj29Kb98GuxrcwNpqndDgx0EOR4OW0tudyvVrqT9SNH8cvidOvc4l02DfaLkvjqopvp9xmi8lerATGt5NNh3rHKPz6V6Pu3fnuqLOSfTYAdBjpXvVkPPxanKGux930/NplLTY8ulwV5pqNyKdXBATfVuiqn0ZEvLo09QaenLzVjPpKYty+n9TYMdBDlW9my801Q3Lcv7iKVGooMzjcE32Jum8gCb6l3POSaNxabyWDTYBvuWgnuhUtcTg2yq32flggY7CHKsXJWGJuJUT5i8neQqTrouKfZwAi6k0p66DfYiY03BfaeZqOyrqe6k2Ek3nVT1cd5JTeW6DbbBXpG2N0wHzE9TPXHSHUmzkhIPvcJA0sa60zMbaLCDIMdKcrepnpo2mSnj4wQcOL0XOr3upBkPr9dusCcqr825Px3IikXRHaq1dCA1P88Cd9KcpMuh00lJl33NOJMBN9jnYq8rFnVJ00467aQPJWt5GKPRZqL9tXQ4HwULghz4TJ6b6omkm7lQPx/P6XtO+r2klvy8cLma6PAgGuz1ROs7O5Q95iXInS5mQv0iF+nvQ6d3PP2aA22wd5rqZZPWyUPJzUmVfKRXc4F+HDgdd1LNw7gXE9MTrURlGuwgyLEi+G6qO6da6HQi5/TGeKDfZkKdcNIlLzNOG0yDfaLgvjqb6qnUtEnysmKhQDpbDPTztXm9HjqdlnTNySUeZpwDabB/oqluPm47uNg5vZ8P9Obagl7Nhzompzse3kNOUik2la/QYAdBjpXAe1PddCsX6uhYXu+drdrxQqBfdYIq9fDrDqTBXklUbsTab35WLFJJt8JQp2817a/Pz9gv86HOhNIpk9U8vP5AGuz+m+p2JXJ6uxTqwqVZ+9loVqcC6YLatyR8/E/Y0Uh1kAY7CHIM92zcf1O9EUiXC4FOnZ+xX0rSraZ9Nww11Skt+QjzUjPRoaVssHtuqlcj6UTeaeruH6zJaToX6TXnVPFx/lnqBns/muqBNJUL9dr5Wvt9NCJdi0L9OnD6vZfLBNPmVqKnaLCDIMdQq8Ta4rOp7qRzQaDjq7I6M//P807TodMpebjHaVIhMT3RtKWZcXpvqjvN5iMdG81p+u6fvVex10YzeieQzjmnuo9z0FI22D031VMn3QoCTa/O6Vd3//Bs1Y6PZXQskLfVncDae7A/+2je/XPOBrhXxBB4mC0W3aE4VaEp5VygvKQgSWQr7d+ZjVQbCXX7zIwdXcqfu2nUvVRv6UmTNvtqqoehpkezOnamYm/P/8JIVmcapskk0XYzjfZ6fJm0sdVusH/rRsNe7tcYbRtzh3021SW1AulyMaM3L1Xs5/O/UIh0JXJ6s2Vab+r9/va8BvtP+v1e8txUnwukqZw0fb5iv53/hQ9q9oNC6J5JTPtNWuvhXDsapzpwJ1FjfdGVJClJhu8cEoZyklJLVc9KjSjQ3N2VDBDkA7Gl4A7fSbSnnmpfkmqHSeusXZ5xg308hWedS5KgpQ9uBXpzXc6tu96wf1iqHz/Taap7CFY5p8RM10On6Zs1+969X788az9dm3Ormon+yKT1Po6RVCpXYx1+bMxdPDdjk/0Yo2rst6keSOcjp+O5SB/c+7VzMza5Jue2VBJtTRMvRbWPGuwb8+721bq90o8xuqep7mXFIgp1pBh+vGIxXybUdGz6dWx6QdJ4jz+ukEhPzMV6rJ7oW/MOy+HSbJ9RnFPipOthoHfHs+7J8VAnL8zZEVKFIF9Sa3Luz2qx9iWmvYm0zUzrJBXuDb+VJJUeaSZadyfVupGM210MderDuv2or6sdJbe7laictpenCz1fk5iqkdMbhXn3fe+1KqcrlVgnJK1JrfdgTE2bY2lvpaGf92OMNpfc12Zb7c/Wy1dT3endYqTJCzOffXK92bDvFTNuX+K0T6a11mMwmjTeMh2sp7oo6ZV+vI+qqfan0i4fTXVJLZkuFQO9da1uP/2sb1gd6d3UdCyO9aSHIA8kjZg0Yivg3NL5N0ykqSbSVI81Em1fk3MTNxv2N6QLQb4kVufcH1djfTNOdcikiYfl322mgqTtsemLSaxykurRtTlXXFPQb969bWf78TNvNfRcbCp7uqcpJ93OhposhZ+8Nz7f2Rn75eqC2znb0ESnFNVrl6SQmh5rSru3lNyHFyr2ms8xutPQTp9NdSfdyYSavtmw/3m/b8w6TbWkk7H0nHr/2cXUtKee6I1+vI8aTW2PEz3rq6keOF0NO031bt9zvmZHN+bd6nqsC0n7yWoF4RPHhZkm4vatlW1prA2rc656awlX+1YKym4LtC7n/qQa6xtxqoMmPfqQDkNo0s5Gqj+509J/vVzVf3lk3H3D+yyq6A7VEx1O/W13Wg+cLhUCnbwwd/8wvTVn3w2dptXe7c1Lg73e0qGZhv+tW1uem+qh04nwPisWd43lNJ3P6IiTxwZ7qvJY1v2Fz/HZUnAvVFPtSdsX3V7C1Jmm8qGOfN793ZFQ16JAv3LSe5w977si82ic6mA11jfW5dyfMCIEeV/NpXoiTvWiSRu0fJ66NQg5SRsT05ONRN+8Mat/tzrr/mLHKve4rx9QSTw31Z3OB07HR7LdZ+PzZUJNRU6nnOv988DWec500/Me7Gty7judZ2n72lO9knWaHM/p9Od974WKvZaVfhs4nZOfz0wHqVRuJjqwteivwV6RttcTHTDTKk8rFp9qqndd3ana8fHI6/4EK3lysCFO9eJcqicYDoK8bzbk3Utxql0m7ewE2cPOScqnpj+ITX88G+tf3JjT877GupbqSTltljztqS5NlSIdu7dh3HXGmdWZKNRRmW57+PmRmTbcbbD7GKNtY+5wLfbcVHe6PJrTW/c21bsuM+R0JXJ6I3CedsSTJlqp9s4m/la7GrF2xaa9zmnEx7V84DSVCz/dVO/mWsP+LhNq2kkfyMODeVby5MCknXGqXRvy7iWGgyDvi2qqLyXtQhHuPQGbRmPTwUaq3T5er5aqHHtsqku6ng11eiEfAbs8az8tBjrhpKu+TsDzGuwHen4/xlofm55N5Wcb2E5T/Tcjn9FU7+bcjE2ORDoS6LOb24u64JE21lI9vWm095P52pz7VjPRTn38iZJe30vtpnqwsH9vzmk6kH4tP0+PW9ES06Zqqi8xEgS5d1tzbndqmkhNaxiNzz4BS9rYTLSr13tcW0tud6MPTfVc9Pn3fe81Gur9TKA3nHTRS5CbNsemvZUen/q1ueS+NtvoT1P9vZmFfQzoRsNezoSadk7XvFzwOK2KEx2cafb20batJbe7Enea6lqapnrX1Z1I7+YDHevsGoj7HyNrUtPE1pzbzWgQ5H7ltCpNVRLN0/u+n1Jp52ys/b089etWQ8+lHzfVe36POul2PtRkSQ92b3y+8zU7Wgg1GbSLb972YO802Be9B/udhnY22zuUeXkKnJNuhqGmPq+p3k020nQonXQe7pWbqRC3n/rV04541aa2p6Z95unBNU66EgU6db+m+v3eR6N5vR04f3uwr2CFNFVJOS+dBoIcWMTV9LY41fNVaeOiZlFj/Wmq5x6gqd71wqJpfxmFmnLO3x7svTbYW4nKiWmv/DTVa4F0IuMWvzw+Jk1FTq/J0x7sksYSU3l1wf3nxbzARMm9WE21JzVtlocn5XVWLKYfpKnezYh0LXL6J197sK9UzrWvmkCQ+9fQ7SBQhavpB7ialrbM1rV7Mc3jSkNbEvPXVA9ce4eyB22qd5Np3+M8KX97sO+pJ4sL8jU5953E/DbVc5GOPUhTvZsLc3ZkJGrvwS6PDfZqU/sfH3OHFrFi8Xgr0QGTv6Z65DS9Oqd/WuyLnK3a8ZHI6x7sK5JJc3Ka8VQyJcjxsfMN+23gdDFwuslofK7xhmn/rXhh9zjvNtVNnprqrt1UH1lAU73rbCrQmYzTpKd7nJFJGxKnXWty7tsL+Ytb+tVUzzx4U72b0Zyu+mywp6bNienp24voEzRNuxLPTfXMAprq3dxo2N9lQ/3OW59gZYbSzcjpUq9jTZCj28n8ndDpMiPxuVfUI4npK/ECn/pVa6kcx36a6pJiJ10PQ037eFjJ1bq9Uox0wjmPDfZU5doCG+yNdlN9n6+mupPORcHCmurdLJcG+5qi+3bSvjXjrameDXVkLOvn35WL9E4oHXXSLGeLTwudLo8EeoeRIMj74lrdfhoFmnLtpbEGI3LfE/D6VqLyhpz7Nw/yF7aW3O6GVO40jH0UCmuBdKIQeQsVjeZ0JTSd8NVgt06DvRY/2GemO3uqP5XKc1M9s/Cm+n1mnC93PjPt64JnfCEN9q05t7vW0v40VVmemupOupTP6K3LswtrqnezNqdjozn930yo/xM4/U5SXSvy6QwL1nDS6SjQ1EI/FUCQY0EKgU5FgV510jVJCSPS/b2VmHbeifX8gzTYbzX0fJp6bKo73S6EOraYpno352fsaL79nGkvDXaT8iY9Vm3pS1sKn99gn22p3DQd8LRikTjpZjbU9M25xTXVu8k6TYVOpwbRYK9KOzp7qvtZsXC6EjqdKkULb6p38+5tO3trzr47ltPfZkL9Yyi9Jemqe7gnB4mTrkWBXi0EOsXpkyDvq+sN++FIpB9HgY466X1G5L5Bta2Z6rlqezvb7rOozp7q5nr7uNE8c4F0caSHpno3M037yyjQtPO0B3tqGm0mOjzzAMW3ZqJykmiv5OW+by2QTmSdvxWLu8by7Xb3UjfYJ0ruxWqsJ7w21dVpqs/4f2b2h1X78Ya8/np1Qf8tE+iHaq/0PZSTAye9HwU6OhLpx9cb9kPOngvD088W4VbD/mFNzo3UYl3r+hhTqDMeW2fr+vLWort1vmZHP+ubKkm7qZ7a4j6y9qmTr9OFKNRvcll/s/H5MtJULL2VSM9Ivc2OnVOxswf7yft937qC+/NW4vUpcJVcpGOl0H+QX5ixIxuKbn090bm4/fv2elzMb7CfPtslVO809HjL/DTVnZTK6U4U9NZU/9xVnnah67dfyLtqLdH7zUR7U2mvmR61lX8+mXNO10PpvdDpjWKk4zd58hlBvpRuNuxvthTcxTuJztRT7UtS7bCPyzVuGD8HefdXNlOxs9FIoddVG5PG66n2z8S6KulTQb4h716qp3rKfO1QdrepHvTeVO8648zoTNzSZJpqu/UY5J33y/qWqbwm5759s2Hfu/d7toy5w7MtHUh8N9UDvXlxzn7RjzEadbpwx+lEYlrXeTZBrysXmyU9XYnV9d7p/KZ6r8/sNmkulH6Xi3pvqj/Q7LxuP5L0o3U598ezsa7H0lOpaf0nDsyVoP3/xZxT4qTrYaB384GOj4c6eWHOT0+DIMfCZh7tN96RrUV3KE5VaEo5FygvKUiS4SuvhJ1qULWlvY1YX0ukJ9T7Mu5IKn2lYZ/dQq21VG6mOiSnkocRi510w1dTvZvLdXtlbc6tarb0R2ba4OM4SlOVa6bDj425C+dmbHL+16oNrY9TPWuem+r5sPemejdnq3Z8fdFtu1XX1th6D3J1GuyzLT29Ke9uXb6nDLUm576dJP6a6pIqUagjBS18W99eXG/YP2wfc9erif6xGXvZ7Ge5nWOcpNRS1bNSIwo0t9gNdkCQe7XS3oiP5l3lZqpcatpm1nOQf6LBfq1hf3f3C9tL7sstaVcq7TLzck+zFkonCq7/J9/RnK5UY73RNK0x6Ys9T1RMm2Npb6WhT3yWe3PBfa2eem6qS2dy0mS/37cf1OzlfOieTUz7TFrn4Xwz3kx0YLa9zelP57+ParH2dz5y5qupfrmY0cmrNXtlqY+/MzOffQsKuM8xDXzS+3X7f8VIrzvTVfnZgepug33//M9MX2/o+dj8NtWzoSZX53S27xdvM373YDcpn0qP1eJPNthnzWtTPVXnWdp3Yr9N9W7yYXtHPF8N9sT0ROOeYuDtprZ3Lha87ameCfR2Sf6a6gBBjiU3Euj9MNCbgacNcEx6PE71fD3ROqm9p/pcqkOpn2VXqdNUL2V16r2K36Z6N773YO88CvYTDfZ6SzvjRE/Jz57q1dDp9WK4dMvFY6Gmc4HfBntsKq/Othvs28bc4WqqPan8NdVDp+liVq+x5IthwdI6PtPFOfvFWNbtqMXaJGnCx+QslbZUmvry5oKr1lJtiFN92dee6k46nw31m1zQn6Z6Nxmn6Vg66avBnkp76qY3toy5w5WWtnWWi309OreSC3Ws0IemejcX5uzIupz7QqOp3yceG+xzqfY/Nuam7tT1xdjvnup3QqfpdTm9ylkAzMgx9Mby+mFnJ7uK/CyxjzUTPX+jqRdrsb+mupNLQqfp0Uz/mur3Wbnwtge7mcLUtD5JtPNmXc/WWvrDRL09k3uelpMu5wO9daVPTfVuxiNdjDw+012mza1Uz1RaKjdMTyXy9hS4uUDtPdXfvW1nOQOAGTmG3qUZu1HKutNxqrcT0x712GA3qZiY9iWmTYFT4ulZ2rFk1zOhpj+o9a+p3s3VToO91dRLibTex4VJKn2p3tJ42i7Rrfe0YnEuCnQ8H+raUo+R7wa7SZGZts409C1JG808PQXOaTYK9ZqvPdUBZuRYFoqBpqLQ1wMeXMakL5i0MzW3Ux7uaTqpFjidyLml/ZjQfKM5XfE54zTTo6m0R3KbfG0KEjq9Oxpp8vKA7vt+ULOXQ797sI8lpmdi0zZPE5KWTJeKGZ30tac6QJBjWbhWt58UM3pd0hXX8/K6qTNzGjXZuI9ZlJxuZ0JNlsKlvTc+3/kZO5oNNRk6P8+ZNmnEpDUm8xFQiXO6GTpN3WzY/xrkeykfaTp0Oumcl+eVR52PtPlY1aGpDoIcK9tIqKtRoLckP8+Z9mgukC6OZ/X2oHeFmmnaX4XtNvht57z0Cbxw7T3VX8+Gg18uHnGaipxeM9PMMjwRThVDvUpTHQQ5VqSLFftFMdTR0Ond5fR7OafzUajjS91U7zrjDDUdSifNVFtGw1TJhTo2ntPpQf8il2v2y5FIvwudzkleZuU+pE66FQU6va6o1zjaQZBjxRrN64dhoCl5euqXB33fU33BM85IZzKRjnU+V74cNCVdGs3orYuVpW2qdzMe6WLgdMI5Tw323tFUB0GOh8OlGbuRC3Q6dHp7GcymYud0PQp1+kbD/na5jNHlWXulGOj1oP1429bAD26n81Gg43n1b0/1hTpbteOlSEcCG1w5cT4nVTKBXh0LlsfvAxDk6O+sPKupKNSknwZ7T2phsDR7qi9UKdSVwHn8zHQPCRUEenc0q2PL7b7vjYZ9P4p02mODfbFaTrpciHTycn3p91QHCHIMYsb5UYNdUjKwjHK6HTkdHWRTvZtzNZvMhzrmq8G+SEmgTlN9brBN9W48N9gXe61zJQr0dilcNsv8AEGO/hsxXYk87sG+CMumqd7NoBvsTqoFgV7Ph8t3Y5Pl0GCnqQ6CHA+li3P2aj7U0UCDabAHnaZ6KaO3l/M45cP2jHMgDXanSuQ0WcoMvqnezYAb7DTVQZDj4TaW1/8eRIPdyd1tqk8u94bxSKQzuXAgDfZmIF0aCZZPU72bATbYaaqDIMfDbUAN9liyD0On6RsN+/5yH6PLs/ZKfgAN9rtN9ZGcPlzuY3S3wR5qaW8BOKmSjfTqWJamOghyPMSWusHupFrodCIbDs/JtxR29mBfqhmnkwLpdDHU5PmZ4bjve6Nh3w+dppxbsgb73afAnbw8S1MdBDkeYh812N2SNdhvRU5HV+U1NEuh52o2WQh0LAyWpMHebqqHmr7ZsL8ZpvdSNtR0IL21FA12muogyIF5RkxXMk5vuv7vwT4XSBdHM3r7wszybKp3vfpo2l9lXP8b7MPQVO9mdaTpjNORpWiwh46mOghy4CMX5+zVnNPR0PX389x3n6W9Kq/fDuM4hU5TfW+wD0FTvZvznQa7k37fx1l5+ylwgabXR/oJRy8IcqDjkaL+Pgw0LamiPiwfOykJnaZHIh0b1obxeKgzuVCTfWywD01TvesYRbqYDfWGrG+PEa0H0u9ykaana3aZIxcEOdAxPWPXM4GmQumk/DfYY0lD01Tv5tKc/Swf6ES/GuzD1FTv5mzVjo+EOhL0qcHupErG6bXluK0vQJBj4Maymo4C/w12J9UCp9eHqaneTd8a7EPYVO/mRsO+HwWa7kOD/e6e6qeuztnPOGJBkAP3uDxrPynmdML5b7DfyoWaXB0tvz3VF6rTYJ/sfGba1y2IoW2qd9OPBruTroSBTpVyNNVBkANdjYS6Ejq94Zy3BnstcLpQDPX2SmkY32raX4ehpjv3ynsO82FuqnfTjwZ76DSVD/XqsK9YAAQ5+upi3J13RAAAAuZJREFUxV4thjoaetqDPXA6H7nhbap3k+/MOCUPDfYhbqp3c/7jPdh/72GMEifdCJ2mHon0U45SEOTA58i29HLovOzBngTS9EhOv1ppe2GPOr2ba++I12uDfeib6t2M53UxCnvfg9051QOnd3IZmuogyIEH8oHZbC7U6dDplBbfYI8lfZgJdfpGbXib6t181GBv9wkW3WB3TueiQL8e5qZ6N2fv2PGRwEOD3VTJOB0pRSvn1gPwWSKGAD6Vsnonkb4fJ3pdUlFOtoATryTFTrpTyuj4Sh2jR5r60Vygx9NA/yQpu5jXCJ0ujWT0zkq973ujYT8oZd3aVqKrkpzcQjNcYeh0YyTU5KVZmupY2ZyZMQoAAAwpltYBACDIAQAAQQ4AAAhyAAAIcgAAQJADAACCHAAAEOQAABDkAACAIAcAAAQ5AAAEOQAAIMgBAABBDgAACHIAAAhyAABAkAMAAIIcAAAQ5AAAEOQAAIAgBwAABDkAAAQ5AAAgyAEAAEEOAAAIcgAACHIAAECQAwAAghwAABDkAAAQ5AAAgCAHAAAEOQAABDkAACDIAQAAQQ4AAAhyAAAIcgAAQJADAACCHAAAghwAABDkAACAIAcAAAQ5AAAEOQAAIMgBAABBDgAACHIAAAhyAABAkAMAAIIcAACCHAAAEOQAAIAgBwAABDkAAAQ5AAAgyAEAAEEOAAAIcgAACHIAAECQAwAAghwAAIIcAAAQ5AAAgCAHAAAEOQAABDkAACDIAQAAQQ4AAAhyAAAIcgAAQJADAACCHAAAghwAABDkAACAIAcAAAQ5AAAEOQAAIMgBAABBDgAAQQ4AAAhyAABAkAMAAIIcAACCHAAAEOQAAIAgBwAABDkAAAQ5AAAgyAEAAEEOAABBDgAACHIAAECQAwAAghwAAIIcAAAQ5AAAgCAHAAAEOQAABDkAACDIAQAAQQ4AAEEOAAAIcgAAQJADAACCHAAAghwAABDkAADAl/8PxmEbPUup8R0AAAAASUVORK5CYII=</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Resistencia</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Lámpara</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Pila</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Interruptor</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar LED</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/b73f82582b346aafd745.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="b73f82582b346aafd745.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Diodo LED</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Lámpara</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Altavoz</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Motor</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Lámpara</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/763af8b3969223466dbd.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="763af8b3969223466dbd.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Lámpara</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Diodo LED</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Motor</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Componente X</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Zumbador</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/dd85afc996dbb1cdfb0b.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="dd85afc996dbb1cdfb0b.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Zumbador</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Altavoz</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Motor</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Generador Alterna</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Altavoz</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/5c79037e5be2b404638d.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="5c79037e5be2b404638d.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAg4AAAFaBAMAAACEYsh2AAAABGdBTUEAALGPC/xhBQAAAAd0SU1FB+QJGhc1IYSEQaMAAAAwUExURf///wAAABERESIiIjMzM0RERFVVVWZmZnd3d4iIiJmZmaqqqru7u8zMzN3d3e7u7j2dGw0AAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAAA79JREFUeNrt3UFu3GQAhmGXIihU6uCWRSRW2RWxgRuwZUfXsOAKHACpk94AOECPULXqnltwjR6BeDKZsT3/P42sWMj+nncbaeQ8+aKMpXj+ppEkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSdJd2vz90wcKTXPVtt9SaB61bfsMQ7O9dmhfm0PH0P5sDjuH782Bw3EO8Q77OcQ7bDn055DusOUwmEO4w5bDcA4Lcpjh7ni7RIfru+Pns8zh6aIcNpfXV/xhhjk8fbcoh90P7+UMc/ju4aIc7v9q93N4syyHB93VfjXDHJpwh9s5hDsc5hDucJhDtsNxDtkOxzlEO/TmEO3Qm0OyQ38OyQ79OQQ7DOYQ7DCYQ67DcA65DsM5xDqM5hDrMJpDqsN4DqkO4zmEOpzMIdThZA6ZDqdzyHQ4nUOkQ2EOkQ6FOSQ6lOaQ6FCaQ6BDcQ6BDsU55DmU55DnUJ5DnENlDnEOlTmkOdTmkOZQm0OYQ3UOYQ7VOWQ51OeQ5VCfQ5TDmTlEOZyZw7ocnrxqP15xDutyuLoDQ3kOq3Lo/gt94hxW5fBo+hxW5fBw+hxW5fBg+hzSHL5pOHz8d4oDh7U6TPwqBw4cOKzIYeJfBA4cOHBIcPiEw67POdzE4abfOezaXHGY9V03Bw4cOHDgwIEDBw4cOHDgwIEDBw4cOHDgwIEDBw4cOHDgwIEDBw4cOHDgwIEDBw4cOHDgwIEDBw4rdHjywnNJXS88p9a18dzirs84HL8XDhw4cODAYcZ3zhw4cODAwedwcuAwyeGCw00vAxzu8rnuFwEOX7TTBxF37sPF+h2aP6cPYlUOm78mDyLpnKC3ZwaR5PD4sj6IqHPEzgwiyuHMILLOGawPIsuhPoiwc0irgwhzqA4i7Zzi2iDSHGqDiDvHvDKIOIfKIOIcKoPIcygPIs+hPIhAh+IgAh2Kg0h0KA0i0aE0iEiHwiAiHQqDyHQ4HUSmw+kgQh1OBhHqcDKIVIfxIFIdxoOIdRgNItZhNIhch+Egch2Ggwh2GAwi2GEwiGSH/iCSHfqDiHboDSLaoTeIbIfjILIdjoMIdzgMYlkOn3ZX+2MzwyCW5fBld7WvmxkGsbDPA/mhbZ/d7yvuB/FqWQ7v2/aXGSa2bzkOzb9/3Pcrvl2kw/33+JLDaBDZDsdBZDscBxHucBhEuMNhEOkOt4NId7gdRLzDfhDxDvtBcLgZxG+NQXQO/3DoBvE1ht0d/a8UZrmjlyRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJ+l/7Dw1ym9s1B88zAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTA5LTI2VDIxOjI4OjIzKzAyOjAw+/UzegAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wOS0yNlQyMTo1MzozMyswMjowMJfZZSwAAAAASUVORK5CYII=</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Altavoz</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Zumbador</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Generador alterna</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Generador de continua</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Motor</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/8d9e3af9d9f0e7d160f0.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="8d9e3af9d9f0e7d160f0.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Motor</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Zumbador</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Vatímetro</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Lámpara</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Tierra</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/af6aa071c5324b8cea70.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="af6aa071c5324b8cea70.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAg4AAAFaBAMAAACEYsh2AAAABGdBTUEAALGPC/xhBQAAAAd0SU1FB+QJGhc1IYSEQaMAAAAhUExURf///wAAABERESIiIjMzM0RERHd3d4iIiJmZmaqqqu7u7hEARcgAAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAAAalJREFUeNrt2bFNxTAUhlEjFKSk4sIENNCSBtiAlhEQbJCwQRZghDcqNY2jJ7B45p4zwifbsvSXAgAAAAAAAAAAAAAAAAAAAAAAAADw66aP54MKpbxF3KpQppuIKweiXEREvOpwHhFxr8NZRMSlDjrooIMOOuiggw466KCDDjrooIMOOuiggw466KCDDjrooIMOOuiggw466KCDDjrooIMOOuiggw466KCDDjrooIMOOuiggw466KCDDjrooIMOOuiggw466KCDDjrooIMOOuiggw466KCDDjrooIMOOuiggw466KCDDjrooIMOOuiggw466KCDDjrooIMOOuiggw5/aXqPZh4O/XRYoqG7fjrMLTtcd5NhjKY+e+kwtO3wokNfHdwL7+Q3W8sOTx39o9Z2GR47+kcBAAAAAJyIn83fPQ3cdUuagbtuTjPcVI15hryqIc2wq4N74Z082pZm4N75R60GbgAAAACAE7I3f/+fgbtuSTNw181phpuqMc+QVzWkGXZ1cC+8k0fb0gzcO/+o1cANAAAAAAAAAAAAAAAAAAAAAAAAALT3BentuZyOuz5PAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTA5LTI2VDIxOjI4OjIzKzAyOjAw+/UzegAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wOS0yNlQyMTo1MzozMyswMjowMJfZZSwAAAAASUVORK5CYII=</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Tierra</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Pila</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Antena</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Receptor</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Diodo</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/67a3d98a2b2cda3153b5.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="67a3d98a2b2cda3153b5.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAg4AAAFaBAMAAACEYsh2AAAABGdBTUEAALGPC/xhBQAAAAd0SU1FB+QJGhc1IYSEQaMAAAAtUExURf///wAAABERESIiIjMzM0RERFVVVWZmZnd3d4iIiJmZmaqqqru7u8zMzO7u7mm5f04AAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAAA1hJREFUeNrt3T1OVFEAhuFrIEQxEAf8iSEUGEwsYQNG6Sw1sbLBfWhiXICxsDa4AylcgDvQytZSdiGgA/Nz79xzE6rzPU85nGa+MG9uMTnTNAAAAAAAAAAAAAAAAAAAAAAAAAAAV27907PfVmia96PRIys06zuj0YZ/iOb66NQ7Oyyd7bBnh2tnO9yygx3sYAc72MEOdrCDHexgBzvYwQ52sIMd7GAHO9jBDnawgx3sYAc72MEOdrCDHexgBzvYwQ52qNLJwYN5O2c7bLT8YfdNpTPcOH/L5TY+1rnD0migx3Xu8GXoDvfq3OH50B3u1LnD66E73K1zh+9Dd7hf5w4/h+6wXecOK0N3OKxzh7XzN/fw5ayD3bmXXpwf/VHpg9R5KLdKTh5XnMn/gbhdcvJpxXkYB+Jr/8GbNedhHIgn/QeXq85DeSDqzkN5IOrOQ3EgKs9DcSBqz0NpIGrPQ2kgas9DYSCqz0NhIOrPQ1kg6s9DWSDqz0NRIALyUBSIhDyUBCIhDyWBSMhDQSAi8lAQiIw89AciIw/9gcjIQ28gQvLQG4iUPPQFIiUPfYFIyUNPIGLy0BOInDwsDkROHhYHIicPCwMRlIeFgUjKw6JAJOVhUSCS8rAgEFF5WBCIrDx0ByIrD92ByMpDZyDC8tAZiLQ8dAUiLQ9dgUjLQ0cg4vLQEYi8PLQHIi8P7YHIy0NrIALz0BqIxDy0BSIxD22BSMxDSyAi89ASiMw8zAciMw/zgcjMw1wgQvMwF4jUPMwGIjUPs4FIzcNMIGLzMBOI3DxMByI3D9OByM3DVCCC8zAViOQ8TAYiOQ+TgUjOw0QgovMwEYjsPFwGIjsPl4HIzsNFIMLzcBGI9DyMA5Geh3Eg0vMwdeXcYfIOa5c7JOdh4m7O6DxM3Em5nb3DijxMByIpD3/2h9xGuvmh0hncZ/7P4PvM9+rc4XjoDlt17uA+czv4XOhkl9X9YTNsHlX6AHEy7Dnqc9STtd9LsoMd7GAHO9jBDnawgx3sYAc72MEOdrCDHexgBzvYwQ52sIMd7GAHO9jBDnawgx3sYAc72MEOaZaLfuq+fqtnOxzZoTn9svGmFZrm22j0ygqnfr21AQAAAAAAAAAAAAAAAAAAAAAAAABw9f4CZpUKc2B/FvIAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDktMjZUMjE6Mjg6MjMrMDI6MDD79TN6AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTA5LTI2VDIxOjUzOjMzKzAyOjAwl9llLAAAAABJRU5ErkJggg==</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Diodo</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Diodo LED</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Pila</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Transistor</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Fusible</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/7b5f9b99fb14e199d584.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="7b5f9b99fb14e199d584.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAg4AAAFaBAMAAACEYsh2AAAABGdBTUEAALGPC/xhBQAAAAd0SU1FB+QJGhc1IYSEQaMAAAAhUExURf///wAAABERESIiIkRERHd3d4iIiJmZmaqqqt3d3e7u7mdTBS0AAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAAAUFJREFUeNrt3CFuQkEQgOEnKCG4hYCvQdQ9AViOAMGhKLjaXqCXqCcIzolAIXCT7Cz5vgOs+JP3Mslmp+sAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMjnvy9hpodmM3x8lkCTbasdriXUV6sddrEdZq126GM7TFvtUILpoIMOOrxlh3RH6aCDDjrooIMOOuiggw466KCDDjrooIMO79VhvC+VLC+ZOpxKNYtMHfp6HTLdeo5KRX95OgxqdtjokK2D78J/8slvvQ7rVHPUuVaGVao5ylytgw466KCDDjrooIMOOuiggw466KCDDjok7OBdkg466KDDS965P3zHdpi32sEejIdh7F6UY6sdulvknpyfDgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAdO7hg+Bl0OcQUwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wOS0yNlQyMToyODoyMyswMjowMPv1M3oAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDktMjZUMjE6NTM6MzMrMDI6MDCX2WUsAAAAAElFTkSuQmCC</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Fusible</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Resistencia</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Generador</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Relé</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Pulsador n.c.</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/3c07dd82070680ac94ec.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="3c07dd82070680ac94ec.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAg4AAAFaBAMAAACEYsh2AAAABGdBTUEAALGPC/xhBQAAAAd0SU1FB+QJGhc1IYSEQaMAAAAwUExURf///wAAABERESIiIjMzM0RERFVVVWZmZnd3d4iIiJmZmaqqqru7u8zMzN3d3e7u7j2dGw0AAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAAA0JJREFUeNrt3E1OE2EcwOH6AREKKCB+RE1kSTQq0QWy0ngBuIEewa0rjAcA9ACSuHBlAp5APYDBrSvj2gVxhSs/hoJtbTvvvGPL2/I8qzZp/hl+mZnODDOtVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+Mfu/GQB06sDmmFkdrKQqbXB7HBisqBbg9lhq2iHS4PZYblohxkdBrmD7cJ+st7ofLEM0xsDegDxo9hx1MujcXSZ/bFt3x4dOuiggw466KCDDjrooIMOOuiggw466KCDDjrooIMOOuiggw7JGH/94PadJ9v/o0POqKR92/sv//TH8h3yRqVsd/9uyanVsh1yRyVs7P7BDR1n35XrkD8qYU/r7my5UK5D/qh0DTfc4vOwTIeAUel63LDw58t0CBiVrFNN93ytxHcIGZWsT00LfyW+Q8ioZNX28FO3a994Z+M7hIxKfLNY2K6MP2u7Nod1CBqVqhN133FP290iHNYhaFSqPmRr8mb2upqtz9djOwSNStVy/d3yW20eIQjrEDQqURMN2/HeFv4lrkPYqMNz+lnubeI7+x/NThbfxXUYazGqk4Wd3nZ4nnu7/PnGA8KVuA6nWozqaK63HfKfILh88Nn3rc8LgjoMtxjVeTXsaYZq/uMTZw4+fOzP23txHU62GNXZZi87DBXpcLxsh6tFOizp0PsOxbeLpbgOQ2lvFwH7yb8PHW6V3U82jUpoP1l5lbtA5w4+++jP2424DqMtRnW02OPjqBe5T+vvH/ZNzJY9jmoa1cndHh9HdY40W78lZKv21E5ch7BRSZ9nXay9WS9/npU3KlVfsz9qLXs9kr2+EdshaFTa12Fmtn+/HF/+H9dhckalarT2uwVvfn6u/djBRmyHoFHJetz25LPwddqQUcn63rTwN+M7hIxKVjXgYDewQ/VQj5vLWm9Y9ouV+A4ho9I10rDwa2U6BIxK2Nu6Zb9WKdMhYFSq8q/ixuv1ldjuXsUtYa5/Osx3s8N032SoTnZV33xzDnW3w5IO/dXBdmE/WfAqbgmL/dMh/ypuvKSuxAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAlF/Yt0ZAs3/y3gAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wOS0yNlQyMToyODoyMyswMjowMPv1M3oAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDktMjZUMjE6NTM6MzMrMDI6MDCX2WUsAAAAAElFTkSuQmCC</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Pulsador n.c.</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Interruptor n.c.</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Distribuidor</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Pila</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Voltímetro</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/2bd2dbaef17484d03520.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="2bd2dbaef17484d03520.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Voltímetro</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Generador de tensión</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Pila</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Bombilla</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Amperímetro</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/081033cf9cf852e1b87d.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="081033cf9cf852e1b87d.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAg4AAAFaBAMAAACEYsh2AAAABGdBTUEAALGPC/xhBQAAAAd0SU1FB+QJGhc1IYSEQaMAAAAwUExURf///wAAABERESIiIjMzM0RERFVVVWZmZnd3d4iIiJmZmaqqqru7u8zMzN3d3e7u7j2dGw0AAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAACcRJREFUeNrtnVtsVEUYxw+l28t2d4+n2xuUW0FEUS6FIBKDsj6Y+KC2kIiXRFkvicEEKYTEB026GjXGB1vQhIghLYm8EVuNRhIjpS/GmJiWmpjwtICSEH2oRQ2RF9tz2Vtn5jt7SsL55vz/j+ychvmdme/75psz3xgGBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQFHKZHz82DQqG8bZl3Q0KhtllWc0YEEaDNat+cFg8x2EzOCya43AHOIADOIADOIADOIADOIADOIADOIADOIADOIADOIADOIADOIADOIADOIADOIADOIADOIADOIADOOgo8+L7r2TmOLQ89caZ6ahS+OPIFqtEa/Z+H0UKF/dY87TtTNQo3HzJEur+c5HC8E2XJVHza9GhkDxsKbR9IiIYmjKWUi0jkcBwo9silP4IGKIC4kalhVy9dcuarasrraXuIBrLRkN674m88++ps0fKfxmIjonc9ln5jz/uiYqxTL1Y7Ojak/N/v7a7+PtdeX05nCoagGeFyyrz86L5WK8thqvFUT8kaxMvzpwDuhqHwrtepwgZk4cKY0ZPE2HmvA4+oEw1mO947Tq0TEn85nVvB9XymNfyCQ0xJLz44B7yLZtHvShiTF9f0e5jsJt92vqMBs9T+FpVJz2v0a8bh6zrA4b8NY+7vqVNMwz/uu/3eb8P/O4+8LpePrPXtZH+H3FtZatWvvMf1/5P+H8k6fqXF3Ti0BugTy67Vo0w1LnxYXVPufHnPn04uOHAUHVPxd2AQ7fY4b5qnxvXLIYYdkKHqoPkhBNELNVlZeF0Z2f1T04FBBhOXanaZ1b4zod0cpobgjx6QSPX2bCAwe1OKS0s5ajdlc7b8HColOoOEjuUxxDpPH8O9UFCycqg8qAuwUNP0MdjmoQQpj0t0tO36/lwTQtVSE3U4RzXY2KMk47vqDo90xBsbRI2ZchAaHbgp8kwrIU5BsfvbaQmjmq8XF6I3w2L/rY7MaBoMTPXYJOiQaP9J57kzWGQHNTDpF+0p9YSDbzmMnL6Kw3Ief6es4HMMJr2SkpZsLiO/1rrut3JPGlIlWYwZaN6mL156KDjZnVSOsfeQGQoZ+C4Cz9tOEcQCXpmD1r0QsqxMmN8OcRIG+jtdCn3tR1b2sOXwyXSPJju/n4znYRYwZdDjgqq3WBxViMGFVp38OWQIV1BzOOgbFXH21AmaPs243FYtcA/FPocTAsdYNAp6QzrXMxiOv7p9Ti00bg2c+VwgTTzZuFT4zTteDZw5ZAj3b7tLtJdpMOIsXYYGSoH4/SvvZd0GI2cHUbKHvDT5HhfNkzOftP+U3meHJp8uovNM2SyxhlaI4zdZgftLg7G6M+gcowdZy35mp2ZMxanHYadm9vFk8MMGSc67sL1nspwsYZMUoRX9Dv0JkQvOerpsRVeDZK9u+T2jg4X6xmn5rKkjff6TzuMJsaHEDKkz/eWT7TDSDEOpLqpPFPKW0430g6ji2wRVpnkKyx0P0XnFzJkbBrqLEwb6QTai/EUaWxYZmLiZDhpu4vl/vILObab/42kq8sVel8konQtA2yXF51+3IU7Q5RjZ5TtAqOOeseOdZzwl1+YZHs0xw4KVioaNBS9ZQkSif5iu6UVo5ZZpZMhQ22E1rDlUEtxKDWOOWpNVsN24U1yKO076TD4ciAvpC6dC6TD4Hu9NfU/L7ONDZTD0JdDWdeTlMNgzmGVP3dBO4wathwoOzlZZhoph6Gvvyjv+SSxF8qXQ4woTF0+EyiHsYh3PCl/wxWWkXIYl9hyINZZFR1PEjuYfNdZxLq7ciIQm+N8191EHmayYrgQDoNvHiauTsbnRIVp5eakj21eLqnO0wrL9cqHT5ZKUIRXSg+QFJeuVntZlhjU+zh14orNUofBdx/H2ZSYUMWH89WvGj5M60AoTdukmMOuYEY31FLu++fEHDapghGm+/6TqhcsqfW/RBV1LefJQfUtT1JS2V5mAuhvjEK+0OpUrC5E14BMK8LqHp4c6hW2bbFgmd2tsKt9jL8bTCi+7hClXfoU77yb8QEM53PACfn7rbCh5+X2JEkfeAt7INUvf7/9grmyVG5O2JbTGpQ6TmHWpU7e2VrWJ3ovS52+8MRSk3zwT5IH/8Isee5VfGJJ7jByjD+vLvvAwRCYxBXCHMM+v+aEWSZG+EVtn/D9jsocRpPFNwtTcBg9svc7IAzEl8oiU8bVFwclhjIhzrnUyTJ5k8wLQMxIOlYvfr9NshPvWcanLwr9FZRFkR1wlRxgdAqjHOTLISmpDXdekqOXOIx65mbSNZQbxe5CYD+HxVmGy+yL1I6KDYRsD09yHiXLvjZrTDyieyUpevHWcNJiXhbFqw7VI+LQKmu+UgxziDMHZwZ0iga6KF6yy7CtEk4u5oUXR4W14aZkq4ULgh+cGnXMSzfHhJ4zlZFsAM9ePbde7DV7eHNwIuh5LuDGpyPi9hePjwmDDc5VtIo+byFFE51pwf7+qCsLvdulTo8rDxoXWod72GL7RdB8z9kceHGQ7NKhXHHBzAWuonndYnzSf/7ECLxK6tVkWng7/AGzB/WWJtPCu9slYFZt0GJdQassRrSCr5PiPooyslFf8LtdRnW6Ua028C3U7k3Xu/Tg4N6QE+Cu3VPa3I5jazyghYgHvJcv5Jay6nqBOZ2sZNH7VRtD1FsW832sSjUEuWvXu9O3Xx8O3giv6srFqYCzKcyqr+72bttIdlkW8+08+YBo8z0zzKyGw6H4/eyDfh/4StOL7Yfdfh3w1/yqZS00kRXSGMKd7mlfJiLunt4KEoyHXFPeEawxum3CO5WwUzsMc3s3rq2coJomsx6zvH4cPN9Jgyhg0MxnevqycNhEOTUShZr392qJwUgVOtjyhbzVf4UTS615PTkYjYWq/s1vytr8UGwzYOiqX4oHkLYL50bicLHF44a+OlZyEmv/vGGfOt1V/H2HxhiMVLbkTFr66XOlv918t/Toe1teZw4lPtHWtldP/Dy79DL/PPvenrIf6CCDe3wtOcBace5/xNBdTb00hlb9Mcz6hN0UhrVjRhRkHlJjWDdtRESnVRj2G9HRtUdkFO48aURJZSGTMrjSXclPtlRSWPPMhBFBmd++XDIomh/9cNqIqsyfjttfR7R/8F10IThaRJRnBAdwAAdwAAdwAAdwAAdwAAdwAAdwAAdwAAdwAAdwAAdwAAdwAAdwAAdwAAdwAAdwAAdwAAdwAAfeqtWoEs5CFOdfhPfWqJvtRYq3Vl9b1nOgMKtf3wIDCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIKgsOt/dtI77b0CAy4AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDktMjZUMjE6Mjg6MjMrMDI6MDD79TN6AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTA5LTI2VDIxOjUzOjMzKzAyOjAwl9llLAAAAABJRU5ErkJggg==</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Amperímetro</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Generador de corriente</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Pila</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Aluminio</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Transformador</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/c747472b466a3d10c674.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="c747472b466a3d10c674.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Transformador</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Bobina</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Doble conductor</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Transistor</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Masa</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/c67b089624b581cd2dea.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="c67b089624b581cd2dea.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAg4AAAFaBAMAAACEYsh2AAAABGdBTUEAALGPC/xhBQAAAAd0SU1FB+QJGhc1IYSEQaMAAAAwUExURf///wAAABERESIiIjMzM0RERFVVVWZmZnd3d4iIiJmZmaqqqru7u8zMzN3d3e7u7j2dGw0AAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAAAh5JREFUeNrt1D0uhEEAxvER4iM+1iOy0WwhUSjFDZQacYR1AnEDnIBE4wg6WqfYI+g1WziAA5hEs8O8ye9XvpnqP/M+pQAAAAAAAAAAAAAAAAAAAAAAAAAALNzo6XyuQin3ybEKZXSY7HkQZT1JbnVYTpITHZaSZFcHHXTQQQcddNBBBx100EEHHXTQQQcddNBBBx100EEHHXTQQQcddNBBBx100EEHHXTQQQcddNBBBx100EEHHXTQQQcddNBBBx100EEHHXTQQQcddNBBBx100EEHHXTQQQcddNBBBx100EEHHXTQQQcddNBBBx100EEHHXTQQQcddNBBBx100EEHHXTQQQcddNBBh/+0fZpmjl6H0+EuDR0MJsNWmvoYSoflth0uh9LhrW2Hk6F0ONOhlFI222bIdCAdVhp3mJmHJNk3D0mSyaDmYVp9JeMWh7ueh1n1lUxaHO55HsZ/90q6nofJ370S82AezIN5MA/mwTyYB/NgHsyDeTAP5sE8mAfzYB7Mg3kwD+bBPJgH82AezIN5MA/mwTyYB/NgHsyDeTAP5sE8mAfzYB7Mg3kwD+bBPJgH82AeBjYPG/W7fKze5SIOd2q9/hPfVe9yEYc7tVb/iW+qd7mIwz2/h2n1isdNDvfqKtn/+PF1NclFk8O9+kquf34dnWU8b3K4Vzvvz7XPny8PjQ4DAAAAAAAAAAAAAAAAAAAAAAAAAPzmG3mtg6RR1Yc6AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTA5LTI2VDIxOjI4OjIzKzAyOjAw+/UzegAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wOS0yNlQyMTo1MzozMyswMjowMJfZZSwAAAAASUVORK5CYII=</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Masa</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Tierra</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Pila</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Cepillo</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Transistor NPN</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/30f9659faa27e8e566f3.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="30f9659faa27e8e566f3.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Transistor NPN</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Transistor PNP</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Transformador NPN</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Transformador PNP</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Transistor PNP</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/575bbd36d596ec71123c.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="575bbd36d596ec71123c.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Transistor PNP</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Transistor NPN</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Transformador NPN</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Transformador PNP</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Relé</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/30973e2a224694e610e6.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="30973e2a224694e610e6.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Relé</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Bobina</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Interruptor doble</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Pulsador doble</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Bobina</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/f16a43da41016b61849b.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="f16a43da41016b61849b.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAg4AAAFaBAMAAACEYsh2AAAABGdBTUEAALGPC/xhBQAAAAd0SU1FB+QJGhc1IYSEQaMAAAAwUExURf///wAAABERESIiIjMzM0RERFVVVWZmZnd3d4iIiJmZmaqqqru7u8zMzN3d3e7u7j2dGw0AAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAAApFJREFUeNrt2rtqFFEYB/D1hrlo1k2MMYGAhhTaiOm8gGgICKZJOlsfQFCws/GCpaDxBQz6AIIBS30DtRFL0RdIr4WaMZu9zAxmzkLmg9+vy/kv7Mx3zvlmOJtGAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAmvr1ZHFubv7mx8Gnkfy8d7q1Zfz6+8GmoXxdbbVNPh1kGsqXVpfbg0sjl6HnZlLS2GXoupmUNJSRa/33cvzlINJYHrZynBxEGspQK9eD9DTqcphYWlrondSUNOZymL+/2Wg03y12TWpKGnM53NjM/m6+7pzUlDTkcljeGdrYmdSUNORyWO4c22hPakoaypHssme6R9ez0Q8paaw6/MiuuufNZyQbvZKSxqrD3bwp3Z7UqZQ0VBnGsoODN73jo9lxQkr6LVIdDudPaXuXJ6R3ItXhe94O79jlCem5cO1hJi9ZL5nw/0qnwrWHq3nRwe07rZpGahDDRUu7Y+lXTp/FqcOhrWOT/OzfAUv1dCVOHT4XbvF2C6iezsapw/PCLd5uAdXT6Th1WC3Zx1nvSEgn49Rh6wSpoK+PZXdaPZ0IU4ajpZe7kJp+CvXYPFGU3kpNa/zgbD7uO1ueLm2iKWmXC5t1qsNa/xn7bOlDNSXtdrZ2jbHbqaLP7vubHquW7u//njq1zdHW3tWh/6Bij9+j96oOK/Wuw/miDx9ITetbh9Hd/BY5XPrsK0+H6r0v8vpk8Yf/HE6MV03r3Scbr3bzG/1a6cOuPO3/f4BLtXqPetFzdWfKXm/eXm5UTZuPer7oYq3eowAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAfgPZJOhL/RYuWQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wOS0yNlQyMToyODoyMyswMjowMPv1M3oAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDktMjZUMjE6NTM6MzMrMDI6MDCX2WUsAAAAAElFTkSuQmCC</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Bobina</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Cable</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Pulsador redondo</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Nudillos</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Condensador</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/890cc249ade2be169816.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="890cc249ade2be169816.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAg4AAAFaBAMAAACEYsh2AAAABGdBTUEAALGPC/xhBQAAAAd0SU1FB+QJGhc1IYSEQaMAAAAnUExURf///wAAABERESIiIjMzM0RERGZmZnd3d4iIiJmZmaqqqszMzO7u7iLC/yUAAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAAAaBJREFUeNrt3CFOA1EUheFLSgJNKjidYHBVWGYHSCyWLWAIGoFAIroFBFtA42BZiEKCIUHcBF7yfUv4M2/yxJmpAgAAAAAAAAAAAAAAAAAAAAAAAABot3q4eFWh6jY5VaFWm2TtgaiDJLnRYZEkZzrsJcmRDjrooIMOOuiggw466KCDDjrooIMOOuiggw466KCDDjrooIMOOuiggw466KCDDjrooIMOOuiggw466KCDDjrooIMOOuiggw466KCDDjrooIMOOuiggw466PBX3ua0me6GzXC4SaP1/agdFmk17M+2nno7nIza4bK3w7EOY3dwLrwnv1vOnRmm7bAXiPfOe9SjuzcAAAAAAAAAAPB/2JlXlZ35F/vJHXvaHftqHZwL78mf2Jl/sjP/Pd+x6qCDDjrooIMOOuiggw466KCDDjrooIMOOuiggw466KCDDjrooIMOOuiggw466KCDDjrooIMOOuiggw466KCDDjrooIMOXfaT5FyHZZJsdag5mVSoek6uVKiql2sNAAAAAAAAAAAAAAAAAAAAAAAAAIB+H6EGpvNky91YAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTA5LTI2VDIxOjI4OjIzKzAyOjAw+/UzegAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wOS0yNlQyMTo1MzozMyswMjowMJfZZSwAAAAASUVORK5CYII=</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Condensador</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Pila</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Congregador</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Pila pequeña</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Resistencia LDR</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/8a4b6ceb4bf9e9125081.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="8a4b6ceb4bf9e9125081.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAg4AAAFaBAMAAACEYsh2AAAABGdBTUEAALGPC/xhBQAAAAd0SU1FB+QJGhc1IYSEQaMAAAAwUExURf///wAAABERESIiIjMzM0RERFVVVWZmZnd3d4iIiJmZmaqqqru7u8zMzN3d3e7u7j2dGw0AAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAAAv5JREFUeNrt3L9OFFEUwOFJgASzMeQsavzX0GkodDu1goTGDl7AhBfwERDiA4hoT+ELwBv4LDZaEjs6CzXKwtwwkyE7e+b72pOQzO8ebya4S1UBAAAAAAAAAAAAAAAAAAAAAAAAANyY863j1tNEltdifNhymslBRDxvOc20DhERD9tNs61D3G03zbYOca/VNN06xONW03TrEBttpvnWYXzSZppvHdbbTK2DdbAO1sE6WAfrYB2sg3WwDtbBOlgH62AdrIN1sA7WwTo0tfL59Vn9gZenmRxFPKk/8PI0kduTiNivO/DyNJPFiIj7dQdenmZyGhER+zUHXp5mshkREXdqDrw8TWQU/7l04OVpuuvhr/Vm03zXQ92Bnw5lHf5cAHUHvjmUdRgVD3w0mHVYLB744lDW4cIFsN1wmvV6uN9wmvXtIfYbTdO+PVw68vI06/UQEYdNplmvh8sfHS9P014PEY8aTPNeD9MfHS9PE18PUx8dL08TXw9THx0vTxNfD7Fx/WkmS9MXwNfrTxNfD+N3DaZ5r4fxXpNp2uth+kFHQ8lw8f3g0oMuDiXDxV8+7jWbJr0ernjQzaFkGBUfdDSUDNVC8UEXhpLh3wVw5YOeDiVDtVN80J2hZKgmf570bYtpvg515z0ZyDZU1W7xQXeHkqH6FhGx126a6v1hLeJNy2kq37f2Wk8BAAAAAGjhxyQ6s/phbjMsr0WHxvvz2uFndOrZvHY46LbD3H4fY9Jth9V57RAd00EHHXRI2aF3P0oHHXTQQQcddNBBBx100EEHHXTQQQcddMjVYeX9Df9ytfbHvzjrU4ejmFWHeNqnDpPZdejT/3qOYnYd4qQ/HZZm2WFbh7518O/CPXnBl9l1eNWr96hPs+rwslfvUd6rddBBBx100EEHHXTQQQcddNBBBx100EGHHnbwvSQddNBBh1q+5/7bx247PJjXDv4Oxm+3uv27KIfz2qE67/Lv5BxXAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkNwvTY5vpNCLi9YAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDktMjZUMjE6Mjg6MjMrMDI6MDD79TN6AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTA5LTI2VDIxOjUzOjMzKzAyOjAwl9llLAAAAABJRU5ErkJggg==</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Resistencia LDR</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Resistencia NTC</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Resistencia</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Resistencia variable</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Resistencia NTC</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/53f73533ff04197f75a3.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="53f73533ff04197f75a3.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAg4AAAFaBAMAAACEYsh2AAAABGdBTUEAALGPC/xhBQAAAAd0SU1FB+QJGhc1IYSEQaMAAAAwUExURf///wAAABERESIiIjMzM0RERFVVVWZmZnd3d4iIiJmZmaqqqru7u8zMzN3d3e7u7j2dGw0AAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAABFdJREFUeNrt3TtrFFEchvEDGqPmxrubxAuxWBHExrgIolbRT5D1UlpEsBMxhVgpEfuYRPsoWlnFoI1VRAWLFMk3sLSSYGdnsbdc5nJmZ8DM+T+/Si1WfHhnd2fH2TgHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwNPn9ytEcIN3pcp98xmGGpKkO9Y7LKppwXaGQ60MGrf3bx95dXZj9xwsDuKgNNH65XCt0+G8uQ5fukdB57CweGDMSJWtThJp7J4kac1ah2uSWk8Qs5JG19w3SXpouENd0lTrjy7Y7TAkSSvOuQ+STtnuMNp6CaEDHehABzrQgQ68f4g96W6fWFXnm0na7yenrJ10t1W2mucXK+6jvfOLzW4HLTTPN0dvGTzfnN3WYcrw5w87O9j9PGr7cfHa8OeTfd0M1S3n+tu/OWbt3cO7ToZl55xbar12GLx+se3zKOeGZyRJD5zxDm7whlQ1eX1zZwfn1tfXHB3sMtXhu3arzBvs0K+9Khv2OvyJ6NA+o7TUYTGqwyQdrHbguIh/npTB50n3ae/LxVPeR/F+MvwOf6+f3uHMsskOR2p7ngDmLHY4sPf14LjFDm8iXhjnDHZoqNdBXAvq4tWMeh3EbFAXdb+o10FsSqo8+f0zjA4H1esgDnSvdwdgsNHrII52r3eHYOjR7e1u+A+iEfKlvIGa9yA2O9d5Q7TqPYj2gTHtjA/ia+d6t+1BNC/2jgV6Pp1hEO7HzYuXgr17dTXLWUbAsgwiaAyCQTAIBsEgGASDYBAMgkEwCAbBIHL4VVdhqi9Km+FwTQWqlHY9f1SoybJ2eFZsh9I+rdaL7VAtawcVjA50oAMdguxQzFlGyB2ynGUE3SHDIILukGEQYXfwH0TYHfwHEXgH70EE3sF7EKF38B1E6B18BxF8B89BBN/BcxDhd/AbRPgd/AZhoIPXIAx08BqEhQ4+g7DQwWcQJjp4DMJEB49BlKTDyPNcH66mDyL24S/vqzu4lnJ+yJw6iPjHP7efOtRzdkgdRDmueg7kvuiQNoiEv2Af3avSl7tD2iAS/oLpkDqkDaIcHfIfF2mDKMdxkft5MnUQJfnfIW/zd0geRPzjX91X76Ne5r9InTiI2Ie/UoI74bN1SByEjfOL9EFY6pA0CEsdkgZhqkPCIEx1SBiErQ7xg7DVIX4QxjrEDsJYh9hBWOsQNwhrHeIGYa5DzCDMdYgZhL0O0YOw1yF6EAY7RA7CYIfIQVjsEDUIix2iBsF9SdyfRQc60CHgDtzn3rRYbIcTZe3A92A0HSn2e1HK+53ef4v8npxlZxLfMZX4wRSDYBAMgkEwCAbBIBgEg2AQDIJBMAgGwSAYBINgEAyCQfyHQSwwCEnSBQYhSTrpGETIP4Qy6yDG6TBQkzRBB7ca7M8szjiIhsbWyODc0OMNIgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQvcPpIzB7b4z6soAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDktMjZUMjE6Mjg6MjMrMDI6MDD79TN6AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTA5LTI2VDIxOjUzOjMzKzAyOjAwl9llLAAAAABJRU5ErkJggg==</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Resistencia NTC</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Resistencia LDR</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Resistencia</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Resistencia variable</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Resistencia variable</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/0a71c65a9174ae432ad3.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="0a71c65a9174ae432ad3.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAg4AAAFaBAMAAACEYsh2AAAABGdBTUEAALGPC/xhBQAAAAd0SU1FB+QJGhc1IYSEQaMAAAAwUExURf///wAAABERESIiIjMzM0RERFVVVWZmZnd3d4iIiJmZmaqqqru7u8zMzN3d3e7u7j2dGw0AAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAAAsRJREFUeNrt3UGK01Acx/GACg5VJA4jKm4qblxpd+pKPMFU8AAeQtwqHsBRDyDiBcQT6A08hktxNzttZ2OdvOSVROx7/8/nACn8+LaTNtO0aQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKB2x49ubrj1PuQMe/P2L5dfRNzhTHvK1Yg7fDi9QxsxiGUriJWnrSBWvraCWDnbCmLlwlIQaxefPfnT47h/MjbM5nHPITZ8FoQgBCEIQQhCEIIQhCAEIQhBCEIQghCEIATxz31ftJPZf13sDOfn7YTKvVb+s53UnVJ3eDntDsW+rC6m3WG/1B3aidnBDnawQ5U7TPMuo+YdtnmXUfUOWwRR9Q5bBFH3DvlB1L1DfhCV75AdROU7ZAdR+w65QdS+Q24Q1e+QGUT1O2QGUf8OeUHUv0NeEAF2yAoiwA5ZQUTYISeICDvkBBFih4wgQuyQEUQhO1x6NerD1eEgkoe/92OXdng78kPmwSDSx7+9SzssRu4wGEQZVz1noy86DAXR8wCfdmeHc6N3GAqi5wEOa9phKIgydhj/vBgKooznxejXycEgCvnvkI/jd+gPIn38Bzt1HvVu/EXq3iCSh7+/U+dRU5wM9wYR4/3FcBCRdugLItIOfUGE2qEniFA79AQRa4d0ELF2SAcRbIdkEMF2SAYRbYdUENF2SAURbodEEOF2SAQRb4fuIOLt0B1EwB06gwi4Q2cQEXfoCiLiDl1B+F6S72fZwQ52qHgH33M/8WbaHa6VuoP7YJzYm/a+KEel7tAcT3mfnJi/KeMeU/0fTAlCEIIQhCAEIQhBCEIQghCEIAQhCEEIQhCCEMR/COJIEOsd7gpivcP1RhCrHQ4aQax2uGKHdRA37LAO4qEZmtmyPfhiht8/Bf78mxEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACo3S/esTwVwF/cNQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wOS0yNlQyMToyODoyMyswMjowMPv1M3oAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDktMjZUMjE6NTM6MzMrMDI6MDCX2WUsAAAAAElFTkSuQmCC</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Resistencia variable</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Resistencia LDR</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Resistencia NTC</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Resistencia</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Final de carrera</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/ff0785f41c51bbf76511.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="ff0785f41c51bbf76511.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAg4AAAFaBAMAAACEYsh2AAAABGdBTUEAALGPC/xhBQAAAAd0SU1FB+QJGhc1IYSEQaMAAAAwUExURf///wAAABERESIiIjMzM0RERFVVVWZmZnd3d4iIiJmZmaqqqru7u8zMzN3d3e7u7j2dGw0AAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAABoJJREFUeNrtnU1oHGUYgKdpmr/N7jq7WdNfaSgU/9u0UVtRMOQmggkSxELRVrCIFJqAPQhC1x49JLHak4dUD56UxIN4Kqn24kVTxQqetj1aD0tRMCBoMjO7OzvzzbebnWV2Zt/nOXXnC29nnt3vnfednZ3PMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADazB/vvnLs0FOvfiXbwr9vmg5P/yRYw+0xs0ruvFgNN10aNkW8JFTDr6aH0yI19Js+LgjUkJr0exhZkedhyVSwh1khc2ZkZ6qHnp+YGq++KJRlefircuCHP9088uwPZyuvX5blofJxeKey4ZvKB0JkdjjtryZEZQjnZFFXQd6Ud8pIKQ/ZkSOohvjbbig8R5yy243X5XiYsw74ee/mX6zNo2I0pK03Pl/ybs9YdURuXYqHPut9f8I/8LM18IYUDzesw132DwxZA/tFFVG7VSNFSaVU2koDL6iGeq3EISRB9AeXCSlJJWWP5sNvTZmDMjzc0iRDK4UeEFRFTavHdgmqpCYDzprVM+eIDA9b1WSurB7LWoNyms2CtrYQ0XIOBlZR1UpqUUz5sC9odFVMAWF1WQ8Fjd4R02n1akulnsCaGw/dyc6tIz3a2igemBfditVCPBA0ukPTfHThefOAthkVcd606qi9QaPXxNRRg9rWek5MXW19ezGia8qFfINhfYtTUo9lTDF9t30dZlEzaYRchylqSoRebVPeXdzRnDCuaZvRLiys8+qxcTFltWEMmIEJwkoP5iUZHjJWojyiGrpvpcmSDA92rfSgauSMqBtB7gZ9+u0Z86QUD/bh7g04W0hJD86XNWZuzbt92N5eluLBuUPwUe/mz6TdQGnfIOWdAPZ0kXN71OaZ075TslB3gszY91znSnI8GN/Zb/3DrlSQ/cDe9rggDc6NcaZ5srbpirNpWZIH545a0zyxbr9OX3Y2jIrSUPtZUv7t6+XsvavjUn+YVFT/Pmu3MA3G0JhKQ25Zmgfje5WH58RpsK/IeinJ82CoPBh4wAMe8FDx8MkxW8Ch12R7MDLfXpydPfdhyRDuIeglHvCABzzgAQ94wAMe8IAHPOABD3jAAx7wgAc8xMRD9upb5/FgpOe79zFC2/CwMal8Hp00D7+NdfMtQ816yH7c3bdONelhKzV09T1DzXnYmDTxUE0N3fyg0iY8VFNDNz/iu7GHWmrYutFyQWodteFeEaGwLLWudqcG85l1Q6aHutRgnpLaZ9Wnhvel9ptCUkMjD1JSg96DnNSg9SAoNeg8SEoNGg+iUkOgB2GpIdCDsNQQ6EFYamjCg4jU0NjDKcOQ6SFtCkwNshsKjQd5VQMNRaCH9LzU1CC7oVB7kJwaghqKFw1DqAd3ahC6krnYhkLvQWJqkN1Q1CO3oahDetVAQ+FCdkNRSw3zpAZSA6khODWIaCjSX0wdn3hvPTg1NN9QqEIlhT/tZ+flfwyfGlShksI/lTSQWwibGlShksJw7Z0fWQtXNShCJYei72GKLVcNxQQ/l7G/rpm8EKZq8IdKEHN1Oz8apmrwhUoQA56LLAutNxTeUJeS5OGW9zmjrTcU3lCJWtTayQW54/6nr263ofCGGknetNh8KHP1ecytNhT+UAmaGDtd57hiuMuQ/lBHk+PBemx7bsX6d2os1LUGf6gEPfh9xr0k82qoaw3+UIXEaMjUzeOBMNcaVKFKcbqMcNlsQL5c+dPxEJchh5WhgjlRjtbDR412yFX4zYW4DDmgCKXlkWg9NHxjzP3Vv70RYsndPkUo/ccwUg2phvvjWoF3RwgPvYpQelai9LBrOx56wno4uB0P03iI3sP258V0COHxnRdN5Ml91b9dDbEaVJ8iVIzypPF5wx2qrSN4JsTyP0OKUFqejbiOutJoh6rrYNmLZa219v8MK0LpOBlxHaWXNOaeCX1hFs1rY6hO9VmVdfKWQjVHbQwVPXddK88OhltTs42hOnUdprDVX6Znwl08aWOo6HGWjSt8+d/vMyFXi2tjqA4wF9h8djJU9Nz37PyRWISKnlT7it1UR+vmsCzV7fuemISKnsG6nV+MSagO8LVr3x+LTaiOnjJGYxSqA6lyytn3iZUYheoA6bPWvh9ej1WoTnDv4uy567ELBQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIfkflu3i6PIUO5EAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDktMjZUMjE6Mjg6MjMrMDI6MDD79TN6AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTA5LTI2VDIxOjUzOjMzKzAyOjAwl9llLAAAAABJRU5ErkJggg==</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Final de carrera</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Interruptor</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Pulsador</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Pulsador n.a.</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Cable cruzado sin conectar</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/f3b76cabb252f97671f3.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="f3b76cabb252f97671f3.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAg4AAAFaBAMAAACEYsh2AAAABGdBTUEAALGPC/xhBQAAAAd0SU1FB+QJGhc1IYSEQaMAAAAnUExURf///wAAABERESIiIjMzM0RERGZmZnd3d4iIiJmZmaqqqszMzO7u7iLC/yUAAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAAAdhJREFUeNrt3SFOBEEQhtEiCyFLRvDDCVaBZBTgkEg0V8AQuMHCAUi4AIYroOdoaARiRoyovO8IL12datVVkiRJkiRJkiRJkiRJkiRJkiRJWr/h/X6iUPWSXFCoYZecORB1nCTPHDZJcsXhIElOOXDgwIEDBw4cOHDgwIEDBw4cOHDgwIEDBw4cOHDgwIEDBw4cOHDgwIEDBw4cOHDgwIEDBw4cOHDgwIEDBw4cOHDgwIEDBw4cOHDgwIEDBw4cOHDgwIEDBw4cOHDgwIEDBw4cOHDgwIEDBw4cOHDgwIEDBw4cOHDgwIEDBw4cOHDgwIHDqg2vadf1NN9hn4ZdzncYOzqcz2Y4Scu+5joc9XR44LDMwVy4J//02dHhdsEe9daP4WayV3tfcODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgcO/HSbJHYdtknxwqHHRT9n9+k4eKVTVzxMDSZIkSZIkSZIkSZIkSZIkSZKkVv0CFt7pF1MJtIgAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDktMjZUMjE6Mjg6MjMrMDI6MDD79TN6AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTA5LTI2VDIxOjUzOjMzKzAyOjAwl9llLAAAAABJRU5ErkJggg==</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Cable cruzado sin conectar</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Cable cruzado conectado</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Cable conectado</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Cruz</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Cables conectados</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/f18f2dfb05b0cf0f7627.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="f18f2dfb05b0cf0f7627.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAg4AAAFaBAMAAACEYsh2AAAABGdBTUEAALGPC/xhBQAAAAd0SU1FB+QJGhc1IYSEQaMAAAAtUExURf///wAAABERESIiIjMzM0RERFVVVWZmZnd3d4iIiJmZmaqqqszMzN3d3e7u7g+O+IgAAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAAAt9JREFUeNrt2b9qU2EYx/EjVpRqi7/Eqh0csulmBkEdpE7iZnEUBO9AwUlE/HMFVi+g4OAkuLi7udbVqSDibThUbJykb/q+Jx4+3/15zsOHNElJ10mSJEmSJEmSJEmSJEmSJEmSJGnRWn17e5dC171MLlLoVifJyAuiO5EkzzkcTZLLHI4kyWkOHDhw4MCBAwcOHDhw4MCBAwcOHDhw4MCBAwcOHDhw4MCBAwcOHDhw4MCBAwcOHDhw4MCBAwcOHDhw4MCBAwcOHDhw4MCBAwcOHDhw4MCBAwcOHDj018rOQjiUn3EofXs8Gd36UDb7NUku9H7GYfRzmiTjZ61n660q6uQ0SZLxx4PPLk/2Zkfbc59xiKuKWn2Q353dbTlbb1VZP/Kn+y1n660q69H+AedaztZbVfbukJk+tputt6qs77MH3Gg3W29VWS9mDzjfbrbeqrK36ensAePdVrP1Vv3jQa8yuK4WcG1lgF06uMN0iA7j+T6WhtOBP2CPDdPhDocyB38X3if/6t0QHa4XfI96MzyGa4f5tfPm7OYz7WbrrSrr9ewB6+1m660qa2n2gI12s/VWlXVqsv/80ed2s/VWzf+KXG85W29VWcf3D3jYcrbeqsK25vg3dp7ZeqvKWtnce/7aTtvZeqtKf0naTJK17daz9VYVNs9v1ivv7155stP7GcM4gAMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgQMHDhw4cODAgcN/ccZSkmz07tD7GctJst27Q/9nTJNx13+9n/EpubcADv2f8eVptwgtyBmSJEmSJEmSJEmSJEmSJEmSJEmD7xcGQnF7R3l9qAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wOS0yNlQyMToyODoyMyswMjowMPv1M3oAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDktMjZUMjE6NTM6MzMrMDI6MDCX2WUsAAAAAElFTkSuQmCC</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Cables conectados</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Cables sin conectar</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Cables conectados y sin conectar</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Masa</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Conector</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/78dd1478797a06679c2e.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="78dd1478797a06679c2e.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAg4AAAFaBAMAAACEYsh2AAAABGdBTUEAALGPC/xhBQAAAAd0SU1FB+QJGhc1IYSEQaMAAAAhUExURf///wAAABERESIiIkRERHd3d4iIiJmZmaqqqt3d3e7u7mdTBS0AAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAAASlJREFUeNrt3DEKwjAYgNGKKNipUQdXB51d9Byim1PRzckjeVTRurYBoVj431uzfSQlIaRFAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAH83OqdP+GaPDKWVsQmQo17kO8xATYpKyjhE6jPMddhE6jPIdKh100EGH8B2q30Z10EEHHXTQQQcddNBBBx100EEHHXTQQQcdeu7Qs8VFh+YiudZhMBeoQ+iw0uFjqYMO1oXvZMsG4qHDO8Pdvtr5QgcddNBBBx100EEHHXTQQQcddNBBBx3Cd/AuSQcddNChlXfujWm+Qx2hg/9gfF1zHbYhMhTlrTvDIcZ0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACI5wVSdpZAkTIz1wAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wOS0yNlQyMToyODoyMyswMjowMPv1M3oAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDktMjZUMjE6NTM6MzMrMDI6MDCX2WUsAAAAAElFTkSuQmCC</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Conector</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Cuadradillo</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Tierra</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Masa</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+    <question type="multichoice">
+    <name> <text>Identificar Condensador polarizado</text> </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿A qué componente corresponde el símbolo de la figura?</p> 
+         <p><img src="@@PLUGINFILE@@/db5e4effb2f80c4025ac.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
+         width="180"></p>]]>
+      </text>
+      <file name="db5e4effb2f80c4025ac.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAg4AAAFaBAMAAACEYsh2AAAABGdBTUEAALGPC/xhBQAAAAd0SU1FB+QJGhc1IYSEQaMAAAAnUExURf///wAAABERESIiIjMzM0RERGZmZnd3d4iIiJmZmaqqqszMzO7u7iLC/yUAAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAAAgRJREFUeNrt2zFOG1EUhtGLjEQsUeS3RUNHRevZAWVaWrZAg1KnoEhJ4S1QsAVqOlgWBYmEwDNC8CJl9M7ZwXzye3NHuq4CAAAAAAAAAAAAAAAAAAAAAAAAAGju8PePBxWqfianKtThSbLyg6iDJLnSYZEkGx32kuS7Djro0GmHyUmpow6Tk1I/HaYnpX46TE9K/XSYnpT66TD9pDrooIMOOuiggw466KCDDjrooIMOn/Y4ZIf1r846fDvJTqvrvjosMmLTV4fbsQ7HfXU4H+twpEOPHZwL9+Rry2F3hvW2sznqafccdWOu9n2hgw466KCDDjrooIMOOuiggw46/CP7SXKmwzJJtjrUkKxLh7pLLnSoqvvL0uFLbxMddNBBBx100EEHHXTQQQcddHjvcUgz7xbU52Ns1fxzVtdz7bBIU5u5drht2+F4rh3O23Y40mHeHZwL9+Rry6FlhrcL6jPy1HKOujF7AwAAAAAAAAAA/w975lVlz/wv+5Mv7NO+sF+tg3Phnhxjz/wPe+Yf53+sOuiggw466KCDDjrooIMOOuiggw466KCDDjrooIMOOuiggw466KCDDjrooIMOOuiggw466KCDDjrooIMOOuiggw466KBDK/tJcqbDMkm2OtSQrFWouksuVKiq+0sNAAAAAAAAAAAAAAAAAAAAAAAAAID2ngGtjdDJywx+UwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wOS0yNlQyMToyODoyMyswMjowMPv1M3oAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDktMjZUMjE6NTM6MzMrMDI6MDCX2WUsAAAAAElFTkSuQmCC</file>
+    </questiontext>
+    <generalfeedback format="html"> <text></text> </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
+    <answer fraction="100" format="html"> <text>Condensador polarizado</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Pila</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Condensador sin polarizar</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Pila pequeña</text> <feedback format="html"> <text></text> </feedback> </answer>
+  </question>
+
+
+</quiz>
