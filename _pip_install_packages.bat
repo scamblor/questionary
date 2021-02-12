@@ -1,4 +1,4 @@
-set PATH=venv\Scripts;%PATH%
+@set PATH=venv\Scripts;%PATH%
 call activate.bat
 
 python -m pip install --upgrade pip
