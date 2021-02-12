@@ -30,7 +30,7 @@
     <answer fraction="100" format="html"> <text>Battery</text> <feedback format="html"> <text></text> </feedback> </answer>
     <answer fraction="0" format="html"> <text>Altern current source</text> <feedback format="html"> <text></text> </feedback> </answer>
     <answer fraction="0" format="html"> <text>Motor</text> <feedback format="html"> <text></text> </feedback> </answer>
-    <answer fraction="0" format="html"> <text>Toma de Ground</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Ground</text> <feedback format="html"> <text></text> </feedback> </answer>
   </question>
     <question type="multichoice">
     <name> <text>Identify the Altern current source</text> </name>
@@ -54,7 +54,7 @@
     <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
     <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
     <answer fraction="100" format="html"> <text>Altern current source</text> <feedback format="html"> <text></text> </feedback> </answer>
-    <answer fraction="0" format="html"> <text>Battery o Battery</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Battery</text> <feedback format="html"> <text></text> </feedback> </answer>
     <answer fraction="0" format="html"> <text>Light Bulb</text> <feedback format="html"> <text></text> </feedback> </answer>
     <answer fraction="0" format="html"> <text>Electric Motor</text> <feedback format="html"> <text></text> </feedback> </answer>
   </question>
@@ -81,7 +81,7 @@
     <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
     <answer fraction="100" format="html"> <text>Button n.o.</text> <feedback format="html"> <text></text> </feedback> </answer>
     <answer fraction="0" format="html"> <text>Switch n.o.</text> <feedback format="html"> <text></text> </feedback> </answer>
-    <answer fraction="0" format="html"> <text>Spot Switch n.o.</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Two way Switch n.o.</text> <feedback format="html"> <text></text> </feedback> </answer>
     <answer fraction="0" format="html"> <text>Battery</text> <feedback format="html"> <text></text> </feedback> </answer>
   </question>
     <question type="multichoice">
@@ -106,12 +106,12 @@
     <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
     <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
     <answer fraction="100" format="html"> <text>Switch</text> <feedback format="html"> <text></text> </feedback> </answer>
-    <answer fraction="0" format="html"> <text>Spot Switch</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Two way Switch</text> <feedback format="html"> <text></text> </feedback> </answer>
     <answer fraction="0" format="html"> <text>Button</text> <feedback format="html"> <text></text> </feedback> </answer>
     <answer fraction="0" format="html"> <text>Botón</text> <feedback format="html"> <text></text> </feedback> </answer>
   </question>
     <question type="multichoice">
-    <name> <text>Identify the Spot Switch</text> </name>
+    <name> <text>Identify the Two way Switch</text> </name>
     <questiontext format="html">
       <text><![CDATA[<p>What is the component of the image?</p> 
          <p><img src="@@PLUGINFILE@@/7456ddb383bfe6840479.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
@@ -131,7 +131,7 @@
     <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
     <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
     <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
-    <answer fraction="100" format="html"> <text>Spot Switch</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="100" format="html"> <text>Two way Switch</text> <feedback format="html"> <text></text> </feedback> </answer>
     <answer fraction="0" format="html"> <text>Switch</text> <feedback format="html"> <text></text> </feedback> </answer>
     <answer fraction="0" format="html"> <text>Button</text> <feedback format="html"> <text></text> </feedback> </answer>
     <answer fraction="0" format="html"> <text>Fuse</text> <feedback format="html"> <text></text> </feedback> </answer>

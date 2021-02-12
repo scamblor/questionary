@@ -7,7 +7,7 @@
     - Battery
     - Altern current source
     - Motor
-    - Toma de Ground
+    - Ground
 
 - Title: Identify the Altern current source
   Question: What is the component of the image?
@@ -15,7 +15,7 @@
   Image_width: 180
   Choices:
     - Altern current source
-    - Battery o Battery
+    - Battery
     - Light Bulb
     - Electric Motor
 
@@ -26,7 +26,7 @@
   Choices:
     - Button n.o.
     - Switch n.o.
-    - Spot Switch n.o.
+    - Two way Switch n.o.
     - Battery
 
 - Title: Identify the Switch
@@ -35,16 +35,16 @@
   Image_width: 180
   Choices:
     - Switch
-    - Spot Switch
+    - Two way Switch
     - Button
     - Botón
 
-- Title: Identify the Spot Switch
+- Title: Identify the Two way Switch
   Question: What is the component of the image?
   Image: images/electric-simbolo-conmutador.png
   Image_width: 180
   Choices:
-    - Spot Switch
+    - Two way Switch
     - Switch
     - Button
     - Fuse

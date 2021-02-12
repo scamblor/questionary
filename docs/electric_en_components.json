@@ -7,7 +7,7 @@
     "choice1": "Battery",
     "choice2": "Altern current source",
     "choice3": "Motor",
-    "choice4": "Toma de Ground"
+    "choice4": "Ground"
   },
   {
     "title": "Identify the Altern current source",
@@ -15,7 +15,7 @@
     "image": "images/d3bbec428b9056a12a6b.png",
     "image_width": "180",
     "choice1": "Altern current source",
-    "choice2": "Battery o Battery",
+    "choice2": "Battery",
     "choice3": "Light Bulb",
     "choice4": "Electric Motor"
   },
@@ -26,7 +26,7 @@
     "image_width": "180",
     "choice1": "Button n.o.",
     "choice2": "Switch n.o.",
-    "choice3": "Spot Switch n.o.",
+    "choice3": "Two way Switch n.o.",
     "choice4": "Battery"
   },
   {
@@ -35,16 +35,16 @@
     "image": "images/640f8718abc0e0465f73.png",
     "image_width": "180",
     "choice1": "Switch",
-    "choice2": "Spot Switch",
+    "choice2": "Two way Switch",
     "choice3": "Button",
     "choice4": "Botón"
   },
   {
-    "title": "Identify the Spot Switch",
+    "title": "Identify the Two way Switch",
     "question": "What is the component of the image?",
     "image": "images/7456ddb383bfe6840479.png",
     "image_width": "180",
-    "choice1": "Spot Switch",
+    "choice1": "Two way Switch",
     "choice2": "Switch",
     "choice3": "Button",
     "choice4": "Fuse"
