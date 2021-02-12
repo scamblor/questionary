@@ -7,8 +7,9 @@ se distribuyen bajo licencia MIT.
 Texto de los cuestionarios
 ==========================
 Autores de los cuestionarios:
- - Tucho
+ - Tucho Méndez
  - Carlos Pardo
+
 El texto de los cuestionarios (preguntas y opciones de respuesta) 
 se distribuyen bajo licencia Creative Commons CC0 1.0 Universal 
 (bajo dominio público)
