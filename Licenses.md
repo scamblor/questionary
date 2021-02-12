@@ -22,7 +22,7 @@ licencias.
 
 Las siguientes imágenes creadas por Tucho y que se pueden encontrar 
 en el repositorio https://github.com/procastino/bancosTecno
-se distribuyen bajo licencia Creative Commons CC0 1.0 Universal 
+se distribuyen bajo **licencia Creative Commons CC0 1.0 Universal** 
 (bajo Dominio Público).
 Se puede leer el texto de la licencia en el enlace: https://creativecommons.org/publicdomain/zero/1.0/deed.es_ES
 
@@ -106,7 +106,7 @@ Se puede leer el texto de la licencia en el enlace: https://creativecommons.org/
 
 Las siguientes imágenes creadas por Carlos Pardo y que se pueden encontrar 
 en el repositorio  https://github.com/picuino/tecno-recursos
-se distribuyen bajo licencia Creative Commons BY-SA 4.0
+se distribuyen bajo **licencia Creative Commons BY-SA 4.0.**
 Se puede leer el texto de la licencia en el enlace: https://creativecommons.org/licenses/by-sa/4.0/deed.es
 
 ![](thumbs/electric-simbolo-altavoz.png)
