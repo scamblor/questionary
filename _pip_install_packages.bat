@@ -1,4 +1,4 @@
-set python=c:\Python39\python.exe
+set python=venv\Scripts\python.exe
 
 %python% -m pip install --upgrade pip
 %python% -m pip install --upgrade PyYAML
