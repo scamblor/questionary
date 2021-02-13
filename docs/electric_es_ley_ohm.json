@@ -176,5 +176,55 @@
     "choice2": "El voltaje del circuito se redujo la mitad",
     "choice3": "No se puede saber sin conocer el voltaje al que está conectado el circuito",
     "choice4": "La cantidad de electrones que pasan por el circuito está reduciéndose por algún motivo"
+  },
+  {
+    "title": "¿Por qué circuito circulará más corriente?",
+    "question": "¿Por qué circuito circulará más corriente?",
+    "image": "images/7b6933b4465cc6df0a23.png",
+    "image_width": "500",
+    "choice1": "Por el 1",
+    "choice2": "Por el 2",
+    "choice3": "Por el 3",
+    "choice4": "Por el 4"
+  },
+  {
+    "title": "¿Por qué circuito circulará más corriente?",
+    "question": "¿Por qué circuito circulará más corriente?",
+    "image": "images/564bc755b642d9514ed0.png",
+    "image_width": "500",
+    "choice1": "Por el 2",
+    "choice2": "Por el 1",
+    "choice3": "Por el 3",
+    "choice4": "Por el 4"
+  },
+  {
+    "title": "¿Por qué circuito circulará más corriente?",
+    "question": "¿Por qué circuito circulará más corriente?",
+    "image": "images/0b99ee59d0dd254861e3.png",
+    "image_width": "500",
+    "choice1": "Por el 3",
+    "choice2": "Por el 2",
+    "choice3": "Por el 1",
+    "choice4": "Por el 4"
+  },
+  {
+    "title": "¿Por qué circuito circulará más corriente?",
+    "question": "¿Por qué circuito circulará más corriente?",
+    "image": "images/16f3d51a8e0a95a0a0dd.png",
+    "image_width": "500",
+    "choice1": "Por el 2",
+    "choice2": "Por el 1",
+    "choice3": "Por el 3",
+    "choice4": "Por el 4"
+  },
+  {
+    "title": "¿Por qué circuito circulará más corriente?",
+    "question": "¿Por qué circuito circulará más corriente?",
+    "image": "images/ee5569e53a9acc6a3242.png",
+    "image_width": "500",
+    "choice1": "Por el 4",
+    "choice2": "Por el 1",
+    "choice3": "Por el 2",
+    "choice4": "Por el 3"
   }
 ]

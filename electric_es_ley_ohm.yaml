@@ -158,3 +158,49 @@
     - El voltaje del circuito se redujo la mitad
     - No se puede saber sin conocer el voltaje al que está conectado el circuito
     - La cantidad de electrones que pasan por el circuito está reduciéndose por algún motivo
+
+- Title: 
+  Question: ¿Por qué circuito circulará más corriente?
+  Image: images/leiOhmSameVolt.png
+  Choices:
+    - Por el 1
+    - Por el 2
+    - Por el 3
+    - Por el 4
+
+- Title: 
+  Question: ¿Por qué circuito circulará más corriente?
+  Image: images/leiOhmSameRes.png
+  Choices:
+    - Por el 2
+    - Por el 1
+    - Por el 3
+    - Por el 4
+
+- Title: 
+  Question: ¿Por qué circuito circulará más corriente?
+  Image: images/leiOhmSameVoltDecimalOhm.png
+  Choices:
+    - Por el 3
+    - Por el 2
+    - Por el 1
+    - Por el 4
+
+- Title: 
+  Question: ¿Por qué circuito circulará más corriente?
+  Image: images/leiOhmSameVoltKohm.png
+  Choices:
+    - Por el 2
+    - Por el 1
+    - Por el 3
+    - Por el 4
+
+- Title: 
+  Question: ¿Por qué circuito circulará más corriente?
+  Image: images/leiOhmDifVoltDifRes.png
+  Choices:
+    - Por el 4
+    - Por el 1
+    - Por el 2
+    - Por el 3
+

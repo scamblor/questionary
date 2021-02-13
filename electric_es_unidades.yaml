@@ -86,3 +86,99 @@
     - 0,0022 F
     - 0,022 F
     - 0,22 F
+
+- Title: 
+  Question: ¿Cuál es la unidad de carga eléctrica?
+  Choices:
+    - El Coulomb
+    - El Vatio
+    - El Joule
+    - El Amperio
+
+- Title: 
+  Question: ¿A cuánto equivale un Coulomb?
+  Choices:
+    - 6,2 x 10^18 electrones
+    - 6,2 x 10^12 electrones
+    - 6,2 x 10^6 electrones
+    - 6,2 x 10^3 electrones
+
+- Title: 
+  Question: Sí por un circuito pasan 5.000.000 electrones en 1 segundo, ¿qué intensidad estará pasando?
+  Choices:
+    - Mucho menos de un amperio
+    - Muchísimos amperios
+    - Pocos amperios
+    - Un amperio
+
+- Title: 
+  Question: Si por un circuito pasa un amperio ¿Cuántos electrones estarán circulando por él?
+  Choices:
+    - Trillones cada segundo
+    - Miles cada segundo
+    - Millones cada segundo
+    - Trillones cada segundo
+
+- Title: 
+  Question: ¿Cuál es la unidad elemental de Voltaje?
+  Choices:
+    - El Voltio (V)
+    - El Ohmio (Ω)
+    - El Amperio (A)
+    - El Vatio (W)
+
+- Title: 
+  Question: ¿Cuál es la unidad elemental de Intensidad?
+  Choices:
+    - El Amperio (A)
+    - El Ohmio (Ω)
+    - El Voltio (V)
+    - El Vatio (W)
+
+- Title: 
+  Question: ¿Cuál es la unidad elemental de Resistencia?
+  Choices:
+    - El Ohmio (Ω)
+    - El Voltio (V)
+    - El Amperio (A)
+    - El Vatio (W)
+
+- Title: 
+  Question: ¿Qué frase estaría bien expresada?
+  Choices:
+    - Por favor, mide la intensidad que pasa por ese cable
+    - Por favor, mide el voltaje que pasa por ese cable
+    - Por favor, mide la resistencia que pasa por ese cable
+    - Por favor, mide la potencia que pasa por ese cable
+
+- Title: 
+  Question: ¿Qué es la Intensidad de una corriente?
+  Choices:
+    - La cantidad de electrones que pasan por un punto en un tiempo determinado
+    - La energía de esa corriente
+    - La oposición que presenta un material a ser atravesado por los electrones
+    - La energía producida por los electrones al atravesar un componente determinado
+
+- Title: 
+  Question: ¿Qué es la Resistencia de un elemento?
+  Choices:
+    - La oposición que presenta un cuerpo a ser atravesado por los electrones
+    - Un indicador de la facilidad con la que la corriente atraviesa un cuerpo
+    - La cantidad de calor que genera un componente al ser atravesado por la corriente eléctrica
+    - La energía eléctrica que pierde un componente en un circuito al ser atravesado por una corriente
+
+- Title: 
+  Question: ¿Qué nos indica el Voltaje de un generador?
+  Choices:
+    - La energía que nos puede proporcionar cada unidad de carga
+    - La oposición que este ejercerá frente al corriente que lo atraviesa
+    - Que cantidad de electrones nos dará en una unidad de tiempo
+    - La energía que nos proporcionará ese generador por unidad de tiempo
+
+- Title: 
+  Question: ¿Qué nos indica el voltaje de una pila?
+  Choices:
+    - La energía que nos podrá proporcionar cada unidad de carga de esa pila
+    - La cantidad de electrones por segundo que podrán salir de esa pila
+    - La potencia eléctrica que desarrollará esa pila en un circuito eléctrico
+    - La cantidad de electrones que hay almacenados en esa pila, es decir, su carga.

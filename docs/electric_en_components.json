@@ -7,7 +7,7 @@
     "choice1": "Battery",
     "choice2": "Altern current source",
     "choice3": "Motor",
-    "choice4": "Ground"
+    "choice4": "Earth"
   },
   {
     "title": "Identify the Altern current source",
@@ -37,7 +37,7 @@
     "choice1": "Switch",
     "choice2": "Two way Switch",
     "choice3": "Pushbutton",
-    "choice4": "Botón"
+    "choice4": "Rele"
   },
   {
     "title": "Identify the Two way Switch",
@@ -120,11 +120,11 @@
     "choice4": "Light Bulb"
   },
   {
-    "title": "Identify the Ground",
+    "title": "Identify the Earth",
     "question": "What is the component of the image?",
     "image": "images/af6aa071c5324b8cea70.png",
     "image_width": "180",
-    "choice1": "Ground",
+    "choice1": "Earth",
     "choice2": "Battery",
     "choice3": "Antenna",
     "choice4": "Receiver"
@@ -190,12 +190,12 @@
     "choice4": "Transistor"
   },
   {
-    "title": "Identify the Mass",
+    "title": "Identify the Ground plane",
     "question": "What is the component of the image?",
     "image": "images/c67b089624b581cd2dea.png",
     "image_width": "180",
-    "choice1": "Mass",
-    "choice2": "Ground",
+    "choice1": "Ground plane",
+    "choice2": "Earth",
     "choice3": "Battery",
     "choice4": "Brush"
   },
@@ -316,7 +316,7 @@
     "image_width": "180",
     "choice1": "Connector",
     "choice2": "Squared",
-    "choice3": "Ground",
+    "choice3": "Ground plane",
     "choice4": "Mass"
   },
   {

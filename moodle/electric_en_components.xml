@@ -30,7 +30,7 @@
     <answer fraction="100" format="html"> <text>Battery</text> <feedback format="html"> <text></text> </feedback> </answer>
     <answer fraction="0" format="html"> <text>Altern current source</text> <feedback format="html"> <text></text> </feedback> </answer>
     <answer fraction="0" format="html"> <text>Motor</text> <feedback format="html"> <text></text> </feedback> </answer>
-    <answer fraction="0" format="html"> <text>Ground</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Earth</text> <feedback format="html"> <text></text> </feedback> </answer>
   </question>
     <question type="multichoice">
     <name> <text>Identify the Altern current source</text> </name>
@@ -108,7 +108,7 @@
     <answer fraction="100" format="html"> <text>Switch</text> <feedback format="html"> <text></text> </feedback> </answer>
     <answer fraction="0" format="html"> <text>Two way Switch</text> <feedback format="html"> <text></text> </feedback> </answer>
     <answer fraction="0" format="html"> <text>Pushbutton</text> <feedback format="html"> <text></text> </feedback> </answer>
-    <answer fraction="0" format="html"> <text>Botón</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Rele</text> <feedback format="html"> <text></text> </feedback> </answer>
   </question>
     <question type="multichoice">
     <name> <text>Identify the Two way Switch</text> </name>
@@ -319,7 +319,7 @@
     <answer fraction="0" format="html"> <text>Light Bulb</text> <feedback format="html"> <text></text> </feedback> </answer>
   </question>
     <question type="multichoice">
-    <name> <text>Identify the Ground</text> </name>
+    <name> <text>Identify the Earth</text> </name>
     <questiontext format="html">
       <text><![CDATA[<p>What is the component of the image?</p> 
          <p><img src="@@PLUGINFILE@@/af6aa071c5324b8cea70.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
@@ -339,7 +339,7 @@
     <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
     <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
     <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
-    <answer fraction="100" format="html"> <text>Ground</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="100" format="html"> <text>Earth</text> <feedback format="html"> <text></text> </feedback> </answer>
     <answer fraction="0" format="html"> <text>Battery</text> <feedback format="html"> <text></text> </feedback> </answer>
     <answer fraction="0" format="html"> <text>Antenna</text> <feedback format="html"> <text></text> </feedback> </answer>
     <answer fraction="0" format="html"> <text>Receiver</text> <feedback format="html"> <text></text> </feedback> </answer>
@@ -501,7 +501,7 @@
     <answer fraction="0" format="html"> <text>Transistor</text> <feedback format="html"> <text></text> </feedback> </answer>
   </question>
     <question type="multichoice">
-    <name> <text>Identify the Mass</text> </name>
+    <name> <text>Identify the Ground plane</text> </name>
     <questiontext format="html">
       <text><![CDATA[<p>What is the component of the image?</p> 
          <p><img src="@@PLUGINFILE@@/c67b089624b581cd2dea.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" 
@@ -521,8 +521,8 @@
     <correctfeedback format="moodle_auto_format"> <text></text> </correctfeedback>
     <partiallycorrectfeedback format="moodle_auto_format"> <text></text> </partiallycorrectfeedback>
     <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
-    <answer fraction="100" format="html"> <text>Mass</text> <feedback format="html"> <text></text> </feedback> </answer>
-    <answer fraction="0" format="html"> <text>Ground</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="100" format="html"> <text>Ground plane</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Earth</text> <feedback format="html"> <text></text> </feedback> </answer>
     <answer fraction="0" format="html"> <text>Battery</text> <feedback format="html"> <text></text> </feedback> </answer>
     <answer fraction="0" format="html"> <text>Brush</text> <feedback format="html"> <text></text> </feedback> </answer>
   </question>
@@ -835,7 +835,7 @@
     <incorrectfeedback format="moodle_auto_format"> <text></text> </incorrectfeedback>
     <answer fraction="100" format="html"> <text>Connector</text> <feedback format="html"> <text></text> </feedback> </answer>
     <answer fraction="0" format="html"> <text>Squared</text> <feedback format="html"> <text></text> </feedback> </answer>
-    <answer fraction="0" format="html"> <text>Ground</text> <feedback format="html"> <text></text> </feedback> </answer>
+    <answer fraction="0" format="html"> <text>Ground plane</text> <feedback format="html"> <text></text> </feedback> </answer>
     <answer fraction="0" format="html"> <text>Mass</text> <feedback format="html"> <text></text> </feedback> </answer>
   </question>
     <question type="multichoice">

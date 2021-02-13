@@ -126,24 +126,6 @@
     "choice4": "Cuando tiene más cargas de signo negativo que de signo positivo"
   },
   {
-    "title": "¿Cuál es la unidad de carga eléctrica?",
-    "question": "¿Cuál es la unidad de carga eléctrica?",
-    "image": "",
-    "choice1": "El Coulomb",
-    "choice2": "El Vatio",
-    "choice3": "El Joule",
-    "choice4": "El Amperio"
-  },
-  {
-    "title": "¿A cuánto equivale un Coulomb?",
-    "question": "¿A cuánto equivale un Coulomb?",
-    "image": "",
-    "choice1": "6,2 x 10^18 electrones",
-    "choice2": "6,2 x 10^12 electrones",
-    "choice3": "6,2 x 10^6 electrones",
-    "choice4": "6,2 x 10^3 electrones"
-  },
-  {
     "title": "¿Qué partículas del átomo están cargadas?",
     "question": "¿Qué partículas del átomo están cargadas?",
     "image": "",
@@ -151,15 +133,6 @@
     "choice2": "Los electrones, negativamente, y los neutrones, positivamente",
     "choice3": "Los protones, positivamente, y los neutrones, negativamente",
     "choice4": "Los electrones, positivamente, y los protones, negativamente"
-  },
-  {
-    "title": "¿Qué es una corriente eléctrica?",
-    "question": "¿Qué es una corriente eléctrica?",
-    "image": "",
-    "choice1": "Un flujo de electrones a través de un medio",
-    "choice2": "Un flujo de protones a través de un medio",
-    "choice3": "Un conjunto de electrones en movimiento",
-    "choice4": "Un desplazamiento de cualquier tipo de partículas eléctricas"
   },
   {
     "title": "¿Qué NO es una corriente eléctrica?",
@@ -333,69 +306,6 @@
     "choice4": "La podemos obtener de la red gracias a los adaptadores de corriente"
   },
   {
-    "title": "¿Qué nos indica el Voltaje de un generador?",
-    "question": "¿Qué nos indica el Voltaje de un generador?",
-    "image": "",
-    "choice1": "La energía que nos puede proporcionar cada unidad de carga",
-    "choice2": "La oposición que este ejercerá frente al corriente que lo atraviesa",
-    "choice3": "Que cantidad de electrones nos dará en una unidad de tiempo",
-    "choice4": "La energía que nos proporcionará ese generador por unidad de tiempo"
-  },
-  {
-    "title": "¿Qué nos indica el voltaje de una pila?",
-    "question": "¿Qué nos indica el voltaje de una pila?",
-    "image": "",
-    "choice1": "La energía que nos podrá proporcionar cada unidad de carga de esa pila",
-    "choice2": "La cantidad de electrones por segundo que podrán salir de esa pila",
-    "choice3": "La potencia eléctrica que desarrollará esa pila en un circuito eléctrico",
-    "choice4": "La cantidad de electrones que hay almacenados en esa pila, es decir, su carga."
-  },
-  {
-    "title": "¿Qué frase estaría bien expresada?",
-    "question": "¿Qué frase estaría bien expresada?",
-    "image": "",
-    "choice1": "Por favor, mide la intensidad que pasa por ese cable",
-    "choice2": "Por favor, mide el voltaje que pasa por ese cable",
-    "choice3": "Por favor, mide la resistencia que pasa por ese cable",
-    "choice4": "Por favor, mide la potencia que pasa por ese cable"
-  },
-  {
-    "title": "¿Qué es la Intensidad de una corriente?",
-    "question": "¿Qué es la Intensidad de una corriente?",
-    "image": "",
-    "choice1": "La cantidad de electrones que pasan por un punto en un tiempo determinado",
-    "choice2": "La energía de esa corriente",
-    "choice3": "La oposición que presenta un material a ser atravesado por los electrones",
-    "choice4": "La energía producida por los electrones al atravesar un componente determinado"
-  },
-  {
-    "title": "Sí por un circuito pasan 5.000.000 electrones en 1 segundo, ¿qué intensidad estará pasando?",
-    "question": "Sí por un circuito pasan 5.000.000 electrones en 1 segundo, ¿qué intensidad estará pasando?",
-    "image": "",
-    "choice1": "Mucho menos de un amperio",
-    "choice2": "Muchísimos amperios",
-    "choice3": "Pocos amperios",
-    "choice4": "Un amperio"
-  },
-  {
-    "title": "Si por un circuito pasa un amperio ¿Cuántos electrones estarán circulando por él?",
-    "question": "Si por un circuito pasa un amperio ¿Cuántos electrones estarán circulando por él?",
-    "image": "",
-    "choice1": "Trillones cada segundo",
-    "choice2": "Miles",
-    "choice3": "Millones",
-    "choice4": "Trillones"
-  },
-  {
-    "title": "¿Qué es la Resistencia de un elemento?",
-    "question": "¿Qué es la Resistencia de un elemento?",
-    "image": "",
-    "choice1": "La oposición que presenta un cuerpo a ser atravesado por los electrones",
-    "choice2": "Un indicador de la facilidad con la que la corriente atraviesa un cuerpo",
-    "choice3": "La cantidad de calor que genera un componente al ser atravesado por la corriente eléctrica",
-    "choice4": "La energía eléctrica que pierde un componente en un circuito al ser atravesado por una corriente"
-  },
-  {
     "title": "¿Qué potencia eléctrica generará un componente que funcione a 3V y 2A?",
     "question": "¿Qué potencia eléctrica generará un componente que funcione a 3V y 2A?",
     "image": "",
@@ -430,32 +340,5 @@
     "choice2": "Positiva",
     "choice3": "Negativa",
     "choice4": "Depende del átomo"
-  },
-  {
-    "title": "¿Cuál es la unidad elemental de Voltaje?",
-    "question": "¿Cuál es la unidad elemental de Voltaje?",
-    "image": "",
-    "choice1": "El Voltio (V)",
-    "choice2": "El Ohmio (Ω)",
-    "choice3": "El Amperio (A)",
-    "choice4": "El Vatio (W)"
-  },
-  {
-    "title": "¿Cuál es la unidad elemental de Intensidad?",
-    "question": "¿Cuál es la unidad elemental de Intensidad?",
-    "image": "",
-    "choice1": "El Amperio (A)",
-    "choice2": "El Ohmio (Ω)",
-    "choice3": "El Voltio (V)",
-    "choice4": "El Vatio (W)"
-  },
-  {
-    "title": "¿Cuál es la unidad elemental de Resistencia?",
-    "question": "¿Cuál es la unidad elemental de Resistencia?",
-    "image": "",
-    "choice1": "El Ohmio (Ω)",
-    "choice2": "El Voltio (V)",
-    "choice3": "El Amperio (A)",
-    "choice4": "El Vatio (W)"
   }
 ]

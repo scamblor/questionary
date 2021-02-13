@@ -7,7 +7,7 @@
     - Battery
     - Altern current source
     - Motor
-    - Ground
+    - Earth
 
 - Title: Identify the Altern current source
   Question: What is the component of the image?
@@ -37,7 +37,7 @@
     - Switch
     - Two way Switch
     - Pushbutton
-    - Botón
+    - Rele
 
 - Title: Identify the Two way Switch
   Question: What is the component of the image?
@@ -119,12 +119,12 @@
     - Wattmeter
     - Light Bulb
 
-- Title: Identify the Ground
+- Title: Identify the Earth
   Question: What is the component of the image?
   Image: images/electric-simbolo-tierra.png
   Image_width: 180
   Choices:
-    - Ground
+    - Earth
     - Battery
     - Antenna
     - Receiver
@@ -189,13 +189,13 @@
     - Double conductor
     - Transistor
 
-- Title: Identify the Mass
+- Title: Identify the Ground plane
   Question: What is the component of the image?
   Image: images/electric-simbolo-masa.png
   Image_width: 180
   Choices:
-    - Mass
-    - Ground
+    - Ground plane
+    - Earth
     - Battery
     - Brush
 
@@ -316,7 +316,7 @@
   Choices:
     - Connector
     - Squared
-    - Ground
+    - Ground plane
     - Mass
 
 - Title: Identify the Polarized Capacitor

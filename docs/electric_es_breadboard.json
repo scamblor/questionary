@@ -1,0 +1,132 @@
+﻿[
+  {
+    "title": "¿Cómo están conectadas las resistencias en la breadboard?",
+    "question": "¿Cómo están conectadas las resistencias en la breadboard?",
+    "image": "images/5c1122a3a7147446f96e.png",
+    "image_width": "479",
+    "choice1": "1 en paralelo, 2 en serie",
+    "choice2": "Las dos en serie",
+    "choice3": "Las dos en paralelo",
+    "choice4": "1 en serie, 2 en paralelo"
+  },
+  {
+    "title": "¿Cómo están conectadas las resistencias en la breadboard?",
+    "question": "¿Cómo están conectadas las resistencias en la breadboard?",
+    "image": "images/f0928c151450100d0cbc.png",
+    "image_width": "168",
+    "choice1": "Las dos en serie",
+    "choice2": "1 en serie, 2 en paralelo",
+    "choice3": "1 en paralelo, 2 en serie",
+    "choice4": "Las dos en paralelo"
+  },
+  {
+    "title": "¿Por qué resistencias pasará corriente?",
+    "question": "¿Por qué resistencias pasará corriente?",
+    "image": "images/052c65bfe4aaed6fac64.png",
+    "image_width": "271",
+    "choice1": "Por 1 y 2",
+    "choice2": "Por todas",
+    "choice3": "Por 2 y 3",
+    "choice4": "Por ninguna"
+  },
+  {
+    "title": "¿Qué montajes se corresponden con el esquema?",
+    "question": "¿Qué montajes se corresponden con el esquema?",
+    "image": "images/7ee1ae375699a7936ce1.png",
+    "image_width": "686",
+    "choice1": "1",
+    "choice2": "2",
+    "choice3": "3",
+    "choice4": "Ninguno"
+  },
+  {
+    "title": "¿Cuándo encenderá el led verde?",
+    "question": "¿Cuándo encenderá el led verde?",
+    "image": "images/3543db91223b2e7024e7.png",
+    "image_width": "452",
+    "choice1": "Si tengo presionados los dos pulsadores",
+    "choice2": "Si presiono el pulsador de la derecha",
+    "choice3": "Si presiono el pulsador de la izquierda",
+    "choice4": "En ningún caso"
+  },
+  {
+    "title": "¿Cuál es falsa para el circuito de la figura?",
+    "question": "¿Cuál es falsa para el circuito de la figura?",
+    "image": "images/3543db91223b2e7024e7.png",
+    "image_width": "452",
+    "choice1": "Puedo encender el led verde sin que encienda el led rojo",
+    "choice2": "Para encender el led verde tengo que haber presionado el pulsador de la izquierda",
+    "choice3": "Para encender el led verde tengo que haber presionado el pulsador de la derecha",
+    "choice4": "El led rojo enciende cuando presiono el pulsador de la derecha"
+  },
+  {
+    "title": "¿A qué esquema se corresponde el circuito de la breadboard?",
+    "question": "¿A qué esquema se corresponde el circuito de la breadboard?",
+    "image": "images/a208f6e67e60758d73e1.png",
+    "image_width": "457",
+    "choice1": "Al rosa",
+    "choice2": "Al azul",
+    "choice3": "Al verde",
+    "choice4": "Al naranja"
+  },
+  {
+    "title": "Quiero que el led encienda cuando presiono el pulsador. ¿Hay algún fallo?",
+    "question": "Quiero que el led encienda cuando presiono el pulsador. ¿Hay algún fallo?",
+    "image": "images/98de1685e48f059c354f.png",
+    "image_width": "191",
+    "choice1": "Los cables no están en los terminales correctos del pulsador",
+    "choice2": "El led está puesto del revés",
+    "choice3": "La resistencia no está conectada al led",
+    "choice4": "No hay fallos, va a encender"
+  },
+  {
+    "title": "Quiero que el led encienda solo cuando presiono los dos pulsadores. ¿Hay algún fallo?",
+    "question": "Quiero que el led encienda solo cuando presiono los dos pulsadores. ¿Hay algún fallo?",
+    "image": "images/b4676d75bb0160cb826e.png",
+    "image_width": "249",
+    "choice1": "Ninguno",
+    "choice2": "El led encenderá cuando presione cualquiera de los interruptores",
+    "choice3": "El cable verde no conecta los terminales correctos de los interruptores",
+    "choice4": "La resistencia no está conectada en el terminal correcto del pulsador"
+  },
+  {
+    "title": "¿Cuál es falsa para el circuito de la figura?",
+    "question": "¿Cuál es falsa para el circuito de la figura?",
+    "image": "images/eda25c4df5cc3a03d2f0.png",
+    "image_width": "357",
+    "choice1": "El led no encenderá nunca",
+    "choice2": "El led encenderá cuando presione el interruptor izquierdo",
+    "choice3": "El led encenderá si presiono el pulsador derecho",
+    "choice4": "Si tengo presionados los dos interruptores, el led encenderá"
+  },
+  {
+    "title": "¿Qué ledes se encenderán cuando presione el pulsador?",
+    "question": "¿Qué ledes se encenderán cuando presione el pulsador?",
+    "image": "images/23355b8df7240822220c.png",
+    "image_width": "458",
+    "choice1": "El verde y el rojo",
+    "choice2": "El azul y el rojo",
+    "choice3": "El rojo",
+    "choice4": "El azul y el verde"
+  },
+  {
+    "title": "¿Cuál es cierta para el circuito de la figura?",
+    "question": "¿Cuál es cierta para el circuito de la figura?",
+    "image": "images/e69e73d8ad47372d0dad.png",
+    "image_width": "240",
+    "choice1": "Cada interruptor enciende un led",
+    "choice2": "No podré encender el led verde si no presiono el interruptor de la derecha",
+    "choice3": "Si presiono el pulsador de la derecha, encienden los dos leds",
+    "choice4": "El verde está siempre encendido, aunque no presione ningún pulsador"
+  },
+  {
+    "title": "¿Qué cable tengo que quitar para que el led encienda desde cualquiera de los dos pulsadores?",
+    "question": "¿Qué cable tengo que quitar para que el led encienda desde cualquiera de los dos pulsadores?",
+    "image": "images/45f459b4c376963882c2.png",
+    "image_width": "242",
+    "choice1": "El naranja",
+    "choice2": "El verde",
+    "choice3": "El azul",
+    "choice4": "El amarillo"
+  }
+]
